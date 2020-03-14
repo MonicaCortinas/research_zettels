@@ -1,9 +1,8 @@
 ---
 tags: [Notebooks/perceivedquality, Notebooks/purchaseintention, perceivedquality, purchaseintention]
-title: '2003090859 Calidad Percibida -> Intención Compra'
+title: 2003090859 Calidad Percibida -> Intención Compra
 created: '2020-03-09T17:38:09.386Z'
-modified: '2020-03-13T18:53:49.570Z'
-
+modified: '2020-03-14T05:49:49.070Z'
 ---
 
 # La calidad percibida de un producto influye en la intención de compra de un producto
@@ -14,7 +13,7 @@ Es uno de los supuestos más básicos y más utilizados en marketing.
 
 La calidad percibida se relaciona también a nivel agregado con la cuota de mercado, ya que si a nivel individual los consumidores están más interesados en comprarlo, también comprarán más en su conjunto. 
 
-@bao_motivating_2011 citan a Richardson et al 1994, 1996 para apoyarse en esta hipótesis. 
+@bao2011_motivating citan a Richardson et al 1994, 1996 para apoyarse en esta hipótesis. 
 
 
 

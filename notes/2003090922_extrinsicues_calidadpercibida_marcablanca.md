@@ -2,7 +2,7 @@
 tags: [extrinsiccues, Notebooks/perceivedquality, perceivedquality, privatelabel]
 title: 2003090922 Extrinsic Cues -> Perceived quality (private labels)
 created: '2020-03-09T17:38:09.464Z'
-modified: '2020-03-13T19:21:57.394Z'
+modified: '2020-03-14T05:50:00.002Z'
 ---
 
 # Las señales intangibles extrínsecas son útiles para mejorar la calidad percibida de los productos de marca blanca
@@ -17,7 +17,7 @@ La referencia básica en esto es Olson y Jacoby 1972.
 
 Señales tangibles extrínsecas pueden ser el **precio o la marca**
 
-Señales intangibles son la **imagen de la tienda** o lo adecuada que es la marca blanca para una categoría de producto determinada [@bao_motivating_2011]. Así, la mejora por parte del minorista de estas señales extrínsecas contribuye al conjunto del establecimiento y también a sus marcas blancas.
+Señales intangibles son la **imagen de la tienda** o lo adecuada que es la marca blanca para una categoría de producto determinada [@bao2011_motivating]. Así, la mejora por parte del minorista de estas señales extrínsecas contribuye al conjunto del establecimiento y también a sus marcas blancas.
 
 ¿Qué otras señales intangibles extrínsecas se podrían detectar? ¿Esto afecta por igual a las marcas nacionales?
 

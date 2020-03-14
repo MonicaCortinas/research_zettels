@@ -2,12 +2,12 @@
 tags: [artificialintelligence, chatbot, education, Notebooks/artificialintelligence, Notebooks/education]
 title: 2003101700_aprendizaje_interactivo_educacion_futuro
 created: '2020-03-10T16:00:55.880Z'
-modified: '2020-03-14T04:50:42.539Z'
+modified: '2020-03-14T05:50:42.513Z'
 ---
 
 # La importancia del aprendizaje altamente interactivo en la educación del futuro
 
-@borkTutorialLearningNew2000 repasó hace 20 años su visión de la eduación del futuro en el Journal of Science, Education and Technology y ya entonces señalaba como, en el cambio de paradigma en distintos niveles que suponían los entornos mediados por la tecnología, un aspecto importante iba a ser lo que denomina "tutorial learning", aprendizajes tutorizados en entornos computerizados que son altamente interactivos y que se adaptan muy bien a las necesidades de múltiples estudiantes dispersos geográficamente.
+@bork2001_tutorial repasó hace 20 años su visión de la eduación del futuro en el Journal of Science, Education and Technology y ya entonces señalaba como, en el cambio de paradigma en distintos niveles que suponían los entornos mediados por la tecnología, un aspecto importante iba a ser lo que denomina "tutorial learning", aprendizajes tutorizados en entornos computerizados que son altamente interactivos y que se adaptan muy bien a las necesidades de múltiples estudiantes dispersos geográficamente.
 
 Los chatbots son una tecnología que permite la implementación de este paradigma de tutorial learning, con la adaptación en tiempo real del contenido a las necesidades y demandas de distintos estudiantes, allá donde estos estén.
 
@@ -16,6 +16,7 @@ Los chatbots son una tecnología que permite la implementación de este paradigm
 
 
 - [Index](_2003101705_index.md)
+- [Usar dispositivos móviles en el desarrollo de experimentos docentes mejora el interés y el resultado de aprendizaje](2003141156_mobiledevices_learning_education.md)
 
 --
 

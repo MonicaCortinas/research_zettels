@@ -2,14 +2,14 @@
 tags: [Notebooks/perceivedquality, perceivedquality, storeimage]
 title: 2003090942_imagen_tienda_calidadpercibida_marcablanca
 created: '2020-03-09T17:38:09.464Z'
-modified: '2020-03-14T04:47:27.018Z'
+modified: '2020-03-14T05:50:07.758Z'
 ---
 
 # La imagen global de un establecimiento afecta positivamente a la calidad percibida de su marca blanca
 
 Si un establecimiento tiene una imagen buena en general, los productos de marca blanca de una determinada categoría se percibirán como de mayor calidad.
 
-[@bao_motivating_2011] analizan como tanto en el caso de las droguerías como de los establecimientos de venta de electrodomésticos, si una tienda se percibe como con una imagen global mejor, los productos se perciben como de más calidad.
+[@bao2011_motivating] analizan como tanto en el caso de las droguerías como de los establecimientos de venta de electrodomésticos, si una tienda se percibe como con una imagen global mejor, los productos se perciben como de más calidad.
 
 
 Preguntas ¿esto solo afecta a las marcas blancas o también a las marcas nacionales cuando se venden en distintos establecimientos?

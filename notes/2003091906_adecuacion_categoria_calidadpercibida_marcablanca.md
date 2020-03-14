@@ -2,14 +2,14 @@
 tags: [extrinsiccues, Notebooks/perceivedquality, perceivedquality, privatelabel, productsignatureness]
 title: 2003091906_adecuacion_categoria_calidadpercibida_marcablanca
 created: '2020-03-09T18:06:07.685Z'
-modified: '2020-03-14T04:48:42.438Z'
+modified: '2020-03-14T05:50:13.749Z'
 ---
 
 # La adecuación de la categoría de producto al establecimiento mejora la calidad percibida de la marca blanca
 
 Si una categoría de producto se considera más "típica" del tipo de establecimiento (denominado "signatureness"), los productos con marca blanca de ese categoría se perciben como de mayor calidad. 
 
-@bao_motivating_2011 establecen esta hipótesis en droguerías y tiendas de electrónica, seleccionando productos típicos de la categoría y otros que no lo son y confirmando esta idea. Se supone que el producto es de más calidad porque los minoristas cuidan más sus categorías "insignia".
+@bao2011_motivating establecen esta hipótesis en droguerías y tiendas de electrónica, seleccionando productos típicos de la categoría y otros que no lo son y confirmando esta idea. Se supone que el producto es de más calidad porque los minoristas cuidan más sus categorías "insignia".
 
 
 Preguntas ¿esto es un efecto más puntual de este paper o algo generalizable? Esta idea de "tipismo" de una categoría de producto no se reproduce fácilmente al caso de, por ejemplo, supermercados. 

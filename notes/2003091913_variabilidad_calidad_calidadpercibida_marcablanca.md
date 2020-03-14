@@ -2,14 +2,14 @@
 tags: [extrinsiccues, Notebooks/perceivedquality, perceivedquality, privatelabel, qualityvariation]
 title: 2003091913_variabilidad_calidad_calidadpercibida_marcablanca
 created: '2020-03-09T18:13:39.590Z'
-modified: '2020-03-14T04:49:43.953Z'
+modified: '2020-03-14T05:50:20.396Z'
 ---
 
 # La variabilidad de calidad entre los productos de marca blanca de distintas categorías afecta negativamente a la calidad percibida de la marca blanca
 
 Si los consumidores perciben que la calidad de una marca blanca cambia mucho entre distintas categorías de producto, todas ellas se perciben con una calidad menor . 
 
-@bao_motivating_2011 establecen esta hipótesis en droguerías y tiendas de electrónica y se confirma, como cabe esperar. Si la calidad es variable, la calidad asignada a una determinada categoría tiende a ser más baja, ya que la uniformidad es en sí misma una señal de calidad.
+@bao2011_motivating establecen esta hipótesis en droguerías y tiendas de electrónica y se confirma, como cabe esperar. Si la calidad es variable, la calidad asignada a una determinada categoría tiende a ser más baja, ya que la uniformidad es en sí misma una señal de calidad.
 
 Preguntas ¿hay interacciones entre esto y la "saliencia de la categoría". Pudiera ser que la variabilidad solo afectara a categorías menos relevantes para el minorista.
 
