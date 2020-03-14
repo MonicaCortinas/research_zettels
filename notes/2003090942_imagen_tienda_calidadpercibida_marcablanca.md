@@ -21,6 +21,9 @@ Preguntas ¿esto solo afecta a las marcas blancas o también a las marcas nacion
 - [la adecuación de la categoría al establecimiento como extrinsic cue de la calidad de la marca blanca](2003091906_adecuacion_categoria_calidadpercibida_marcablanca)
 - [la variabilidad de calidad entre categorías como extrinsic cue en la calidad de la marca blanca](2003091913_variabilidad_calidad_calidadpercibida_marcablanca.md)
 
+
+- [Index](_2003101705_index.md)
+
 --
 Referencia
 Bao, Y., Bao, Y., & Sheng, S. (2011). Motivating purchase of private brands: Effects of store image, product signatureness, and quality variation. Journal of Business Research, 64(2), 220-226. https://doi.org/10.1016/j.jbusres.2010.02.007

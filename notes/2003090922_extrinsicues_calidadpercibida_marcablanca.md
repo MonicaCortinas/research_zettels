@@ -19,6 +19,8 @@ Señales tangibles extrínsecas pueden ser el **precio o la marca**
 
 Señales intangibles son la **imagen de la tienda** o lo adecuada que es la marca blanca para una categoría de producto determinada [@bao_motivating_2011]. Así, la mejora por parte del minorista de estas señales extrínsecas contribuye al conjunto del establecimiento y también a sus marcas blancas.
 
+¿Qué otras señales intangibles extrínsecas se podrían detectar? ¿Esto afecta por igual a las marcas nacionales?
+
 #### Notas relacionadas: 
 
 - [la calidad percibida afecta a la intención de compra](2003090859_calidad_percibida_intencion_compra.md)
@@ -26,7 +28,10 @@ Señales intangibles son la **imagen de la tienda** o lo adecuada que es la marc
 - [la adecuación de la categoría al establecimiento como extrinsic cue de la calidad de la marca blanca](2003091906_adecuacion_categoria_calidadpercibida_marcablanca.md)
 - [la variabilidad de calidad entre categorías como extrinsic cue en la calidad de la marca blanca](2003091913_variabilidad_calidad_calidadpercibida_marcablanca.md)
 
-¿Qué otras señales intangibles extrínsecas se podrían detectar? ¿Esto afecta por igual a las marcas nacionales?
+
+- [Index](_2003101705_index.md)
+
+
 
 --
 Referencia

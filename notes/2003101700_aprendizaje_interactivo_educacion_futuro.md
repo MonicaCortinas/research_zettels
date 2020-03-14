@@ -14,11 +14,8 @@ Los chatbots son una tecnología que permite la implementación de este paradigm
 
 #### Notas relacionadas: 
 
-- La relación entre calidad percibida e intención de compra: [relación calidad e intención](2003090859_calidad_percibida_intencion_compra.md)
 
-- Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [extrinsic cues](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
-
-#### Notas relacionadas: 
+- [Index](_2003101705_index.md)
 
 --
 
