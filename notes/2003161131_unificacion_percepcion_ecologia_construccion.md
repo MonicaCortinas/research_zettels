@@ -1,0 +1,28 @@
+---
+tags: [perception, engagement, Notebooks/perception, visualstimuli, ecology, constructivism]
+title: 2003161131_unificación teoría constructivista y ecológica percepción
+created: '2020-03-16T05:51:00.275Z'
+modified: '2020-03-16T05:51:00.275Z'
+---
+
+# La unificación de la teoría ecológica y la constructivista en la percepción.
+
+Según @adaval2018_seeing, Norman (2002) unifica la teoría ecológica y la constructivista asociando cada una de ellas a dos sistemas visuales distintos:
+
+- [teoría constructivista](2003161101_teoria_constructivista_percepcion.md): está relacionada con el sistema ventral dedicado al procesamiento de objetos (e incluye atributos como color, forma, logos...), condicionada por el individuo (y obedece por tanto a un modelo top down en el que la percepción se ve condicionada por los objetivos o experiencias del sujeto).
+
+- [teoría ecológica](2003161118_teoria_ecologica_percepcion.md): está relacionada con el sistema dorsal dedicado al procesamiento espacial y tiene que ver por tanto con el movimiento y la posición relativa de los distintos objetos. Es una evaluación más automática y refleja y por tanto responde mejor a un modelo bottom-up. También tiene que ver con la forma en que nos imaginamos las cosas para hacer predicciones sobre su movimiento por ejemplo (e.g. dónde estará un coche dentro de 2 segundos).
+
+
+Notas relacionadas:
+
+
+- [Index](_2003101705_index.md)
+- [Teoría constructivista de la percepción](2003161101_teoria_constructivista_percepcion.md)
+- [Teoría ecológica de la percepción](2003161118_teoria_ecologica_percepcion.md)
+
+--
+
+Referencias:
+
+Adaval, R., Saluja, G., & Jiang, Y. (2018). Seeing and thinking in pictures: A review of visual information processing. Consumer Psychology Review, (November 2018), 50–69. https://doi.org/10.1002/arcp.1049
