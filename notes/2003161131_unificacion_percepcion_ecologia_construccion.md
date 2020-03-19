@@ -13,6 +13,7 @@ Según @adaval2018_seeing, Norman (2002) unifica la teoría ecológica y la cons
 
 - [teoría ecológica](2003161118_teoria_ecologica_percepcion.md): está relacionada con el sistema dorsal dedicado al procesamiento espacial y tiene que ver por tanto con el movimiento y la posición relativa de los distintos objetos. Es una evaluación más automática y refleja y por tanto responde mejor a un modelo bottom-up. También tiene que ver con la forma en que nos imaginamos las cosas para hacer predicciones sobre su movimiento por ejemplo (e.g. dónde estará un coche dentro de 2 segundos).
 
+Estos estímulos luego se procesan en un modelo tipo [S-O-R](2003190944_compra_por_impulso_online.md)
 
 Notas relacionadas:
 
@@ -20,6 +21,7 @@ Notas relacionadas:
 - [Index](_2003101705_index.md)
 - [Teoría constructivista de la percepción](2003161101_teoria_constructivista_percepcion.md)
 - [Teoría ecológica de la percepción](2003161118_teoria_ecologica_percepcion.md)
+- [Resumen de factores en compra por impulso online según modelo S-O-R](2003190944_compra_por_impulso_online.md)
 
 --
 
