@@ -24,13 +24,13 @@ Dada la prevalencia e importancia del modelo S-O-R, en este trabajo también se 
   - La percepción de la urgencia por comprar impulsivamente: intención de compra, la urgencia de compra
   - La compra por impulso: compras no planificadas...
 
-La percepción de los estímulos online influiría en cómo se perciben los estímulos del tipo lanzadores externos ([Percepción de estímulos](2003190944_compra_por_impulso_online.md)). 
+La percepción de los estímulos online influiría en cómo se perciben los estímulos del tipo lanzadores externos ([Percepción de estímulos](2003161131_unificacion_percepcion_ecologia_construccion.md)). 
 
 Notas relacionadas:
 
 
 - [Index](_2003101705_index.md)
-- [Percepción de estímulos](2003190944_compra_por_impulso_online.md)
+- [Percepción de estímulos](2003161131_unificacion_percepcion_ecologia_construccion.md)
 
 
 --
