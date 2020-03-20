@@ -15,6 +15,8 @@ Según @adaval2018_seeing, Norman (2002) unifica la teoría ecológica y la cons
 
 Estos estímulos luego se procesan en un modelo tipo [S-O-R](2003190944_compra_por_impulso_online.md)
 
+La detección de qué estímulos pueden ser los favoritos puede hacerse por elección: [preferencias por videos en personas con discapacidad](2003200720_revelar_preferencia_porestimulos.md)
+
 Notas relacionadas:
 
 
