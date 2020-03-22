@@ -8,7 +8,7 @@ modified: '2020-03-21T20:03:00.275Z'
 # Qué son los métodos basados en set theoretic
 
 
-Los métodos de teoría basada en conjuntos aplican a las ciencias sociales la lógica de conjuntos y se basan en la idea de set de pertenencia o conjuntos para los distintos conceptos que manejamos en las ciencias sociales y la lógica de las relaciones entre dichos conjuntos.
+Los métodos de teoría basada en conjuntos aplican a las ciencias sociales la lógica de conjuntos y se basan en la idea de [set de pertenencia](2003221713_setdefinition_qca.md) o conjuntos para los distintos conceptos que manejamos en las ciencias sociales y la lógica de las relaciones entre dichos conjuntos.
 
 La metodología más utilizada (y desarrollada) dentro de los métodos set tehoretic es la llamada [Qualitative Comparative Analysis- QCA]((2003212024_qca_descripcion.md))
 
@@ -32,6 +32,8 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 
 - [Index](_2003101705_index.md)
 - [Qué es el QCA](2003212024_qca_descripcion.md)
+- [Qué es un set](2003221713_setdefinition_qca.md)
+- [Calibración](2003221733_calibracion_sets.md)
 
 --
 

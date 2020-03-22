@@ -40,6 +40,8 @@ Otras dos variantes son menos frecuentes:
 
 - [Index](_2003101705_index.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
+- [Qué es un set](2003221713_setdefinition_qca.md)
+- [Calibración](2003221733_calibracion_sets.md)
 
 --
 
