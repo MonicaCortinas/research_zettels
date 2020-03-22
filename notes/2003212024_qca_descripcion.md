@@ -1,5 +1,5 @@
 ---
-tags: [methods, fsQCA, csQCA, settheoretic Notebooks/QCA, Notebooks/methods]
+tags: [methods, fsQCA, csQCA, settheoretic, Notebooks/QCA, Notebooks/methods]
 title: 2003212003_Que es el QCA
 created: '2020-03-21T20:25:00.275Z'
 modified: '2020-03-21T20:25:00.275Z'

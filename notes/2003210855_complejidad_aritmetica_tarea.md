@@ -1,5 +1,5 @@
 ---
-tags: [attencion, perception, onlineshopping, experienceproducts, cognitiveload, grocery, Notebooks/attention, Notebooks/perception]
+tags: [attencion, perception, eyetracking, onlineshopping, experienceproducts, cognitiveload, grocery, Notebooks/attention, Notebooks/perception]
 title: 2003210840_La complejidad aritmética en la compra de alimentación en sitios online
 created: '2020-03-21T08:40:00.275Z'
 modified: '2020-03-21T08:40:00.275Z'
@@ -19,6 +19,7 @@ Este efecto también se puede ver moderado por la (atención a las imágenes)[20
 - [La atención a las imágenes mejora la actitud hacia el sitio en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [La carga cognitiva y sus efectos en la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
+- [Las tareas más orientadas centran la atención en los estímulos requeridos mientras que las más libres centran la atención en los más llamativos](2003220949_eyetracking_measures_differ_bytask.md)
 
 --
 
