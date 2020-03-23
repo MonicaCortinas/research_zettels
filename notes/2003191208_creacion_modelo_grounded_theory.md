@@ -5,6 +5,8 @@ created: '2020-03-19T12:08:00.275Z'
 modified: '2020-03-19T12:08:00.275Z'
 ---
 
+# El grounded theory para el desarrollo de teorías
+
 @noble1999_implementing en un artículo clásico en 1999 en el Journal of Marketing presentan una teoría completa sobre cuál es la relación entre la estrategia de marketing y su implementación en las organizaciones.
 
 Lo interesante aquí tiene que ver con todo el proceso que se presenta, ya que empiezan con Grounded Theory, después desarrollan las escalas para los doce constructos de los que no tienen medidas y después hacen la medición con un modelo completo SEM.

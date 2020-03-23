@@ -13,7 +13,7 @@ La atención se mide con los indicadores de eye tracking: tiempo hasta la primer
 
 En los resultados se observan tiempos de fijación mayores en la tarea más orientada, mientras que el tiempo de acceso al estímulo "mejor" es menor en el browsing libre: mayor capacidad de atracción cuando no hay un estímulo bottom up.
 
-**¿En nuestros resultados sale mayor atracción de la imagen en la navegación libre?**
+**¿En nuestros resultados sale mayor atracción de la imagen en la navegación libre?**: no podemos verlo así
 
 ## Notas relacionadas
 
@@ -22,6 +22,8 @@ En los resultados se observan tiempos de fijación mayores en la tarea más orie
 - [La carga cognitiva y sus efectos en la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
 - [La complejidad de la tarea afecta a la actitud hacia el sitio](2003210855_complejidad_aritmetica_tarea.md)
+- [La atención a la esquina derecha depende del sentido de lectura](2003230733_sentidodelectura_atenciónweb.md)
+- [Medidas de atención](2003230748_medidaseyetracking_fijaciones.md)
 
 --
 

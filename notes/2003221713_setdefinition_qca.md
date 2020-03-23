@@ -1,6 +1,6 @@
 ---
 tags: [methods, fsQCA, csQCA, settheoretic, set, Notebooks/QCA, Notebooks/methods]
-title: 200321713_Que es el QCA
+title: 2003211713_Que es un set en Set Theoretic method
 created: '2020-03-22T17:13:00.275Z'
 modified: '2020-03-22T17:13:00.275Z'
 ---
