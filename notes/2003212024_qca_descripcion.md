@@ -42,6 +42,7 @@ Otras dos variantes son menos frecuentes:
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Calibración](2003221733_calibracion_sets.md)
+- [Operaciones booleanas](2003231138_operaciones_boleanas.md)
 
 --
 

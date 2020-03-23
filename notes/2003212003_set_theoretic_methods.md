@@ -34,6 +34,7 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Calibración](2003221733_calibracion_sets.md)
+- [Operaciones booleanas](2003231138_operaciones_boleanas.md)
 
 --
 

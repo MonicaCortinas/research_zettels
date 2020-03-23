@@ -1,6 +1,6 @@
 ---
 tags: [methods, fsQCA, csQCA, settheoretic, set, Notebooks/QCA, Notebooks/methods]
-title: 2003211713_Que es un set en Set Theoretic method
+title: 2003211713_Que es un set
 created: '2020-03-22T17:13:00.275Z'
 modified: '2020-03-22T17:13:00.275Z'
 ---
@@ -41,6 +41,7 @@ Sería mucho mejor el segundo caso, porque en el primero, 1 de cada 100 veces po
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Calibración](2003221733_calibracion_sets.md)
+- [Operaciones booleanas](2003231138_operaciones_boleanas.md)
 
 --
 
