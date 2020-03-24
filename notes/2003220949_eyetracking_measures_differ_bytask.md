@@ -1,5 +1,5 @@
 ---
-tags: [methods, attencion, perception, eyetracking, product design, puchasetask, Notebooks/attention, Notebooks/perception]
+tags: [methods, attencion, perception, eyetracking, product design, purchasetask, Notebooks/attention, Notebooks/perception]
 title: 2003220949_Atención estimulos varía según tarea
 created: '2020-03-22T09:49:00.275Z'
 modified: '2020-03-22T09:49:00.275Z'
@@ -23,6 +23,7 @@ En los resultados se observan tiempos de fijación mayores en la tarea más orie
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
 - [La complejidad de la tarea afecta a la actitud hacia el sitio](2003210855_complejidad_aritmetica_tarea.md)
 - [La atención a la esquina derecha depende del sentido de lectura](2003230733_sentidodelectura_atenciónweb.md)
+- [La atención a los productos preparados cuando no se fija objetivo en la tarea](2003240723_interes_imagenes_alimentos_eyetracking.md)
 - [Medidas de atención](2003230748_medidaseyetracking_fijaciones.md)
 
 --

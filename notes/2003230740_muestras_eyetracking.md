@@ -13,6 +13,7 @@ Por ejemplo:
 - @guo2016_can utilizan 26 estudiantes chinos
 - @hernandez2017_escaping utilizan muestra de conveniencia de 25 nativos de lengua inglesa, 27 chinos y 22 árabes mayores de 18 años
 - @desrochers2019_arithmetic utilizan muestra de conveniencia de 31 participantes entre 19 y 30 años.
+- @hummel2017_influence usan 50 empleados de tres universidades
 
 ## Notas relacionadas
 
@@ -27,3 +28,4 @@ Referencias
 - Guo, F., Ding, Y., Liu, W., Liu, C., & Zhang, X. (2016). Can eye-tracking data be measured to assess product design?: Visual attention mechanism should be considered. International Journal of Industrial Ergonomics, 53, 229–235. https://doi.org/10.1016/j.ergon.2015.12.001
 - Hernandez, M. D., Wang, Y., Sheng, H., Kalliny, M., & Minor, M. (2017). Escaping the corner of death? An eye-tracking study of reading direction influence on attention and memory. Journal of Consumer Marketing, 34(1), 1–10. https://doi.org/10.1108/JCM-02-2016-1710
 - Desrochers, C., Léger, P. M., Fredette, M., Mirhoseini, S., & Sénécal, S. (2019). The arithmetic complexity of online grocery shopping: the moderating role of product pictures. Industrial Management and Data Systems, 119(6), 1206–1222. https://doi.org/10.1108/IMDS-04-2018-0151
+- Hummel, G., Zerweck, I., Ehret, J., Salazar Winter, S., & Stroebele-Benschop, N. (2017). The influence of the arrangement of different food images on participants’ attention: An experimental eye-tracking study. Food Quality and Preference, 62(July), 111–119. https://doi.org/10.1016/j.foodqual.2017.07.003
