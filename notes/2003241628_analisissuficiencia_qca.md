@@ -44,6 +44,7 @@ En lógica fuzzy ya no tenemos el criterio tan definido como en crips, pero tene
 
 > para que una condición sea suficiente, cada valor de X tiene que tener una puntuación **menor o igual que la puntuación en Y**, nunca mayor, porque eso indicaría que la puntuación de pertenecer a X es más alta que la puntuación de pertenecer a Y y por lo tanto ya no sería suficiente.
 
+![suficiencyfuzzy](./suficiency_fuzzy.jpg)
 
 ## Notas relacionadas
 

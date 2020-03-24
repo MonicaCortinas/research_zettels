@@ -24,7 +24,7 @@ En la teoría de set es importante también el concepto de **conjunctural causat
 
 Así, @schneider2012_set dan como definición de los métodos set-theoretic (page 6):
 
-> Set-theoretic methods are approaches to analyzing social reality in which a) the data consists of set membership scores; b) relations between social phenomena are modeled in terms of set relationships; and c) the results point to sufficient and necessary conditions and emphasize causal complexity in terms of INUS and SUIN causes. 
+> Set-theoretic methods are approaches to analyzing social reality in which a) the data consists of set membership scores; b) relations between social phenomena are modeled in terms of set relationships; and c) the results point to [sufficient](2003241628_analisissuficiencia_qca.md) and necessary conditions and emphasize causal complexity in terms of INUS and SUIN causes. 
 
 Los métodos set theoretic se llaman a veces "boolean methods", "logical methods", "Configurational Comparative Methods" y están relacionados incluso con técnicas como las tablas de contingencia o los modelos logit, que serían perspectivas alternativas.
 
@@ -35,6 +35,7 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Calibración](2003221733_calibracion_sets.md)
 - [Operaciones booleanas](2003231138_operaciones_boleanas.md)
+- [Condiciones suficientes](2003241628_analisissuficiencia_qca.md)
 
 --
 
