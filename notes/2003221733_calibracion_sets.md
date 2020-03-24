@@ -35,6 +35,8 @@ En general, los tres métodos deberían llevar a conclusiones similares, salvo q
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Operaciones booleanas](2003231138_operaciones_boleanas.md)
+- [Análisis de suficiencia](2003241628_analisissuficiencia_qca.md)
+- [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 
 --
 

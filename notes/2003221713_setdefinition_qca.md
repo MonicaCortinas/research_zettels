@@ -42,6 +42,9 @@ Sería mucho mejor el segundo caso, porque en el primero, 1 de cada 100 veces po
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Calibración](2003221733_calibracion_sets.md)
 - [Operaciones booleanas](2003231138_operaciones_boleanas.md)
+- [Análisis de suficiencia](2003241628_analisissuficiencia_qca.md)
+- [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
+
 
 --
 

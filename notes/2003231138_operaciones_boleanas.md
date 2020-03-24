@@ -53,6 +53,7 @@ Para agregar operaciones, es necesario tener en cuenta las propiedades de estos 
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Cómo calibrar](2003221733_calibracion_sets.md)
 - [Condiciones suficientes](2003241628_analisissuficiencia_qca.md)
+- [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 
 --
 

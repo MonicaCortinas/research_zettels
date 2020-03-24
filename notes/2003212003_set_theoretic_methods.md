@@ -36,6 +36,7 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 - [Calibración](2003221733_calibracion_sets.md)
 - [Operaciones booleanas](2003231138_operaciones_boleanas.md)
 - [Condiciones suficientes](2003241628_analisissuficiencia_qca.md)
+- [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 
 --
 

@@ -54,6 +54,7 @@ En lógica fuzzy ya no tenemos el criterio tan definido como en crips, pero tene
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Cómo calibrar](2003221733_calibracion_sets.md)
 - [Lógica booleana](2003231138_operaciones_boleanas.md)
+- [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 
 --
 
