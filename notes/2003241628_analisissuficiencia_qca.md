@@ -30,7 +30,7 @@ En lógica crisp, para que una condición pueda ser suficiente se tienen que pro
 |Y = 1  | puede haber o no haber casos | n casos |
 |Y = 0  | puede haber o no haber casos | 0 casos |
 
-![sufficiency](suficiency.jpg)
+![sufficiency](./suficiency.jpg)
 
 Como veíamos en las [operaciones booleanas](2003231138_operaciones_boleanas.md), la suficiencia implica la inclusión de X en Y, es decir, que X es un subconjunto del conjunto Y que a su vez es un subconjunto de todos los sets posibles.
 
