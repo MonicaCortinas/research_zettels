@@ -7,7 +7,7 @@ modified: '2020-03-23T11:39:00.275Z'
 
 # Operaciones básicas en teoría de sets.
 
-El capítulo 3 del libro de @schneider2012_set recoge cómo se opera con los conjuntos de sets, que se puede describir desde tres teorías matemáticas:
+El capítulo 2 del libro de @schneider2012_set recoge cómo se opera con los conjuntos de sets, que se puede describir desde tres teorías matemáticas:
 
 - la teoría de la lógica de las proposiciones
 - el álgebra booleana
@@ -52,6 +52,7 @@ Para agregar operaciones, es necesario tener en cuenta las propiedades de estos 
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Cómo calibrar](2003221733_calibracion_sets.md)
+- [Condiciones suficientes](2003241628_analisissuficiencia_qca.md)
 
 --
 
