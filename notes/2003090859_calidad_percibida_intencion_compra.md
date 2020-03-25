@@ -19,11 +19,13 @@ La calidad percibida se relaciona también a nivel agregado con la cuota de merc
 
 #### Notas relacionadas: 
 
+- [Index](_2003101705_index.md)
+
 - La relación calidad percibida, intención de compra está mediada por la conciencia de valor: [conciencia de valor](2003091917_concienciavalor_modera_calidad_intencion.md)
 
 - Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [extrinsic cues](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
 
-- [Index](_2003101705_index.md)
+
 --
 # Referencias
 
