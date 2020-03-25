@@ -46,6 +46,7 @@ Sería mucho mejor el segundo caso, porque en el primero, 1 de cada 100 veces po
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tamaño de la muestra en QCA](2003250723_tamanomuestraenQCA.md)
+- [Múltiples causas complejas para explicar los segmentos omnicanal](2003251146_omnicanalidadypropension_promocion.md)
 
 --
 
