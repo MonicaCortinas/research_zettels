@@ -54,6 +54,7 @@ Para agregar operaciones, es necesario tener en cuenta las propiedades de estos 
 - [Cómo calibrar](2003221733_calibracion_sets.md)
 - [Condiciones suficientes](2003241628_analisissuficiencia_qca.md)
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
+- [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 
 --
 

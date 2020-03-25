@@ -1,5 +1,5 @@
 ---
-tags: [csQCA, fsQCA, methods, Notebooks/methods, Notebooks/QCA, settheoretic, necesity]
+tags: [csQCA, fsQCA, methods, Notebooks/methods, Notebooks/QCA, settheoretic, necessity]
 title: 2003241901_Análisis de necesidad QCA
 created: '2020-03-24T19:01:00.275Z'
 modified: '2020-03-24T19:01:07.962Z'
@@ -23,14 +23,15 @@ Una condición X es necesaria para un resultado Y si se cumple X ← Y o, dicho 
 |Y = 0  | puede haber o no haber casos |puede haber o no haber casos |
 
  Expresado como conjuntos:
-![necessity](./necessity.jpg)
+![necessity](./2003241901_necessity.jpg)
 
 
  - En **fuzzy** comprobamos que para todo X, X >= Y (al contrario que en suficiencia, donde para todo X, X<=Y).
 
-![necessity](./necessity_fuzzy.jpg)
+![necessity](./2003241901_necessity_fuzzy.jpg)
 
 En suficiencia, teníamos que comprobar además la suficiencia de las condiciones **AND** porque una condición individual puede no ser necesaria y la combinación sí. Sin embargo, en necesidad esto no tiene sentido, porque para que una combinación AND fuera necesaria, todas las condiciones individuales tendrían que serlo.
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)

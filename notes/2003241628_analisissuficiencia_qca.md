@@ -30,7 +30,7 @@ En lógica crisp, para que una condición pueda ser suficiente se tienen que pro
 |Y = 1  | puede haber o no haber casos | n casos |
 |Y = 0  | puede haber o no haber casos | 0 casos |
 
-![sufficiency](./suficiency.jpg)
+![sufficiency](./2003241628_suficiency.jpg)
 
 Como veíamos en las [operaciones booleanas](2003231138_operaciones_boleanas.md), la suficiencia implica la inclusión de X en Y, es decir, que X es un subconjunto del conjunto Y que a su vez es un subconjunto de todos los sets posibles.
 
@@ -44,7 +44,7 @@ En lógica fuzzy ya no tenemos el criterio tan definido como en crips, pero tene
 
 > para que una condición sea suficiente, cada valor de X tiene que tener una puntuación **menor o igual que la puntuación en Y**, nunca mayor, porque eso indicaría que la puntuación de pertenecer a X es más alta que la puntuación de pertenecer a Y y por lo tanto ya no sería suficiente.
 
-![suficiencyfuzzy](./suficiency_fuzzy.jpg)
+![suficiencyfuzzy](./2003241628_suficiency_fuzzy.jpg)
 
 ## Notas relacionadas
 
@@ -55,6 +55,7 @@ En lógica fuzzy ya no tenemos el criterio tan definido como en crips, pero tene
 - [Cómo calibrar](2003221733_calibracion_sets.md)
 - [Lógica booleana](2003231138_operaciones_boleanas.md)
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
+- [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 
 --
 
