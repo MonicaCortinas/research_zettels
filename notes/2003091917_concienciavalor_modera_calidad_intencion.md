@@ -12,6 +12,8 @@ Los consumidores más concienciados con el valor del producto, que valoran mucho
 
 @bao2011_motivating lo testan en el trabajo sobre marcas blancas, pero este es un efecto generalizable a otras categorías distintas.
 
+La conciencia de valor también reduce el efecto que tienen los [cambios en el resaltado de la información sobre el precio unitario](2003251015_atencion_precio_unitario_eyetracking.md), ya que los consumidores conscientes del precio, le prestan atención esté o no esté resaltada esta información. 
+
 
 #### Notas relacionadas: 
 
@@ -19,10 +21,12 @@ Los consumidores más concienciados con el valor del producto, que valoran mucho
 
 - Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [extrinsic cues](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
 
+- [La atención a la información sobre el precio unitario depende de la conciencia de valor](2003251015_atencion_precio_unitario_eyetracking.md)
 
 - [Index](_2003101705_index.md)
 
 --
 # Referencias
 
-Bao, Y., Bao, Y., & Sheng, S. (2011). Motivating purchase of private brands: Effects of store image, product signatureness, and quality variation. Journal of Business Research, 64(2), 220-226. https://doi.org/10.1016/j.jbusres.2010.02.007
+- Bao, Y., Bao, Y., & Sheng, S. (2011). Motivating purchase of private brands: Effects of store image, product signatureness, and quality variation. Journal of Business Research, 64(2), 220-226. https://doi.org/10.1016/j.jbusres.2010.02.007
+- Bogomolova, S., Oppewal, H., Cohen, J., & Yao, J. (2020). How the layout of a unit price label affects eye-movements and product choice: An eye-tracking investigation. Journal of Business Research, 111, 102–116. https://doi.org/10.1016/j.jbusres.2018.10.049

@@ -5,6 +5,8 @@ created: '2020-03-20T07:20:00.275Z'
 modified: '2020-03-20T07:20:00.275Z'
 ---
 
+# Cómo revelar el orden de preferencia para un conjunto de videos
+
 @curiel2018_examining presentan un método que viene del campo de la discapacidad para saber cuáles son los estímulos preferidos y poder utilizarlos después como recompensa. El método vale igual para comido, chucherías o similares o para bienes virtuales, en su caso vídeos.
 
 Lo denominan Multiple Stimulus without Replacement o, en otra versión, brief  Multiple Stimulus without Replacement y consiste simplemente en presentar simultáneamente todos los estímulos y que es sujeto vaya eligiendo según su preferencia. Este procedimiento se repite varias veces en la versión tradicional y en la brief solamente tres veces.

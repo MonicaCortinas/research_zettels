@@ -24,6 +24,7 @@ Notas relacionadas:
 - [Teoría constructivista de la percepción](2003161101_teoria_constructivista_percepcion.md)
 - [Teoría ecológica de la percepción](2003161118_teoria_ecologica_percepcion.md)
 - [Resumen de factores en compra por impulso online según modelo S-O-R](2003190944_compra_por_impulso_online.md)
+- [Cómo afecta el color, las fuentes, la posición y el tamaño a la percepción del precio unitario](2003251015_atencion_precio_unitario_eyetracking.md)
 
 --
 

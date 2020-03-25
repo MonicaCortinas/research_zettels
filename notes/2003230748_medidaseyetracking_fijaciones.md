@@ -13,7 +13,7 @@ El tiempo que se considera puede variar. Por ejemplo, en nuestro experimento ECR
 
 Estas fijaciones se pueden agregar de distintas formas para hacer los análisis:
 
-- Duración de la fijación como medida de atención, que puede agregarse como duración media o como duración total  [@desrochers2019_arithmetic; @hernandez2017_escaping; @guo2016_can; @hummel2017_influence]
+- Duración de la fijación como medida de atención, que puede agregarse como duración media o como duración total  [@desrochers2019_arithmetic; @hernandez2017_escaping; @guo2016_can; @hummel2017_influence; @bogomolova2020_how]
 - Número de hits en un área: las veces que se ha alcanzado ese área independientemente de la duración [@hernandez2017_escaping; @hummel2017_influence]
 - Tiempo hasta la primera fijación en un área [@guo2016_can]
 - Revisitas: las veces que vuelve a un área después de la primera [@guo2016_can; @hummel2017_influence]
@@ -26,6 +26,7 @@ Estas fijaciones se pueden agregar de distintas formas para hacer los análisis:
 
 Referencias
 
+- Bogomolova, S., Oppewal, H., Cohen, J., & Yao, J. (2020). How the layout of a unit price label affects eye-movements and product choice: An eye-tracking investigation. Journal of Business Research, 111, 102–116. https://doi.org/10.1016/j.jbusres.2018.10.049
 - Guo, F., Ding, Y., Liu, W., Liu, C., & Zhang, X. (2016). Can eye-tracking data be measured to assess product design?: Visual attention mechanism should be considered. International Journal of Industrial Ergonomics, 53, 229–235. https://doi.org/10.1016/j.ergon.2015.12.001
 - Hernandez, M. D., Wang, Y., Sheng, H., Kalliny, M., & Minor, M. (2017). Escaping the corner of death? An eye-tracking study of reading direction influence on attention and memory. Journal of Consumer Marketing, 34(1), 1–10. https://doi.org/10.1108/JCM-02-2016-1710
 - Desrochers, C., Léger, P. M., Fredette, M., Mirhoseini, S., & Sénécal, S. (2019). The arithmetic complexity of online grocery shopping: the moderating role of product pictures. Industrial Management and Data Systems, 119(6), 1206–1222. https://doi.org/10.1108/IMDS-04-2018-0151
