@@ -47,6 +47,8 @@ Sería mucho mejor el segundo caso, porque en el primero, 1 de cada 100 veces po
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tamaño de la muestra en QCA](2003250723_tamanomuestraenQCA.md)
 - [Múltiples causas complejas para explicar los segmentos omnicanal](2003251146_omnicanalidadypropension_promocion.md)
+- [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
+- [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 
 --
 

@@ -39,6 +39,9 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tamaño de la muestra en QCA](2003250723_tamanomuestraenQCA.md)
+- [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
+- [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
+
 
 --
 

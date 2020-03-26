@@ -56,6 +56,8 @@ En lógica fuzzy ya no tenemos el criterio tan definido como en crips, pero tene
 - [Lógica booleana](2003231138_operaciones_boleanas.md)
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
+- [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
+- [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 
 --
 

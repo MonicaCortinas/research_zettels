@@ -55,6 +55,8 @@ Para agregar operaciones, es necesario tener en cuenta las propiedades de estos 
 - [Condiciones suficientes](2003241628_analisissuficiencia_qca.md)
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
+- [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
+- [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 
 --
 
