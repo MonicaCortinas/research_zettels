@@ -19,6 +19,7 @@ La actitud hacia el sitio web se mide con una escala de 7 items de Chen y Wells�
 - [Las tareas más orientadas centran la atención en los estímulos requeridos mientras que las más libres centran la atención en los más llamativos](2003220949_eyetracking_measures_differ_bytask.md)
 - [La carga cognitiva y sus efectos en la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
+- [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 
 --
 
