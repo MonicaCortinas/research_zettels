@@ -11,7 +11,7 @@ Existen distintos segmentos de consumidores en el uso de los canales para accede
 
 Los consumidores usan una variedad de canales para acceder a las promociones, pero mayoritariamente se comportan de forma omnicanal offline o de forma omnicanal online. Es decir, se mantienen dentro de un mismo entorno, debido a cuestiones como el acceso a las tiendas o la experiencia.
 
-@valentini2020_identifying analizan esto en el Journal of Retailing con datos de tres encuestas en alimentación, noda y electrónica y encuentran que el 82% de los consumidores están en este caso.
+@valentini2020_identifying analizan esto en el Journal of Retailing con datos de tres encuestas en alimentación, moda y electrónica y encuentran que el 82% de los consumidores están en este caso.
 
 Explican la segmentación (estimada con cluster latente), en función de lo que denominan MOA: Motivations, Opportunities, Abbilities y hay múltiples causas que explican la pertenencia a los segmentos. **Esto es interesante porque permite justificar que las relaciones entre las condiciones son complejas y por tanto tiene sentido el QCA.**
 
