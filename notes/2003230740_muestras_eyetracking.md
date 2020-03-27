@@ -16,6 +16,7 @@ Por ejemplo:
 - @hummel2017_influence usan 50 empleados de tres universidades
 - @juaneda2018_product usan 32 individuos
 - @jiang2019_applying usan 26 estudiantes
+- @li2016_visual usan 37 estudiantes
 
 Otras sin embargo, utilizan muestras mayores:
 
@@ -38,3 +39,5 @@ Referencias
 - Hummel, G., Zerweck, I., Ehret, J., Salazar Winter, S., & Stroebele-Benschop, N. (2017). The influence of the arrangement of different food images on participants’ attention: An experimental eye-tracking study. Food Quality and Preference, 62(July), 111–119. https://doi.org/10.1016/j.foodqual.2017.07.003
 - Jiang, J. Y., Guo, F., Chen, J. H., Tian, X. H., & Lv, W. (2019). Applying eye-tracking technology to measure interactive experience toward the navigation interface of mobile games considering different visual attention mechanisms. Applied Sciences, 9(16). https://doi.org/10.3390/app9163242
 - Juanéda, C., Sénécal, S., & Léger, P.-M. (2018). Product Web Page Design: A Psychophysiological Investigation of the Influence of Product Similarity, Visual Proximity on Attention and Performance. In F. F.-H. Xiao & B. S. Nah (Eds.), HCIBGO 2018. Lecture Notes in Computer Science (pp. 327–337, 2018). https://doi.org/10.1007/978-3-319-91716-0_25
+- Li, Q., Huang, Z. J., & Christianson, K. (2016). Visual attention toward tourism photographs with text: An eye-tracking study. Tourism Management, 54, 243–258. https://doi.org/10.1016/j.tourman.2015.11.017
+

@@ -1,5 +1,5 @@
 ---
-tags: [attencion, perception, onlineshopping, experienceproducts, cognitiveload, grocery, Notebooks/attention, Notebooks/perception]
+tags: [attencion, perception, eyetracking, onlineshopping, experienceproducts, cognitiveload, grocery, Notebooks/attention, Notebooks/perception]
 title: 2003210809_La atención a las fotos en un sitio web mejora la actitud hacia el sitio cuando se compran productos de experiencia
 created: '2020-03-21T08:11:00.275Z'
 modified: '2020-03-21T08:11:00.275Z'
@@ -15,12 +15,15 @@ Los productos de experiencia los definen, como están hablando de compra de alim
 
 La actitud hacia el sitio web se mide con una escala de 7 items de Chen y Wells’ (1999) seven-point Likert scale.
 
+## Notas relacionadas
+
 - [Index](_2003101705_index.md)
 - [Las tareas más orientadas centran la atención en los estímulos requeridos mientras que las más libres centran la atención en los más llamativos](2003220949_eyetracking_measures_differ_bytask.md)
 - [La carga cognitiva y sus efectos en la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La atención a la pantalla en juegos móviles cambia en el free browsing frente a la definición de tareas](2003261714_eyetracking_mobile_games.md)
+- [La atención al texto insertado dentro de una imagen](2003270812_atencion_texto_dentroimagen.md)
 
 --
 

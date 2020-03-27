@@ -13,8 +13,8 @@ El tiempo que se considera puede variar. Por ejemplo, en nuestro experimento ECR
 
 Estas fijaciones se pueden agregar de distintas formas para hacer los análisis:
 
-- Duración de la fijación como medida de atención, que puede agregarse como duración media o como duración total  [@desrochers2019_arithmetic; @hernandez2017_escaping; @guo2016_can; @hummel2017_influence; @bogomolova2020_how; @juaneda2018_product; jiang2019_applying]
-- Número de hits en un área: las veces que se ha alcanzado ese área independientemente de la duración [@hernandez2017_escaping; @hummel2017_influence]
+- Duración de la fijación como medida de atención, que puede agregarse como duración media o como duración total  [@desrochers2019_arithmetic; @hernandez2017_escaping; @guo2016_can; @hummel2017_influence; @bogomolova2020_how; @juaneda2018_product; jiang2019_applying; @li2016_visual]
+- Número de hits en un área: las veces que se ha alcanzado ese área independientemente de la duración [@hernandez2017_escaping; @hummel2017_influence; @li2016_visual]
 - Tiempo hasta la primera fijación en un área [@guo2016_can; @jiang2019_applying]
 - Revisitas: las veces que vuelve a un área después de la primera [@guo2016_can; @hummel2017_influence]
 
@@ -33,3 +33,4 @@ Referencias
 - Hummel, G., Zerweck, I., Ehret, J., Salazar Winter, S., & Stroebele-Benschop, N. (2017). The influence of the arrangement of different food images on participants’ attention: An experimental eye-tracking study. Food Quality and Preference, 62(July), 111–119. https://doi.org/10.1016/j.foodqual.2017.07.003
 - Juanéda, C., Sénécal, S., & Léger, P.-M. (2018). Product Web Page Design: A Psychophysiological Investigation of the Influence of Product Similarity, Visual Proximity on Attention and Performance. In F. F.-H. Xiao & B. S. Nah (Eds.), HCIBGO 2018. Lecture Notes in Computer Science (pp. 327–337, 2018). https://doi.org/10.1007/978-3-319-91716-0_25
 - Jiang, J. Y., Guo, F., Chen, J. H., Tian, X. H., & Lv, W. (2019). Applying eye-tracking technology to measure interactive experience toward the navigation interface of mobile games considering different visual attention mechanisms. Applied Sciences, 9(16). https://doi.org/10.3390/app9163242
+- Li, Q., Huang, Z. J., & Christianson, K. (2016). Visual attention toward tourism photographs with text: An eye-tracking study. Tourism Management, 54, 243–258. https://doi.org/10.1016/j.tourman.2015.11.017
