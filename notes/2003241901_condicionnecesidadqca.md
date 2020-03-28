@@ -42,7 +42,7 @@ En suficiencia, teníamos que comprobar además la suficiencia de las condicione
 - [Lógica booleana](2003231138_operaciones_boleanas.md)
 - [Análisis de suficiencia](2003241628_analisissuficiencia_qca.md)
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
-- [Cobertura de condiciones suficientes](2003280911_covertura_solucionsuficiente.md)
+- [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 
 --
 

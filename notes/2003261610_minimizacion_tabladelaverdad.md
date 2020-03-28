@@ -59,7 +59,7 @@ A veces podemos simplificar implicantes principales redundantes más allá del a
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tablas de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
-- [Cobertura de condiciones suficientes](2003280911_covertura_solucionsuficiente.md)
+- [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 
 --
 

@@ -1,6 +1,6 @@
 ---
 tags: [csQCA, fsQCA, methods, Notebooks/methods, Notebooks/QCA, coverage]
-title: 2003280911_Covertura en las tablas de la verdad
+title: 2003280911_Cobertura en las tablas de la verdad
 created: '2020-03-28T09:13:00.275Z'
 modified: '2020-03-28T09:13:07.962Z'
 ---
@@ -11,7 +11,7 @@ La cobertura trata de explicar qué parte del outcome Y queda explicada por la *
 
 En la figura se refleja este concepto:
 
-![covertura_suficientes](2003280911_covertura_suficientes.jpg)
+![cobertura_suficientes](2003280911_cobertura_suficientes.jpg)
 
 Las tres condiciones tienen un pequeño grado de inconsistencia, pero la cobertura de X1 es mucho mayor, la de X2 es intermedia y la de X3 es muy baja.
 
@@ -47,7 +47,7 @@ Así:
 > Unique coverage o cobertura única es la proporción del outcome que está explicada, de forma exclusiva, por una condición suficiente.
 > Solution coverage o cobertura de la solución es la proporción del outcome que está explicada por el conjunto de la solución.
 
-Para calcular las coberturas únicas se resta de la covertura de la solución la covertura del resto de condiciones.
+Para calcular las coberturas únicas se resta de la cobertura de la solución la cobertura del resto de condiciones.
 
 Así, en la figura, la cobertura única de X3 (area III) es la cobertura de la solución (áreas I, II, III y IV) menos la cobertura bruta de las otras dos condiciones (áreas I, II y IV).
 

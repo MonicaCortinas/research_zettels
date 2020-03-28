@@ -9,7 +9,7 @@ modified: '2020-03-21T08:40:00.275Z'
 
 @desrochers2019_arithmetic proponen (aunque no se confirma en sus resultados) cómo en la compra de alimentación, una mayor esfuerzo mental en la compra como el tener que hacer operaciones para calcular las cantidades necesarias de cada producto puede empeorar la actitud hacia la compra.
 
-Este efecto también se puede ver moderado por la (atención a las imágenes)[2003210809_atencionfotos_productosexperiencia.md] (soportado al 10%) y por la [carga cognitiva](2003210840_medicion_efectos_cargacognitiva.md) total (no soportado en los resultados) y la variación de la carga cognitiva (con efecto significativo).
+Este efecto también se puede ver moderado por la [atención a las imágenes](2003210809_atencionfotos_productosexperiencia.md) (soportado al 10%) y por la [carga cognitiva](2003210840_medicion_efectos_cargacognitiva.md) total (no soportado en los resultados) y la variación de la carga cognitiva (con efecto significativo).
 
 **pregunta**: ¿este efecto de la aritmética podría extrapolarse en general al efecto de la complejidad de la tarea? ¿Esperaríamos un efecto negativo de la complejidad de la tarea en la actitud hacia el sitio web?
 

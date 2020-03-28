@@ -17,6 +17,7 @@ Por ejemplo:
 - @juaneda2018_product usan 32 individuos
 - @jiang2019_applying usan 26 estudiantes
 - @li2016_visual usan 37 estudiantes
+- @luan2018_context 35 estudiantes
 
 Otras sin embargo, utilizan muestras mayores:
 
@@ -40,4 +41,4 @@ Referencias
 - Jiang, J. Y., Guo, F., Chen, J. H., Tian, X. H., & Lv, W. (2019). Applying eye-tracking technology to measure interactive experience toward the navigation interface of mobile games considering different visual attention mechanisms. Applied Sciences, 9(16). https://doi.org/10.3390/app9163242
 - Juanéda, C., Sénécal, S., & Léger, P.-M. (2018). Product Web Page Design: A Psychophysiological Investigation of the Influence of Product Similarity, Visual Proximity on Attention and Performance. In F. F.-H. Xiao & B. S. Nah (Eds.), HCIBGO 2018. Lecture Notes in Computer Science (pp. 327–337, 2018). https://doi.org/10.1007/978-3-319-91716-0_25
 - Li, Q., Huang, Z. J., & Christianson, K. (2016). Visual attention toward tourism photographs with text: An eye-tracking study. Tourism Management, 54, 243–258. https://doi.org/10.1016/j.tourman.2015.11.017
-
+- Luan, J., Yao, Z., Shen, Y., & Xiao, J. (2018). Context congruity effects of online product recommendations: an eye-tracking study. Online Information Review, 42(6), 847–863. https://doi.org/10.1108/OIR-02-2017-0035

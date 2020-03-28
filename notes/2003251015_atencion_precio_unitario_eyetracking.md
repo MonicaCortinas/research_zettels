@@ -1,8 +1,8 @@
 ---
 tags: [methods, attencion, perception, eyetracking, unitprice, Notebooks/attention, Notebooks/perception, priceconciusness]
-title: 2003240723_Atención a productos preparados frente a crudos
-created: '2020-03-24T07:23:00.275Z'
-modified: '2020-03-24T07:23:00.275Z'
+title: 2003251015_Atención a la información sobre precios unitarios en la etiqueta
+created: '2020-03-25T10:23:00.275Z'
+modified: '2020-03-25T10:23:00.275Z'
 ---
 
 # La atención a la información sobre el precio unitario depende de lo resaltada que esté esa información
