@@ -75,3 +75,4 @@ La consistencia se basa en la suficiencia de una condición lo que implica que p
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tablas de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Minimización de las tablas de la verdad](2003261610_minimizacion_tabladelaverdad.md)
+- [Cobertura de condiciones suficientes](2003280911_covertura_solucionsuficiente.md)

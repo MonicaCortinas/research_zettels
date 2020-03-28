@@ -59,6 +59,7 @@ En lógica fuzzy ya no tenemos el criterio tan definido como en crips, pero tene
 - [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
 - [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
+- [Cobertura de condiciones suficientes](2003280911_covertura_solucionsuficiente.md)
 
 --
 
