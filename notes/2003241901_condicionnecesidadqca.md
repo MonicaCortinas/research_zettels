@@ -41,6 +41,8 @@ En suficiencia, teníamos que comprobar además la suficiencia de las condicione
 - [Cómo calibrar](2003221733_calibracion_sets.md)
 - [Lógica booleana](2003231138_operaciones_boleanas.md)
 - [Análisis de suficiencia](2003241628_analisissuficiencia_qca.md)
+- [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
+
 
 --
 
