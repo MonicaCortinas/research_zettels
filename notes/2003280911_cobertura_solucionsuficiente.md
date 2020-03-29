@@ -65,3 +65,10 @@ Así, en la figura, la cobertura única de X3 (area III) es la cobertura de la s
 - [Tablas de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Minimización de las tablas de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
+- [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
+
+--
+
+Referencias:
+
+Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.

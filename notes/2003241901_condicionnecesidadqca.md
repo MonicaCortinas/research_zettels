@@ -26,7 +26,7 @@ Una condición X es necesaria para un resultado Y si se cumple X ← Y o, dicho 
 ![necessity](./2003241901_necessity.jpg)
 
 
- - En **fuzzy** comprobamos que para todo X, X >= Y (al contrario que en suficiencia, donde para todo X, X<=Y).
+ - En **fuzzy** comprobamos que para todo X, **X >= Y** (al contrario que en suficiencia, donde para todo X, X<=Y). (por debajo de la diagonal en el gráfico)
 
 ![necessity](./2003241901_necessity_fuzzy.jpg)
 
@@ -43,6 +43,7 @@ En suficiencia, teníamos que comprobar además la suficiencia de las condicione
 - [Análisis de suficiencia](2003241628_analisissuficiencia_qca.md)
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
+- [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 
 --
 
