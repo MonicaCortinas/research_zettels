@@ -25,6 +25,7 @@ La calidad percibida se relaciona también a nivel agregado con la cuota de merc
 
 - Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [extrinsic cues](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
 
+- [La calidad percibida aumenta cuando se percibe más presión de tiempo](2003291731_escasezdetiempoaumentaatencion.md)
 
 --
 # Referencias

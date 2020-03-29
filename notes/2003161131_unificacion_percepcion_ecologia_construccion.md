@@ -27,6 +27,7 @@ Notas relacionadas:
 - [Cómo afecta el color, las fuentes, la posición y el tamaño a la percepción del precio unitario](2003251015_atencion_precio_unitario_eyetracking.md)
 - [La atención a las fotos mejora la actitud hacia el sitio](2003210809_atencionfotos_productosexperiencia.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
+- [La atención a un estímulo aumenta cuando hay más presión de tiempo](2003291731_escasezdetiempoaumentaatencion.md)
 
 --
 

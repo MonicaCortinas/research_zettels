@@ -13,8 +13,8 @@ El tiempo que se considera puede variar. Por ejemplo, en nuestro experimento ECR
 
 Estas fijaciones se pueden agregar de distintas formas para hacer los análisis:
 
-- Duración de la fijación como medida de atención, que puede agregarse como duración media o como duración total  [@desrochers2019_arithmetic; @hernandez2017_escaping; @guo2016_can; @hummel2017_influence; @bogomolova2020_how; @juaneda2018_product; jiang2019_applying; @li2016_visual; @luan2018_context]
-- Número de hits en un área: las veces que se ha alcanzado ese área independientemente de la duración [@hernandez2017_escaping; @hummel2017_influence; @li2016_visual; @luan2018_context]
+- Duración de la fijación como medida de atención, que puede agregarse como duración media o como duración total  [@desrochers2019_arithmetic; @hernandez2017_escaping; @guo2016_can; @hummel2017_influence; @bogomolova2020_how; @juaneda2018_product; jiang2019_applying; @li2016_visual; @luan2018_context; @mou2018_effects]
+- Número de hits en un área: las veces que se ha alcanzado ese área independientemente de la duración [@hernandez2017_escaping; @hummel2017_influence; @li2016_visual; @luan2018_context; @mou2018_effects]
 - Tiempo hasta la primera fijación en un área [@guo2016_can; @jiang2019_applying]
 - Revisitas: las veces que vuelve a un área después de la primera [@guo2016_can; @hummel2017_influence]
 
@@ -35,3 +35,4 @@ Referencias
 - Jiang, J. Y., Guo, F., Chen, J. H., Tian, X. H., & Lv, W. (2019). Applying eye-tracking technology to measure interactive experience toward the navigation interface of mobile games considering different visual attention mechanisms. Applied Sciences, 9(16). https://doi.org/10.3390/app9163242
 - Li, Q., Huang, Z. J., & Christianson, K. (2016). Visual attention toward tourism photographs with text: An eye-tracking study. Tourism Management, 54, 243–258. https://doi.org/10.1016/j.tourman.2015.11.017
 - Luan, J., Yao, Z., Shen, Y., & Xiao, J. (2018). Context congruity effects of online product recommendations: an eye-tracking study. Online Information Review, 42(6), 847–863. https://doi.org/10.1108/OIR-02-2017-0035
+- Mou, J., & Shin, D. (2018). Effects of social popularity and time scarcity on online consumer behaviour regarding smart healthcare products: An eye-tracking approach. Computers in Human Behavior, 78, 74–89. https://doi.org/10.1016/j.chb.2017.08.049

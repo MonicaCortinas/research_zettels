@@ -14,6 +14,7 @@ En este trabajo, afirman que los resultados de atención no se trasladan a la me
 @hernandez2017_escaping que analizan el sentido de lectura en un sitio web entre usuarios con lectura bidireccional (árabes) y unidireccional, también encuentran un resultado similar, con diferencias en la atención al logo, pero no en el nivel de recuerdo de ese logo.
 
 - [Index](_2003101705_index.md)
+- [Teoría general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
 - [La atención al logo según el sentido de lectura](2003230733_sentidodelectura_atenciónweb.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
