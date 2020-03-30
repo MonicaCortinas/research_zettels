@@ -39,7 +39,7 @@ La combinación a la que se asigna el caso es **A~B~C** como podríamos pensar i
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
 - [Cobertura de condiciones suficientes](2003280911_covertura_solucionsuficiente.md)
 - [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
-
+- [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
 
 --
 

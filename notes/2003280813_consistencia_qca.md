@@ -77,6 +77,7 @@ La consistencia se basa en la suficiencia de una condición lo que implica que p
 - [Minimización de las tablas de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
+- [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
 
 --
 
