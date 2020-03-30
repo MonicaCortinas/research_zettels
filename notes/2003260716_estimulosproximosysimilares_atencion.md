@@ -14,13 +14,18 @@ Utilizan las leyes Gestalt de la proximidad y la similaridad, para proponer:
 - que los estímulos más parecidos y los que están más cerca se perciben como miembros del mismo grupo y se les presta más atención. Los resultados dan confirmación débil, sale el efecto interacción entre ambos.
 - que los estímulos más parecidos y los que están más cerca hacen mejorar la identificación del estímulo: aquí su justificación es floja. Yo creo que no tiene nada que ver con Gestalt, sino que al percibirse como similares, el esfuerzo cognitivo de identificación es mayor y por eso se acierta más.
 
+
 En este trabajo estaríamos hablando de una perspectiva top-down (ya que se fija un solo objetivo) y bottom-up: la manipulación de proximidad y similaridad.
+
+Estos resultados están relacionados con los de [Rothlein, 2018](2003301121_atencion_sostenida_similaridad.md) que estudian el efecto en la atención sostenida de la similaridad de los estímulos. Cuando los estímulos son similares, la tarea es más lenta y se cometen más errores, pero los individuos que son más sensibles a esa similaridad (que perciben los estímulos como más distintos) sostienen la atención mejor.
 
 #### Notas relacionadas: 
 
 - [Index](_2003101705_index.md)
 
 - [Teoría constructivista en la percepción de estímulos visuales](2003161131_unificacion_percepcion_ecologia_construccion.md)
+
+- [Atención sostenida en base a similaridad de los estímulos](2003301121_atencion_sostenida_similaridad.md)
 
 - [Muestras en eyetracking](2003230740_muestras_eyetracking.md)
 
