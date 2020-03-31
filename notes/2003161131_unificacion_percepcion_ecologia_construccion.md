@@ -28,6 +28,7 @@ Notas relacionadas:
 - [La atención a las fotos mejora la actitud hacia el sitio](2003210809_atencionfotos_productosexperiencia.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La atención a un estímulo aumenta cuando hay más presión de tiempo](2003291731_escasezdetiempoaumentaatencion.md)
+- [La atención a los puntos de un sitio web depende de su saliencia y de las convenciones esperadas](2003310840_saliencia_convencion_atencion_sitio.md)
 
 --
 
