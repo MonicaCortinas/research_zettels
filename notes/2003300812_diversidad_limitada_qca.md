@@ -65,6 +65,7 @@ La solución intermedia es un superset de la solución compleja y un subset de l
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Suficiencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
+- [Resumen algoritmo tabla de la verdad](2003311642_resumen_algoritmo_tabla_verdad.md)
 
 --
 

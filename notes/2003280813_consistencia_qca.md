@@ -57,6 +57,8 @@ En fuzzy sets se expresa como:
 
 La consistencia mínima que debemos exigir para considerar una condición suficiente depende de las bases teóricas (más alta cuanto mayores son las bases teóricas), del número de casos (más alta cuanto menos casos) o de la confianza en el proceso de calibración (más alta).
 
+![logically contradictory cases](2003311642_logically_contradictory_b.png)
+
 La consistencia se basa en la suficiencia de una condición lo que implica que podemos hablar de:
 
 - consistencia de una fila: se denomina también **raw consistency**
@@ -78,6 +80,7 @@ La consistencia se basa en la suficiencia de una condición lo que implica que p
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 - [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
+- [Resumen algoritmo tabla de la verdad](2003311642_resumen_algoritmo_tabla_verdad.md)
 
 --
 
