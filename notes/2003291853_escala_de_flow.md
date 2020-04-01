@@ -1,5 +1,5 @@
 ---
-tags: [flow, scale, videogames, Notebooks/onlinepurchase, s-o-r]
+tags: [flow, scale, videogames,Notebooks/videogames,  Notebooks/onlinepurchase, s-o-r]
 title: 2003291853_Las escalas de flow
 created: '2020-03-29T18:44:00.275Z'
 modified: '2020-03-29T18:44:00.275Z'
@@ -83,6 +83,8 @@ Otras escalas son las derivadas específicamente para algunas actividades como e
 
 - [Index](_2003101705_index.md)
 - [La compra por impulso online, teorías que la explican](2003190944_compra_por_impulso_online.md)
+- [La validación de las escalas DSF-2 en el contexto de juego](2003311902_validacion_dSF2.md)
+- [El modelo de flow de Novak](2004010934_modelonovak_flow.md)
 - [Desarrollo de teorías a partir de grounded theory](2003191208_creacion_modelo_grounded_theory.md)
 
 

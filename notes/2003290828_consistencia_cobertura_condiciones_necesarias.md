@@ -1,6 +1,6 @@
 ---
 tags: [csQCA, fsQCA, methods, Notebooks/methods, Notebooks/QCA, coverage, consistency, necessity]
-title: 20032900828_Consistencia y cobertura en condiciones necesarias
+title: 2003290828_Consistencia y cobertura en condiciones necesarias
 created: '2020-03-29T08:13:00.275Z'
 modified: '2020-03-29T08:13:07.962Z'
 ---
