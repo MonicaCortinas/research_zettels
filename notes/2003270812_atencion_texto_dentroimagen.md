@@ -18,10 +18,13 @@ Se usa eye tracking y medidas de finaciones: 37 sujetos.
 
 **Pregunta** ¿Cambiaría la atención al precio si se inserta en la imagen?
 
+Es necesario tener aquí en cuenta [el efecto de la complejidad y el contraste en complejidad en la atención](2004011126_visual_contrast_complexity_web_experience.md)
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
+- [El efecto de la complejidad y el contraste en complejidad en la atención](2004011126_visual_contrast_complexity_web_experience.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La atención a la pantalla en juegos móviles cambia en el free browsing frente a la definición de tareas](2003261714_eyetracking_mobile_games.md)
 

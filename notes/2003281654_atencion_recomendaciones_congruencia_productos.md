@@ -19,7 +19,10 @@ Después se mide el recuerdo y se utilizan también dos niveles de implicación 
 
 Se observa que la congruencia del producto aumenta la atención y también el recuerdo en la mayoría de los casos (aunque no en todos).
 
+Se podría argumentar que los estímulos más congruentes generan menor [complejidad] y por tanto el procesamiento es mejor.
+
 - [Index](_2003101705_index.md)
+- [El efecto de la complejidad y el contraste en complejidad en la atención](2004011126_visual_contrast_complexity_web_experience.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [La saliencia en la atención al sitio web](2003310840_saliencia_convencion_atencion_sitio.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)

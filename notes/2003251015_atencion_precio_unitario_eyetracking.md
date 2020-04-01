@@ -17,12 +17,15 @@ Se observa que efectivamente, la etiqueta resaltada afecta a la atención, pero 
 
 Un moderador que se incluye es la influencia de la conciencia de precio, que modera la relación entre el estímulo mejorado y la atención, ya que los consumidores más conscientes del precio se espera que presten más atención a este estímulo de todas formas, confirmándose la hipótesis.
 
-También se analiza el efecto de la consistencia y la repetición en la presentación de estos estímulos.
+También se analiza el efecto de la consistencia y la repetición en la presentación de estos estímulos. 
+
+También habría que pensar el posible efecto del incremento de la [complejidad](2004011126_visual_contrast_complexity_web_experience.md) en la presentación de la información, lo que podría perjudicar la experiencia
+
+
 
 #### Notas relacionadas: 
 
 - [Index](_2003101705_index.md)
-
-- La relación calidad percibida, intención de compra está mediada por la conciencia de valor: [conciencia de valor](2003091917_concienciavalor_modera_calidad_intencion.md)
-
+- [El efecto de la complejidad y el contraste en complejidad en la atención](2004011126_visual_contrast_complexity_web_experience.md)
+- La relación calidad percibida, intención de compra está mediada por [conciencia de valor](2003091917_concienciavalor_modera_calidad_intencion.md)
 - [Teoría constructivista en la percepción de estímulos visuales](2003161131_unificacion_percepcion_ecologia_construccion.md)

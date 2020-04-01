@@ -19,9 +19,12 @@ Sin embargo, por el contrario, sugieren que si hay mucha variación en la carga 
 
 También  @brooks2006_working señala que la motivación por una tarea puede contribuir positivamente a la memoria de trabajo que asignamos a esa tarea, por lo que afectaría a la carga cognitivia. 
 
+La carga cognitiva debería variar también en función de la [complejidad de los estímulos](2004011126_visual_contrast_complexity_web_experience.md)
+
 - [Index](_2003101705_index.md)
 - [La atención a las imágenes mejora la actitud hacia el sitio en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
+- [El efecto de la complejidad y el contraste en complejidad en la atención](2004011126_visual_contrast_complexity_web_experience.md)
 
 --
 
