@@ -32,6 +32,8 @@ Una condición X es necesaria para un resultado Y si se cumple X ← Y o, dicho 
 
 En suficiencia, teníamos que comprobar además la suficiencia de las condiciones **AND** porque una condición individual puede no ser necesaria y la combinación sí. Sin embargo, en necesidad esto no tiene sentido, porque para que una combinación AND fuera necesaria, todas las condiciones individuales tendrían que serlo.
 
+El análisis de necesidad siempre debe ir primero y configurarse en el proceso de simplificación para evitar [problemas del estándar análisis](2004020637_problemas_potenciales_QCA_extensiones.md)
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -44,6 +46,8 @@ En suficiencia, teníamos que comprobar además la suficiencia de las condicione
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
+- [Problemas y extensiones del Standard Analysis](2004020637_problemas_potenciales_QCA_extensiones.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

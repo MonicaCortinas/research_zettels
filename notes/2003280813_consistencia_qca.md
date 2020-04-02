@@ -81,6 +81,7 @@ La consistencia se basa en la suficiencia de una condición lo que implica que p
 - [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 - [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
 - [Resumen algoritmo tabla de la verdad](2003311642_resumen_algoritmo_tabla_verdad.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

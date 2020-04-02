@@ -15,6 +15,7 @@ El capítulo 3 del libro de @schneider2012_set (página 77) explica cómo aunque
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Qué es un set](2003221713_setdefinition_qca.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

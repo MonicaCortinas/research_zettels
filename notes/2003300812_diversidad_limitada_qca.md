@@ -46,7 +46,9 @@ En general, se usa la comparación de la solución conservadora y la solución p
 
 Ambas estrategias llevarían a la misma solución intermedia.
 
-La solución intermedia es un superset de la solución compleja y un subset de la solución más parsimoniosa
+La solución intermedia es un superset de la solución compleja y un subset de la solución más parsimoniosa. 
+
+En importante que los supuestos en la simplificación sean razonables para evitar los [Problemas y extensiones del Standard Analysis](2004020637_problemas_potenciales_QCA_extensiones.md) para lo que en el capítulo 8 del libro se propone el "Enhanced Standard Analysis".
 
 
  ## Notas relacionadas
@@ -66,6 +68,8 @@ La solución intermedia es un superset de la solución compleja y un subset de l
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Suficiencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 - [Resumen algoritmo tabla de la verdad](2003311642_resumen_algoritmo_tabla_verdad.md)
+- [Problemas y extensiones del Standard Analysis](2004020637_problemas_potenciales_QCA_extensiones.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

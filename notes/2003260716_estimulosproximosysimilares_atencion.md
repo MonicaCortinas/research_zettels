@@ -29,6 +29,8 @@ Estos resultados están relacionados con los de [Rothlein, 2018](2003301121_aten
 
 - [La saliencia en la atención al sitio web](2003310840_saliencia_convencion_atencion_sitio.md)
 
+- [Las expectativas sobre colocación de elementos en comercio electrónico](2004021623_expectativas_colocacion_banner_links.md)
+
 - [Muestras en eyetracking](2003230740_muestras_eyetracking.md)
 
 - [Medidas en eyetracking](2003230748_medidaseyetracking_fijaciones.md)

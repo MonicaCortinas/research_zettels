@@ -49,7 +49,8 @@ Sería mucho mejor el segundo caso, porque en el primero, 1 de cada 100 veces po
 - [Múltiples causas complejas para explicar los segmentos omnicanal](2003251146_omnicanalidadypropension_promocion.md)
 - [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
 - [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
-
+- [Problemas y extensiones del Standard Analysis](2004020637_problemas_potenciales_QCA_extensiones.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 --
 
 Referencias:

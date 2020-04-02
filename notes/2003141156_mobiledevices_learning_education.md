@@ -1,5 +1,5 @@
 ---
-tags: [education, engagement, interest, learning, motivation, Notebooks/education, Notebooks/motivation, workingmemory, chatbots]
+tags: [education, engagement, interest, learning, motivation, Notebooks/education, Notebooks/motivation, workingmemory, chatbot]
 title: 2003141156_mobiledevices - > learning
 created: '2020-03-14T05:51:00.275Z'
 modified: '2020-03-14T05:51:00.275Z'

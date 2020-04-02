@@ -31,7 +31,7 @@ Puede usarse con conjuntos pequeños y también con grandes (ya que no solo es u
 - csQCA: crips QCA considera booleanos 1/0 de pertenencia o no pertenencia
 - fsQCA: el crisp puede considerarse un caso particular de este. La lógica fuzzy tiene que ver con que hay distintos grados de pertenencia al conjunto
 
-Otras dos variantes son menos frecuentes:
+Otras dos variantes son menos frecuentes (@schneider2012_set, capítulo 10):
 
 - mvQCA: multi-value QCA: es para variables con categorías múltiples en vez de dicotómicas. Sería el logit multinomial del QCA
 - tQCA: temporal QCA: pensado para condiciones que tienen una perspectiva temporal. Es un caso particular del fsQCA
@@ -47,6 +47,7 @@ Otras dos variantes son menos frecuentes:
 - [Análisis de necesidad](2003241901_condicionnecesidadqca.md)
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tamaño de la muestra en QCA](2003250723_tamanomuestraenQCA.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

@@ -1,6 +1,6 @@
 ---
 tags: [artificialintelligence, chatbot, patents, Notebooks/artificialintelligence, Notebooks/methods]
-title: 2003250911el antropomorfismo del chatbot aumenta el compliance
+title: 2003250911_análisis del contenido de patentes de chatbots
 created: '2020-03-25T09:11:55.880Z'
 modified: '2020-03-25T09:11:55.880Z'
 ---

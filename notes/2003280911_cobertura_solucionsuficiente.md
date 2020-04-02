@@ -68,6 +68,7 @@ Así, en la figura, la cobertura única de X3 (area III) es la cobertura de la s
 - [Consistencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 - [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
 - [Resumen algoritmo tabla de la verdad](2003311642_resumen_algoritmo_tabla_verdad.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

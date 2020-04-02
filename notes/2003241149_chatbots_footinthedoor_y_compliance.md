@@ -1,11 +1,11 @@
 ---
 tags: [artificialintelligence, chatbot, compliance, Notebooks/artificialintelligence, footinthedoor]
-title: 2003241127_el antropomorfismo del chatbot aumenta el compliance
+title: 2003241127_el efecto foot in the door in compliance
 created: '2020-03-24T11:27:55.880Z'
 modified: '2020-03-24T11:27:55.880Z'
 ---
 
-# Cuando a un consumidor se le pide un pequeño favor i acepta, es más fácil que acepte otro (incluso si lo hace un chatbot)
+# Cuando a un consumidor se le pide un pequeño favor y acepta, es más fácil que acepte otro (incluso si lo hace un chatbot)
 
 @adam2020_AIbased en un experimento online con un chatbot manipulado comprueban como la teoría clásica en ventas del foot-in-door es también válidad para un chatbot.
 

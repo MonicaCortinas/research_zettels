@@ -48,6 +48,8 @@ Una vez que tenemos seleccionadas las filas con consistencia adecuada (e.g. aque
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Suficiencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 - [Diversidad limitada](2003300812_diversidad_limitada_qca.md)
+- [Problemas y extensiones del Standard Analysis](2004020637_problemas_potenciales_QCA_extensiones.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

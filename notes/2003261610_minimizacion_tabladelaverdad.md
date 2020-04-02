@@ -61,6 +61,7 @@ A veces podemos simplificar implicantes principales redundantes más allá del a
 - [Consistencia de condiciones suficientes](2003280813_consistencia_qca.md)
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 

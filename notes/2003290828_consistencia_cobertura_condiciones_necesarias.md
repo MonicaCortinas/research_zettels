@@ -44,6 +44,8 @@ En este sentido, sería mejor hablar de **relevancia** o de **no trivialidad**.
 
 > Otro ejemplo, Y = los discursos que dan en el parlamento, los parlamentarios X = nacidos en el país. Esta condición no presentaría una consistencia del 100% porque puede haber algún parlamentario extranjero, pero sería igualmente trivial.
  
+Como se indica en el capítulo 9 del libro de schneider2012_set, el análisis de necesidad siempre va antes que el de cobertura.
+
  ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -61,6 +63,7 @@ En este sentido, sería mejor hablar de **relevancia** o de **no trivialidad**.
 - [Cobertura de condiciones suficientes](2003280911_cobertura_solucionsuficiente.md)
 - [Diversidad limitada y recordatorios lógicos](2003300812_diversidad_limitada_qca.md)
 - [Resumen algoritmo tabla de la verdad](2003311642_resumen_algoritmo_tabla_verdad.md)
+- [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
 
 --
 
