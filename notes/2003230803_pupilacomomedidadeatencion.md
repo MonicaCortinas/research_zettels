@@ -15,6 +15,8 @@ Sin embargo, por el contrario, sugieren que si hay mucha variación en la carga 
 
 También hay bastantes medidas relacionadas con las pupilas en  @jiang2019_applying pero las medidas están muy poco explicadas teóricamente.
 
+Hay otro trabajo en el Journal of Marketing (2008) que usa el tamaño de la pupila y la desviación como medida de atención @brasel2008_breaking, aunque en este trabajo se analiza la atención a videos publicitarios y no a imágenes estáticas, y se comparan los reultados cuando se adelantan rápidamente y cuando se reproducen a velocidad normal.
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -24,6 +26,8 @@ También hay bastantes medidas relacionadas con las pupilas en  @jiang2019_apply
 --
 
 Referencias
+
+- Brasel, S. A., & Gips, J. (2008). Breaking Through Fast-Forwarding: Brand Information and Visual Attention. Journal of Marketing, 72(6), 31–48. https://doi.org/10.1509/jmkg.72.6.31
 
 - Desrochers, C., Léger, P. M., Fredette, M., Mirhoseini, S., & Sénécal, S. (2019). The arithmetic complexity of online grocery shopping: the moderating role of product pictures. Industrial Management and Data Systems, 119(6), 1206–1222. https://doi.org/10.1108/IMDS-04-2018-0151
 
