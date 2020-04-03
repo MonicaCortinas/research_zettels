@@ -7,6 +7,8 @@ modified: '2020-03-23T11:39:00.275Z'
 
 # Operaciones básicas en teoría de sets.
 
+La lógica booleana tiene sus raices en la matemática china del Yin y Yang y también el matemático Leibniz trabajó en profundidad en esta área, pero tuvo su mayor desarrollo cuando el matemático George Boole refinó el sistema binario para hacerlo útil para la lógica [@dusa2019_qca, capítulo 3]
+
 El capítulo 2 del libro de @schneider2012_set recoge cómo se opera con los conjuntos de sets, que se puede describir desde tres teorías matemáticas:
 
 - la teoría de la lógica de las proposiciones
@@ -42,7 +44,12 @@ Los cálculos son más sencillos de lo que parece:
 - OR: en crisp es 1 si cualquiera de ellos es 1, 0 en caso contrario. EN fuzzy es el valor **máximo**. No confundir que XOR que exige que solo uno sea 1 y que no se usa en set theory
 - NOT : en crisp y en fuzzy es 1- valor
 
-Para agregar operaciones, es necesario tener en cuenta las propiedades de estos operadores: conmutativa, asociativa, distributiva y la ley de DeMorgan para invertir las operaciones.
+Para agregar operaciones, es necesario tener en cuenta las propiedades de estos operadores: conmutativa, asociativa, distributiva y la ley de DeMorgan para invertir las operaciones:
+
+~(A+B) = ~A . ~B
+~(A . B) = ~A + ~B
+
+
 
 
 ## Notas relacionadas
@@ -63,7 +70,8 @@ Para agregar operaciones, es necesario tener en cuenta las propiedades de estos 
 
 Referencias:
 
-Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.
+- Duşa, A. (2019). QCA with R: A comprehensive resource. Springer International Publishing. https://doi.org/10.1007/9783319756684]
+- Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.
 
 
 

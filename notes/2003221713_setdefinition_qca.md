@@ -23,7 +23,15 @@ Los conjuntos crisp son un caso particular de los fuzzy que presentan las siguie
 - perdemos información empíricia al hacer la dicotomización
 - reducimos la robustez de los resultados al hacerlos depender del punto de corte
 
-Sin embargo, en los set fuzzy, asumimos que las **fronteras conceptuales** no están claramente definidas. Es decir, se utiliza una puntuación fuzzy no porque haya incertidumbre sobre la medición, sino porque la asignación al conjunto no es sí/no.
+Según @dusa2019_qca (capítulo 3) los sets crisp se pueden dividiar a su vez en:
+
+- crisp sets:
+  - bivalentes (son un caso particular de los multivalentes, aunque se usen más)
+  - multivalentes
+
+En los bivalentes el estado solo puede ser 0 o 1, mientras que en los multivalentes es de pertenencia a una entre un número determinado de categorías. 
+
+En los set fuzzy, asumimos que las **fronteras conceptuales** no están claramente definidas. Es decir, se utiliza una puntuación fuzzy no porque haya incertidumbre sobre la medición, sino porque la asignación al conjunto no es sí/no.
 
 Los sets fuzzy mantienen la ventaja de distinguir entre casos en sentido cualitativo y añadir la posibilidad de diferencia en grado.
 
@@ -55,4 +63,5 @@ Sería mucho mejor el segundo caso, porque en el primero, 1 de cada 100 veces po
 
 Referencias:
 
-Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.
+- Duşa, A. (2019). QCA with R: A comprehensive resource. In QCA with R: A Comprehensive Resource. https://doi.org/10.1007/9783319756684
+- Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.

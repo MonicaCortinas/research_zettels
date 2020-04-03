@@ -8,9 +8,9 @@ modified: '2020-03-21T20:03:00.275Z'
 # Qué son los métodos basados en set theoretic
 
 
-Los métodos de teoría basada en conjuntos aplican a las ciencias sociales la lógica de conjuntos y se basan en la idea de [set de pertenencia](2003221713_setdefinition_qca.md) o conjuntos para los distintos conceptos que manejamos en las ciencias sociales y la lógica de las relaciones entre dichos conjuntos.
+Los métodos de teoría basada en conjuntos aplican a las ciencias sociales la lógica de conjuntos y se basan en la idea de [set de pertenencia](2003221713_setdefinition_qca.md) o conjuntos para los distintos conceptos que manejamos en las ciencias sociales y la lógica de las relaciones entre dichos conjuntos. Un set puede considerarse en ciencias sociales equivalente a una categoría y a cada objeto dentro de un set lo denominamos "elemento". [@dusa2019_qca]
 
-La metodología más utilizada (y desarrollada) dentro de los métodos set tehoretic es la llamada [Qualitative Comparative Analysis- QCA]((2003212024_qca_descripcion.md))
+La metodología más utilizada (y desarrollada) dentro de los métodos set tehoretic es la llamada [Qualitative Comparative Analysis- QCA]((2003212024_qca_descripcion.md)). Según @dusa2019_qca (capítulo 3) la metodología QCA fue presentada en 1987 por Ragin, en el que se presentaban los "crisp sets" y posteriormente se introdujeron los fuzzy sets.
 
 El concepto de set es un concepto potente en ciencias sociales porque ya está implícito en la forma en la que se enuncian las hipótesis en muchos casos. Por ejemplo, si decimos que todos los países que pertenecen a la Unión Europea son países democráticos, podríamos expresarlo como que el conjunto de países miembros de la unión europea (X) es un subconjunto del conjunto de países democráticos.
 
@@ -27,6 +27,8 @@ Así, @schneider2012_set dan como definición de los métodos set-theoretic (pag
 > Set-theoretic methods are approaches to analyzing social reality in which a) the data consists of set membership scores; b) relations between social phenomena are modeled in terms of set relationships; and c) the results point to [sufficient](2003241628_analisissuficiencia_qca.md) and necessary conditions and emphasize causal complexity in terms of INUS and SUIN causes. 
 
 Los métodos set theoretic se llaman a veces "boolean methods", "logical methods", "Configurational Comparative Methods" y están relacionados incluso con técnicas como las tablas de contingencia o los modelos logit, que serían perspectivas alternativas.
+
+
 
 ## Notas relacionadas
 
@@ -49,3 +51,4 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 Referencias:
 
 Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.
+Duşa, A. (2019). QCA with R: A comprehensive resource. In QCA with R: A Comprehensive Resource. https://doi.org/10.1007/9783319756684
