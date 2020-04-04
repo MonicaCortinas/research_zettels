@@ -21,6 +21,7 @@ Esta idea de complejidad iría también relacionada con la de [congruencia](2003
 - [La atención a las recomendaciones es mayor cuando son más congruentes](2003281654_atencion_recomendaciones_congruencia_productos.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [La saliencia en la atención al sitio web](2003310840_saliencia_convencion_atencion_sitio.md)
+- [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 
 

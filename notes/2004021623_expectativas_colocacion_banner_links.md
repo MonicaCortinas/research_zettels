@@ -21,6 +21,7 @@ Estos resultados son una forma explícita de ver el mismo [mapa de convenciones]
 - [Modelo general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
 - [El mapa de convenciones](2003310840_saliencia_convencion_atencion_sitio.md)
 - [La atención a estímulos según su colocación en el sitio](2003260716_estimulosproximosysimilares_atencion.md)
+- [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 
 --
 

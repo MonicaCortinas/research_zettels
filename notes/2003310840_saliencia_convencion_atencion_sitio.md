@@ -26,6 +26,7 @@ Notas relacionadas:
 
 - [Index](_2003101705_index.md)
 - [Modelo general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
+- [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 
 --
 Referencias:

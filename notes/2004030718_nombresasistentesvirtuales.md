@@ -9,6 +9,8 @@ modified: '2020-04-03T11:27:55.880Z'
 
 Existen muchos maneras de llamar a los agentes virtuales en la literatura.
 
+## Asistentes de voz
+
 Si nos centramos en agentes virtuales de voz, como Alexa, Asistente de Google y Siri, una posible denominación es VAPA (Voice Activated Personal Assistant) [@easwara2015_privacy; @abdolrahmani2018_siri]. Así, estos agentes son distintos de los [chatbots](2003241127_chatbotsycustomercompliance.md), que están activados por texto.
 
 Otras posibles denominaciones para estos agentes son:
@@ -18,11 +20,24 @@ Otras posibles denominaciones para estos agentes son:
 - asistentes personales inteligentes (IPAs) [@debarcelos2020_intelligent; @cowan2017_what]
 - asistentes de voz inteligentes (SVAs) [@lee2019_hey]
 
+## Asistentes de texto
+
+Normalmente los asistentes que interactúan con las personas a través de mensajes escritos, se denominan chat bots.
+
+@luo2019_frontiers definen un chatbot como 
+
+> Essentially, AI chatbots are computer programs that simulate human conversations through voice commands or text chats and serve as virtual assistants to users
+
+En general, nosotros vamos a reservar el término chatbots para los asistentes que interactúan principalmente mediante mensajes de texto.
+
 ## Notas relacionadas
 
 
 - [Index](_2003101705_index.md)
 - [Historia de los agentes virtuales](2004030753_historia_agentes_virtuales.md)
+- [La presencia física de los asistentes virtuales](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
+- [Preferimos interactuar con personas que con chatbots](2004041604_preferimos_comprar_personas_chatbot.md)
+- [Alta Efectividad en ventas de los chatbots](2004041632_efectividad_chatbots.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
 - [Análisis de patentes sobre chatbots en los últimos 20 años](2003250911_analisistextopatentesparachatbots.md)
