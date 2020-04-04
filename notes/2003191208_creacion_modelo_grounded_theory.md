@@ -16,7 +16,7 @@ Notas relacionadas:
 
 
 - [Index](_2003101705_index.md)
-
+- [Indicadores formativos versus reflectivos en modelos de medida](2004041705_modelos_medida_indicadores_formativos.md)
 
 --
 
