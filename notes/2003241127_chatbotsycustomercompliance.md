@@ -26,6 +26,9 @@ Notas relacionadas:
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
 - [Análisis de patentes sobre chatbots en los últimos 20 años](2003250911_analisistextopatentesparachatbots.md)
+- [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
+- [El género de los asistentes virtuales](2004051710_genero_asistentes_virtuales.md)
+- [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 
 --
 References:

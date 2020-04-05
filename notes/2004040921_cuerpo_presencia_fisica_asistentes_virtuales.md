@@ -36,6 +36,7 @@ En el caso de Siri- Iphone o el Asistente de Google en un Smartphone, es discuti
 
 - [Index](_2003101705_index.md)
 - [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
+- [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 
 -- 
 

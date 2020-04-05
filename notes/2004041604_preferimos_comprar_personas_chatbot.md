@@ -18,6 +18,7 @@ Los chatbots proporcionan resultados tan buenos como los de los mejores vendedor
 - [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [Efectividad de los chatbots](2004041632_efectividad_chatbots.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
+- [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 
 --
 

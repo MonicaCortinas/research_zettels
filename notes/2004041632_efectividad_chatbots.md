@@ -18,6 +18,7 @@ Además, los clientes se comportan de manera más brusca, y perciben al agente c
 - [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
+- [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 
 --
 
