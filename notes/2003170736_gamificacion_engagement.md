@@ -1,5 +1,5 @@
 ---
-tags: [engagement, Notebooks/engagement, brandequity, gamification]
+tags: [engagement, Notebooks/engagement, Notebooks/videogames, brandequity, gamification]
 title: 2003170736_la gamificación aumenta el engagement con la marca
 created: '2020-03-17T07:47:00.275Z'
 modified: '2020-03-17T07:47:00.275Z'
