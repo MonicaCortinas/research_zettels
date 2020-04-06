@@ -5,7 +5,7 @@ created: '2020-04-03T11:27:55.880Z'
 modified: '2020-04-03T11:27:55.880Z'
 ---
 
-# El nombre de los agentes virtuales
+# Nomenclatura en los agentes virtuales
 
 Existen muchos maneras de llamar a los agentes virtuales en la literatura.
 
@@ -19,6 +19,7 @@ Otras posibles denominaciones para estos agentes son:
 - agentes de voz [@amary2019_music]
 - asistentes personales inteligentes (IPAs) [@debarcelos2020_intelligent; @cowan2017_what]
 - asistentes de voz inteligentes (SVAs) [@lee2019_hey]
+- agentes personales inteligentes (PIAs) [@moussawi2020_how]
 
 ## Asistentes de texto
 
@@ -36,7 +37,10 @@ En general, nosotros vamos a reservar el término chatbots para los asistentes q
 - [Index](_2003101705_index.md)
 - [Historia de los agentes virtuales](2004030753_historia_agentes_virtuales.md)
 - [La presencia física de los asistentes virtuales](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
+- [Antropomorfismo de agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [Preferimos interactuar con personas que con chatbots](2004041604_preferimos_comprar_personas_chatbot.md)
+- [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
+- [La intención de adopción en asistentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Alta Efectividad en ventas de los chatbots](2004041632_efectividad_chatbots.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
@@ -57,3 +61,5 @@ En general, nosotros vamos a reservar el término chatbots para los asistentes q
 - Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1
 
 - Gao, Y., Pan, Z., Wang, H., & Chen, G. (2018). Alexa, My Love: Analyzing Reviews of Amazon Echo. In L. Wang, G and Han, Q and Bhuiyan, MZA and Ma, X and Loulergue, F and Li, P and Roveri, M and Chen (Ed.), 2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) (pp. 372–380). https://doi.org/10.1109/SmartWorld.2018.00094
+
+- Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w
