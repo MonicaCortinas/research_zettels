@@ -19,9 +19,10 @@ El efecto del antropomorfismo se inscribe dentro de la teoría del **Social Pres
 
 En el experimento, además, se incluye el efecto del ["foot-in-door"](2003241149_chatbots_footinthedoor_y_compliance.md), es decir, al pedirles hacer un pequeño favor, están más dispuestos a hacer el segundo.
 
-Notas relacionadas:
+## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
+- [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)

@@ -31,6 +31,7 @@ Benbasat (1991).
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)

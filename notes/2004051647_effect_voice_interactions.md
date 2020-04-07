@@ -20,6 +20,7 @@ Los resultados se explican argumentando que este efecto se produce en el **engag
 - [Index](_2003101705_index.md)
 - [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
+- [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
 - [El género de los asistentes virtuales](2004051710_genero_asistentes_virtuales.md)
 - [Antropomorfismo de agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
