@@ -23,6 +23,7 @@ Estas fijaciones se pueden agregar de distintas formas para hacer los análisis:
 - [Index](_2003101705_index.md)
 - [Muestras en eyetracking](2003230740_muestras_eyetracking.md)
 - [El tamaño de la pupila como medida en eyetracking](2003230803_pupilacomomedidadeatencion.md)
+- [El eyetracker Eyetribe](2004071658_eyetracker_eyetribe.md)
 
 Referencias
 

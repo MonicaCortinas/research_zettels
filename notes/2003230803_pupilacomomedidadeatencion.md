@@ -22,6 +22,7 @@ Hay otro trabajo en el Journal of Marketing (2008) que usa el tamaño de la pupi
 - [Index](_2003101705_index.md)
 - [Muestras en eyetracking](2003230740_muestras_eyetracking.md)
 - [Fijaciones como medida en eye tracking](2003230748_medidaseyetracking_fijaciones.md)
+- [El eyetracker Eyetribe](2004071658_eyetracker_eyetribe.md)
 
 --
 
