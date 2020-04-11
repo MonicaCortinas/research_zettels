@@ -38,6 +38,7 @@ Benbasat (1991).
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 - [El tipo de lenguaje de los asistentes](2004051732_tipo_lenguaje_asistentes.md)
+- [Los usos profesionales de los agentes virtuales](2004081151_usos_profesionales_vapas.md)
 
 
 --

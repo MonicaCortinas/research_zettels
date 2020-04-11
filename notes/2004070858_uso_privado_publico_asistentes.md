@@ -34,7 +34,8 @@ En este sentido también, @easwara2015_privacy comparan la preocupación por la 
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
-
+- [Los usos profesionales de los agentes virtuales](2004081151_usos_profesionales_vapas.md)
+- [El uso de VAPAs en discapacidad](2004081204_uso_vapas_discapacidad.md)
 
 
 --

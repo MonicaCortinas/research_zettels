@@ -55,6 +55,7 @@ and Koufaris (2019).
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
 - [Análisis de patentes sobre chatbots en los últimos 20 años](2003250911_analisistextopatentesparachatbots.md)
+- [Los usos profesionales de los agentes virtuales](2004081151_usos_profesionales_vapas.md)
 
 --
 
