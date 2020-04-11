@@ -22,6 +22,9 @@ En general, los sistemas de información en el hogar suelen ser de doble propós
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [Los usos personales de los VAPAS](2004110921_tareas_personales_asistentes.md)
+- [Los usos profesionales de los VAPAS](2004071658_eyetracker_eyetribe.md)
+- [Los usos en discapacidad](2004081204_uso_vapas_discapacidad.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)

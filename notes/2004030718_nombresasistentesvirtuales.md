@@ -16,7 +16,7 @@ Si nos centramos en agentes virtuales de voz, como Alexa, Asistente de Google y 
 Otras posibles denominaciones para estos agentes son:
 
 - agentes conversacionales [@gao2018_alexa]
-- agentes de voz [@amary2019_music]
+- agentes de voz [@ammary2019_music]
 - asistentes personales inteligentes (IPAs) [@debarcelos2020_intelligent; @cowan2017_what]
 - asistentes de voz inteligentes (SVAs) [@lee2019_hey]
 - agentes personales inteligentes (PIAs) [@moussawi2020_how]

@@ -14,9 +14,11 @@ Sin embargo, los asistentes virtuales de voz y los chatbots todavía no han teni
 ## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
-- [La interacción por voz versus tacto](2004051647_effect_voice_interactions.md)
+- [Tareas personales de los VAPAS](2004110921_tareas_personales_asistentes.md)
 - [El uso de VAPAs en discapacidad](2004081204_uso_vapas_discapacidad.md)
+- [Usos hedónicos frente a funcionales de los VAPAS](notes\2004060821_usos_virtual_agents_sistemas_duales.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
+- [La interacción por voz versus tacto](2004051647_effect_voice_interactions.md)
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)

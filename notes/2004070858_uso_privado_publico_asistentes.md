@@ -25,6 +25,9 @@ En este sentido también, @easwara2015_privacy comparan la preocupación por la 
 - Los participantes usan más su VAPA en privado que en público.
 - Los participantes usan más su VAPA para transmitir información no personal
 
+De acuerdo con @gao2018_alexa, para el caso del Amazon Echo, estudiando los datos de las reviews, la segunda característica que más disgusta a las personas es la percepción de que siempre está escuchando.
+
+
 ## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
@@ -36,12 +39,14 @@ En este sentido también, @easwara2015_privacy comparan la preocupación por la 
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Los usos profesionales de los agentes virtuales](2004081151_usos_profesionales_vapas.md)
 - [El uso de VAPAs en discapacidad](2004081204_uso_vapas_discapacidad.md)
-
+- [Las tareas de los VAPAS](2004110921_tareas_personales_asistentes.md)
 
 --
 References
 
 - Easwara Moorthy, A., & Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. International Journal of Human-Computer Interaction, 31(4), 307–335. https://doi.org/10.1080/10447318.2014.986642
+
+- Gao, Y., Pan, Z., Wang, H., & Chen, G. (2018). Alexa, My Love: Analyzing Reviews of Amazon Echo. In L. Wang, G and Han, Q and Bhuiyan, MZA and Ma, X and Loulergue, F and Li, P and Roveri, M and Chen (Ed.), 2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) (pp. 372–380). https://doi.org/10.1109/SmartWorld.2018.00094
 
 - Pagani, M., Racat, M., & Hofacker, C. F. (2019). Adding Voice to the Omnichannel and How that Affects Brand Trust. Journal of Interactive Marketing, 48, 89–105. https://doi.org/10.1016/j.intmar.2019.05.002
 

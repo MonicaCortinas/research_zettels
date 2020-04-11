@@ -12,10 +12,12 @@ Los asistentes virtuales pueden ser muy útiles en casos de personas con ciertas
 @pradhan2018_accesibility estudian estas aplicaciones en dos estudios exploratorios. En primer lugar, realizan un análisis de contenido de las reviews de Alexa, seleccionando palabras relacionadas con la discapacidad. Después hacen también entrevistas con usuarios con discapacidad visual. En ambos estudios se muestra como estas aplicaciones son importantes.
 
 - [Index](_2003101705_index.md)
+- [Tareas personales de los VAPAS](2004110921_tareas_personales_asistentes.md)
+- [Los usos profesionales de los VAPAS](2004081151_usos_profesionales_vapas.md)
+- [Usos hedónicos frente a funcionales de los VAPAS](notes\2004060821_usos_virtual_agents_sistemas_duales.md)
 - [La interacción por voz versus tacto](2004051647_effect_voice_interactions.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
-- [Los usos profesionales de los VAPAS](2004081151_usos_profesionales_vapas.md)
 
 
 --
