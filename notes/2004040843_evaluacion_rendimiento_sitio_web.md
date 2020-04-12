@@ -27,6 +27,7 @@ En el trabajo se analizan dos sitios web de agencias de viaje en base a esta met
 
 - [Index](_2003101705_index.md)
 - [El modelo de flow de Novak para medir la experiencia online](2004010934_modelonovak_flow.md)
+- [El diseño y la irritación con el sitio web](2004120953_irritacion_diseñoweb.md)
 - [El contraste visual en la experiencia en un sitio web](2004011126_visual_contrast_complexity_web_experience.md)
 - [La colocación esperada de los elementos en un sitio web](2004021623_expectativas_colocacion_banner_links.md)
 - [Los mapas de convenciones](2003310840_saliencia_convencion_atencion_sitio.md)

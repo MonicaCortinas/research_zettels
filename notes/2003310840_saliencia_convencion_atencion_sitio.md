@@ -26,7 +26,9 @@ Notas relacionadas:
 
 - [Index](_2003101705_index.md)
 - [Modelo general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
+- [El modelo de flow de Novak para medir la experiencia online](2004010934_modelonovak_flow.md)
 - [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
+- [El diseño y la irritación con el sitio web](2004120953_irritacion_diseñoweb.md)
 
 --
 Referencias:

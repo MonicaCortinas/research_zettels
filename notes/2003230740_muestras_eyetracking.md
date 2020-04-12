@@ -24,6 +24,7 @@ Por ejemplo:
 Otras sin embargo, utilizan muestras mayores:
 
 - @bogomolova2020_how utilizan 203 participantes
+- @hernandez2015_what utilizan una muestra de 63 adultos, pero mucho más variados demográficamente con una edad entre 18 y 57 años.
 
 ## Notas relacionadas
 
@@ -40,6 +41,7 @@ Referencias
 - Day, R. F., Lin, C. H., Huang, W. H., & Chuang, S. H. (2009). Effects of music tempo and task difficulty on multi-attribute decision-making: An eye-tracking approach. Computers in Human Behavior, 25(1), 130–143. https://doi.org/10.1016/j.chb.2008.08.001
 - Guo, F., Ding, Y., Liu, W., Liu, C., & Zhang, X. (2016). Can eye-tracking data be measured to assess product design?: Visual attention mechanism should be considered. International Journal of Industrial Ergonomics, 53, 229–235. https://doi.org/10.1016/j.ergon.2015.12.001
 - Hernandez, M. D., Wang, Y., Sheng, H., Kalliny, M., & Minor, M. (2017). Escaping the corner of death? An eye-tracking study of reading direction influence on attention and memory. Journal of Consumer Marketing, 34(1), 1–10. https://doi.org/10.1108/JCM-02-2016-1710
+- Hernández-Méndez, J., & Muñoz-Leiva, F. (2015). What type of online advertising is most effective for eTourism 2.0? An eye tracking study based on the characteristics of tourists. Computers in Human Behavior, 50, 618–625. https://doi.org/10.1016/j.chb.2015.03.017
 - Desrochers, C., Léger, P. M., Fredette, M., Mirhoseini, S., & Sénécal, S. (2019). The arithmetic complexity of online grocery shopping: the moderating role of product pictures. Industrial Management and Data Systems, 119(6), 1206–1222. https://doi.org/10.1108/IMDS-04-2018-0151
 - Hummel, G., Zerweck, I., Ehret, J., Salazar Winter, S., & Stroebele-Benschop, N. (2017). The influence of the arrangement of different food images on participants’ attention: An experimental eye-tracking study. Food Quality and Preference, 62(July), 111–119. https://doi.org/10.1016/j.foodqual.2017.07.003
 - Jiang, J. Y., Guo, F., Chen, J. H., Tian, X. H., & Lv, W. (2019). Applying eye-tracking technology to measure interactive experience toward the navigation interface of mobile games considering different visual attention mechanisms. Applied Sciences, 9(16). https://doi.org/10.3390/app9163242

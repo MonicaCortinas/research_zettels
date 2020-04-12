@@ -13,7 +13,7 @@ En general, en la mayoría de las comunicaciones de marketing se distinguen esto
 
 ## Efectos de los texto frente a imagen
 
-- Las imágenes atraen en general más atención que los textos, a comunicar más información y a recordarse mejor: a esto se le denomina efecto superioridad de la imagen (Children y Houston, 1984).
+- Las imágenes atraen en general más atención que los textos, a comunicar más información y a recordarse mejor: a esto se le denomina efecto superioridad de la imagen (Children y Houston, 1984). @hernandez2015_what encuentran en un estudio de eyetracking con anuncios en páginas de turismo que la lleva menos tiempo fijarse en la imagen y el número de fijaciones anteriores es menor.
 - El efecto del tamaño del estímulo depende de la tarea: aumentar el tamaño aumenta la atención si el estímulo es relevante para la tarea.
 - El efecto de incluir imágenes en el **resto de elementos** está condicionado por otros elementos cognitivos (top-down) como la percepción de relevancia de la imagen, los objetivos del consumidor. Existen evidencias de efectos contradictorios al aumentar el tamaño del texto o de la imagen en el resto de elementos.
 - En general, imágenes más grandes o texto más grande atrae más la atención.
@@ -41,4 +41,5 @@ Notas relacionadas:
 
 Referencias:
 
-Adaval, R., Saluja, G., & Jiang, Y. (2018). Seeing and thinking in pictures: A review of visual information processing. Consumer Psychology Review, (November 2018), 50–69. https://doi.org/10.1002/arcp.1049
+- Adaval, R., Saluja, G., & Jiang, Y. (2018). Seeing and thinking in pictures: A review of visual information processing. Consumer Psychology Review, (November 2018), 50–69. https://doi.org/10.1002/arcp.1049
+- Hernández-Méndez, J., & Muñoz-Leiva, F. (2015). What type of online advertising is most effective for eTourism 2.0? An eye tracking study based on the characteristics of tourists. Computers in Human Behavior, 50, 618–625. https://doi.org/10.1016/j.chb.2015.03.017
