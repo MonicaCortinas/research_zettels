@@ -15,6 +15,14 @@ Una condición X es necesaria para un resultado Y si se cumple X ← Y o, dicho 
 
  En ese sentido, Y, el outcome, es un **subconjunto de X**.
 
+ También podemos decir que Y no se da en ausencia de X o que cuando se da Y, siempre se da X.
+
+ Un ejemplo interesante que da @dusa2019_qca de cómo expresar las hipótesis sobre condiciones necesarias es comparar estas dos afirmaciones:
+
+ - The higher the level of economic development, the more likely a country is a democracy -> Sería una hipótesis clásica que expresa una correlación
+ 
+ - A minimum level of economic development is necessary for democracy -> Sería una hipótesis en la que el set "nivel básico de desarrollo económico" es una condición necesaria para el outcome "democracia".
+
  - En **crisp** para controlar la necesidad comprobamos los casos en los que Y = 1 y comprobamos que X = 1 (al contrario que en suficiencia, donde nos fijamos en los casos en los que X= 1 y comprobamos que Y = 1).
 
 |       | X = 0                        |  X =  1                     |
@@ -33,6 +41,8 @@ Una condición X es necesaria para un resultado Y si se cumple X ← Y o, dicho 
 En suficiencia, teníamos que comprobar además la suficiencia de las condiciones **AND** porque una condición individual puede no ser necesaria y la combinación sí. Sin embargo, en necesidad esto no tiene sentido, porque para que una combinación AND fuera necesaria, todas las condiciones individuales tendrían que serlo.
 
 El análisis de necesidad siempre debe ir primero y configurarse en el proceso de simplificación para evitar [problemas del estándar análisis](2004020637_problemas_potenciales_QCA_extensiones.md)
+
+Además, según es necesario tener en cuenta que una condición causal puede ser necesaria para la presencia de un set, además de para su ausencia (necesidad de controlar relevancia) [@@dusa2019_qca ]
 
 ## Notas relacionadas
 
@@ -53,4 +63,5 @@ El análisis de necesidad siempre debe ir primero y configurarse en el proceso d
 
 Referencias:
 
-Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.
+- Duşa, A. (2019). QCA with R: A comprehensive resource. In QCA with R: A Comprehensive Resource. https://doi.org/10.1007/9783319756684
+- Schneider, C. Q., & Wagemann, C. (2012). Set-theoretic methods for the social sciences: A guide to qualitative comparative analysis (C. Elman, J. Gerring, & J. Mahoney, eds.). Cambrigde: Cambridge University Press.

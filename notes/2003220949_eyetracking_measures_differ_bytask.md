@@ -19,6 +19,7 @@ En los resultados se observan tiempos de fijación mayores en la tarea más orie
 
 - [Index](_2003101705_index.md)
 - [La atención a las imágenes mejora la actitud hacia el sitio en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
+- [Las tareas más orientadas centran la atención en los estímulos requeridos mientras que las más libres centran la atención en los más llamativos](2003220949_eyetracking_measures_differ_bytask.md)
 - [La carga cognitiva y sus efectos en la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
 - [La motivación afecta a la memoria de trabajo asignada](2003101738_motivacion_memoriatrabajo.md)
 - [La complejidad de la tarea afecta a la actitud hacia el sitio](2003210855_complejidad_aritmetica_tarea.md)
