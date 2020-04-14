@@ -13,7 +13,7 @@ En este caso, se considera que tanto la demostración de inteligencia como el an
 
 ## Antecedentes del disfrute percibido
 
-- - La [inteligencia percibida](2004060750_inteligencia_percibida_agentes_virtuales.md) afecta positivamente a la confianza inicial.
+- La [inteligencia percibida](2004060750_inteligencia_percibida_agentes_virtuales.md) afecta positivamente a la confianza inicial.
 - El [antropomorfismo percibido](2004060734_antropomorfismo_vapas.md) afecta positivamente a la confianza inicial. **No confirmado en el modelo**
 
 ## Consecuencias:
@@ -37,6 +37,7 @@ Initial trust adapted fromMcKnight et al. (2002)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 - [El tipo de lenguaje de los asistentes](2004051732_tipo_lenguaje_asistentes.md)
+- [Diferencias en la relación con los VAPAS según la edad](2004140714_aceptacionVAPASsegunedad.md)
 
 
 --

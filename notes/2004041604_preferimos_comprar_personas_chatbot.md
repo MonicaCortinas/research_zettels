@@ -11,18 +11,20 @@ modified: '2020-04-04T16:05:55.880Z'
 
 Los chatbots proporcionan resultados tan buenos como los de los mejores vendedores, pero solo si los consumidores no lo saben, porque si lo saben antes, se reduce su rendimiento en un 80%.
 
+Sin embargo, [@logg2019_algorithm](2004060917_aceptacion_consejo_algoritmos.md) encuentran que en general se prefiere el consejo de los algoritmos al de las personas.
 
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
-- [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [Efectividad de los chatbots](2004041632_efectividad_chatbots.md)
+- [El consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [La intención de adopción en asistentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Antropomorfismo de agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Los usos de los agentes virtuales](2004060821_usos_virtual_agents_sistemas_duales.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
+- [Diferencias en la relación con los VAPAS según la edad](2004140714_aceptacionVAPASsegunedad.md)
 
 --
 

@@ -1,5 +1,5 @@
 ---
-tags: [artificialintelligence, chatbot, vapas, Notebooks/artificialintelligence, virtualagents, trust, aceptanca, judgement]
+tags: [artificialintelligence, chatbot, vapas, Notebooks/artificialintelligence, virtualagents, trust, aceptance, judgement]
 title: 2004060917_La aceptación de la predicción de los algoritmos
 created: '2020-04-06T09:19:55.880Z'
 modified: '2020-04-06T09:19:55.880Z'
