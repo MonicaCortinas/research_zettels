@@ -19,13 +19,15 @@ El mapa de convención lo construyen ellos con datos de eyetracking ya disponibl
 
 Entonces, con estos dos mapas, hacen un nuevo experimento de eye tracking en el que a los sujetos se les presentan distintos sitios y se compara su percepción del sitio con la predicción que se hace en base a la combinación de estos dos mapas, obteniéndose buenos resultados.
 
+Estos mapas son similares a los que plantean [@navalpakkam2005_vision](2003161131_unificacion_percepcion_ecologia_construccion.md) en su modelización del efecto de las tareas en la atención.
+
 ## Notas relacionadas
 
 Notas relacionadas:
 
 
 - [Index](_2003101705_index.md)
-- [Modelo general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
+- [Modelo general de atención y mapas de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
 - [El modelo de flow de Novak para medir la experiencia online](2004010934_modelonovak_flow.md)
 - [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 - [El diseño y la irritación con el sitio web](2004120953_irritacion_diseñoweb.md)
