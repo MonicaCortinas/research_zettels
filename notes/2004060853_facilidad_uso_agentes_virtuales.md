@@ -13,7 +13,7 @@ modified: '2020-04-06T08:53:55.880Z'
 
 - La facilidad de uso percibida del agente se incluye dentro de los [usos utilitarios](2004060821_usos_virtual_agents_sistemas_duales.md) (no hedónicos) del agente.
 - La [inteligencia percibida](2004060750_inteligencia_percibida_agentes_virtuales.md) afecta positivamente a la utilidad percibida.
-
+- [@chen2018_how](2004150915_aceptacion_VAPA_experiencia_conocimiento.md) muestran como la experiencia previa y el conocimiento afectan a la facilidad de uso
 
 ## Consecuencias:
 
@@ -33,6 +33,7 @@ Benbasat (1991).
 
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
+- [La influencia del conocimiento y la experiencia en la usabilidad percibida de los VAPAS](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
@@ -46,4 +47,5 @@ Benbasat (1991).
 
 Referencias 
 
+- Chen, M.-L., & Wang, H.-C. (2018). How Personal Experience and Technical Knowledge Affect Using Conversational Agents. Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion - IUI 18, 31, 1–2. https://doi.org/10.1145/3180308.3180362
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w

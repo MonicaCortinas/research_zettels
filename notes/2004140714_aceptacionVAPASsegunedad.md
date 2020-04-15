@@ -18,6 +18,7 @@ Por el contrario @thakur2018_approach se centran en la aceptación por parte e l
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)
+- [La influencia del conocimiento y la experiencia en la usabilidad percibida de los VAPAS](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 
 

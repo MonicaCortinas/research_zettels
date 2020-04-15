@@ -21,6 +21,9 @@ modified: '2020-04-06T08:33:55.880Z'
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
+- [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
+- [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
@@ -30,7 +33,7 @@ modified: '2020-04-06T08:33:55.880Z'
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 - [El tipo de lenguaje de los asistentes](2004051732_tipo_lenguaje_asistentes.md)
 - [Diferencias en la relación con los VAPAS según la edad](2004140714_aceptacionVAPASsegunedad.md)
-
+- [La influencia del conocimiento y la experiencia en la usabilidad percibida de los VAPAS](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 
 --
 
