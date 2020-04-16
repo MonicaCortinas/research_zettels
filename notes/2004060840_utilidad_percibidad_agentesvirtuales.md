@@ -28,6 +28,18 @@ Benbasat (1991).
 - PU4 - If I were to start using Siri, it would make my life easier. 
 - PU5 - Using Siri would give me greater control over my daily life.
 
+## La atracción de la tarea como utilidad percibida
+
+@han2018_understanding analizan la adopción de los asistentes virtuales desde una perspectiva parasocial, estudiando la relación que se establece con el asistente y en su [modelo](2004060832_intencion_adopcion_agente_virtual.md) incluyen como variable la "atracción de la tarea" pero los ítems tienen más que ver como la utilidad percibida. Esta atracción de la tarea influye en la percepción de la relación y en la satisfacción con el asistente, siendo las dos relaciones significativas en un modelo estimado por PLS con 304 personas en MTurk.
+
+Los ítems en la atracción de la tarea son:
+
+- TA1 My intelligent personal assistant is useful for my task 
+- TA2 I would recommend my intelligent personal assistant as a work partner
+- TA3 I could rely on my intelligent personal assistant to get the job done
+
+
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -45,4 +57,5 @@ Benbasat (1991).
 
 Referencias 
 
+- Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants. Industrial Management & Data Systems, 118(3), 618–636. https://doi.org/10.1108/IMDS-05-2017-0214
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w

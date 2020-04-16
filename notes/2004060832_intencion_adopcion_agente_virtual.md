@@ -16,7 +16,21 @@ modified: '2020-04-06T08:33:55.880Z'
 - Int1 - I intend to start using Siri within the next month. 
 - Int2 - During the next months, I plan to experiment with or regularly use Siri.
 
-@easwara2015_privacy también enmarcan su experimento sobre uso de voz en VAPAS en un modelo TAM teórico aunque luego no lo estiman empíricamente
+@easwara2015_privacy también enmarcan su experimento sobre uso de voz en VAPAS en un modelo TAM teórico aunque luego no lo estiman empíricamente.
+
+## La perspectiva parasocial
+
+@han2018_understanding plantean por contra un modelo parasocial, que viene del mundo de la publicidad y la comunicación y está relacionado con la identificación que nos hacemos de un personaje televisivo, por ejemplo. En su trabajo, los VAPAS (les llaman IPAs) son entidades sociales con las que que podemos identificarnos.
+
+Así, la percepción de una relación parasocial es un antecedente de la satisfacción con el asistente, y esta satisfacción es un antecedente de la intención de continuar con el asistente. En esa relación influye también lo que denominan el "task atraction" que en realidad es una [utilidad percibida](2004060840_utilidad_percibidad_agentesvirtuales.md). 
+
+Así, la intención de continuar con el asistente se mide como:
+
+- CONT1 I will frequently use my intelligent  personal assistant in the future
+- CONT2 I intend to continue using my  intelligent personal assistant rather than discontinue its use
+- CONT3 I will use my intelligent personal assistant on a regular basis
+
+
 
 ## Notas relacionadas
 
@@ -39,5 +53,6 @@ modified: '2020-04-06T08:33:55.880Z'
 
 Referencias 
 
+- Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants. Industrial Management & Data Systems, 118(3), 618–636. https://doi.org/10.1108/IMDS-05-2017-0214
 - Easwara Moorthy, A., & Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. International Journal of Human-Computer Interaction, 31(4), 307–335. https://doi.org/10.1080/10447318.2014.986642
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w

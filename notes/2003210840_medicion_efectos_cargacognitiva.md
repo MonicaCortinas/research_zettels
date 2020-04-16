@@ -7,7 +7,7 @@ modified: '2020-03-21T08:40:00.275Z'
 
 # Qué es la carga cognitiva, cómo se mide y cómo afecta a la actitud hacia el sitio web
 
-Según @desrochers2019_arithmetic, la carga cognitiva es la memoria de trabajo que asociamos a una determinada tarea y puede afectar a la satsifacción con las tareas complejas.
+Según @desrochers2019_arithmetic, la carga cognitiva es la memoria de trabajo que asociamos a una determinada tarea y puede afectar a la satisfacción con las tareas complejas.
 
 La carga cognitiva también varía durante el desarrollo de una tarea, por lo que tendríamos por un lado la carga cognitiva total y por otro lado sus fluctuaciones como elementos de interés.
 

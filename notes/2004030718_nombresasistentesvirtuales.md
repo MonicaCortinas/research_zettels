@@ -17,7 +17,7 @@ Otras posibles denominaciones para estos agentes son:
 
 - agentes conversacionales [@gao2018_alexa]
 - agentes de voz [@ammary2019_music]
-- asistentes personales inteligentes (IPAs) [@debarcelos2020_intelligent; @cowan2017_what]
+- asistentes personales inteligentes (IPAs) [@debarcelos2020_intelligent; @cowan2017_what; han2018_understanding]
 - asistentes de voz inteligentes (SVAs) [@lee2019_hey]
 - agentes personales inteligentes (PIAs) [@moussawi2020_how]
 
