@@ -22,14 +22,18 @@ La escasez de tiempo percibida aumenta en gran medida el nivel de atención: los
 
 Se usa una muestra de 41 individuos de la universidad.
 
+La escasez de tiempo cambia también el patrón de atención.  @pieters1999_visual en un estudio de eyetracking muestran cómo los individuos con motivación alta (se les promete recompensa) tienen un patrón de exploración distinto: tardan más tiempo y les importan menos las imágenes y más la información de marca. Pasa lo contrario con la presión de tiempo, se le presta más atención a la imagen y menos al texto. 
+
 - [Index](_2003101705_index.md)
 - [Teoría general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
 - [La atención a los videos depende de la velocidad de reproducción](2004031202_atencion_videos_velocidad_reproduccion.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
+- [Percepción de textos e imágenes](2003161247_percepcion_textoimagen.md)
 
 --
 
 # References
 
-Mou, J., & Shin, D. (2018). Effects of social popularity and time scarcity on online consumer behaviour regarding smart healthcare products: An eye-tracking approach. Computers in Human Behavior, 78, 74–89. https://doi.org/10.1016/j.chb.2017.08.049
+- Mou, J., & Shin, D. (2018). Effects of social popularity and time scarcity on online consumer behaviour regarding smart healthcare products: An eye-tracking approach. Computers in Human Behavior, 78, 74–89. https://doi.org/10.1016/j.chb.2017.08.049
+- Pieters, R., & Warlop, L. (1999). Visual attention during brand choice: The impact of time pressure and task motivation. International Journal of Research in Marketing, 16(1), 1–16. https://doi.org/10.1016/s0167-8116(98)00022-6

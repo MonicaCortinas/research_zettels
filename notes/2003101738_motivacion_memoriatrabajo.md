@@ -21,6 +21,10 @@ Según @an2020_effects, la motivación intrínseca en entornos experienciales ti
 
 Las dimensiones de engagament son participación consciente, entusiasmo e interacción social.
 
+## La motivación cambia el patrón de exploración
+
+@pieters1999_visual en un estudio de eyetracking muestran cómo los individuos con motivación alta (se les promete recompensa) tienen un patrón de exploración distinto: tardan más tiempo y les importan menos las imágenes y más la información de marca. 
+
 
 
 Notas relacionadas:
@@ -29,7 +33,8 @@ Notas relacionadas:
 - [Index](_2003101705_index.md)
 - [El engamement afecta positivamente al capital de marca](2003170754_engagement_brandequity.md)
 - [La carga cognitiva afecta a la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
-
+- [Percepción de textos e imágenes](2003161247_percepcion_textoimagen.md)
+- [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
 --
 
 Referencias:
@@ -41,3 +46,4 @@ Brooks, D. W., & Shell, D. F. (2006). Working Memory, Motivation, and Teacher-In
 
 Desrochers, C., Léger, P. M., Fredette, M., Mirhoseini, S., & Sénécal, S. (2019). The arithmetic complexity of online grocery shopping: the moderating role of product pictures. Industrial Management and Data Systems, 119(6), 1206-1222. https://doi.org/10.1108/IMDS-04-2018-0151
 
+Pieters, R., & Warlop, L. (1999). Visual attention during brand choice: The impact of time pressure and task motivation. International Journal of Research in Marketing, 16(1), 1–16. https://doi.org/10.1016/s0167-8116(98)00022-6

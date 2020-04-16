@@ -33,6 +33,7 @@ Notas relacionadas:
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La atención a un estímulo aumenta cuando hay más presión de tiempo](2003291731_escasezdetiempoaumentaatencion.md)
 - [La atención a los puntos de un sitio web depende de su saliencia y de las convenciones esperadas](2003310840_saliencia_convencion_atencion_sitio.md)
+- [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
 
 --
 

@@ -25,6 +25,7 @@ La actitud hacia el sitio web se mide con una escala de 7 items de Chen y Wells�
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La atención a la pantalla en juegos móviles cambia en el free browsing frente a la definición de tareas](2003261714_eyetracking_mobile_games.md)
 - [La atención al texto insertado dentro de una imagen](2003270812_atencion_texto_dentroimagen.md)
+- [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
 
 --
 

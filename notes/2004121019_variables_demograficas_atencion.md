@@ -34,6 +34,7 @@ Los usuarios expertos prestan más atención a la publicidad. Les interesa más 
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La pupila como medida de atención](003230803_pupilacomomedidadeatencion.md)
 - [Productos con menor tiempo de venta disponible generan más atención](2003291731_escasezdetiempoaumentaatencion.md)
+- [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
 
 --
 Referencias
