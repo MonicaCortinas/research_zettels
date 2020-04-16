@@ -30,6 +30,7 @@ Perceived enjoyment adapted fromKamis et al. (2008).
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
+- [La relación con los asistentes, enfoque parasocial](2004160935_relacion_con_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
