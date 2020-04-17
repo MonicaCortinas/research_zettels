@@ -18,6 +18,7 @@ En general, cuando no se sabe cómo funciona (no conocimiento técnico) la exper
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)
+- [La relación con los asistentes](2004160935_relacion_con_vapas.md)
 - [La importancia de la edad en la adopción de los agentes virtuales](2004140714_aceptacionVAPASsegunedad.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 

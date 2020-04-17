@@ -7,7 +7,9 @@ modified: '2020-04-12T12:34:00.275Z'
 
 # Las diferencias en la atención según las características demográficas
 
-Hay pocos estudios que analicen diferencias en la atención según las características demográficas. Creo recordar un estudio citado en Visual Attention que hablaba de las diferencias perceptivas de delicuentes (*habría que comprobar esto). Yo creo que esto pasa porque el tamaño de las [muestras](2003230740_muestras_eyetracking.md) en todos estos estudios 
+Hay pocos estudios que analicen diferencias en la atención según las características demográficas. Creo recordar un estudio citado en Visual Attention que hablaba de las diferencias perceptivas de delicuentes (*habría que comprobar esto). Yo creo que esto pasa porque el tamaño de las [muestras](2003230740_muestras_eyetracking.md) en todos estos estudios.
+
+Sin embargo, @rosbergen1997_visual ya en 1997 en un estudio de eye tracking planteaban una segmentación latente para encontrar grupos según los patrones perceptivos en la observación de anuncios impresos. Se detectan tres segmentos latentes que tienen patrones de atención distintos, relacionados también con distintos niveles de implicación con el producto, actitud hacia las marcas y recuerdo. 
 
 Sin embargo, @hernandez2015_what en su estudio sobre banners animados frente a estáticos en sitios web turísticos introducen algunas hipótesis interesantes. Es una pena que luego no se confirme ninguna (la muestra puede tener que ver, porque es más variada pero son solo 63 personas).
 
@@ -40,3 +42,4 @@ Los usuarios expertos prestan más atención a la publicidad. Les interesa más 
 Referencias
 
 - Hernández-Méndez, J., & Muñoz-Leiva, F. (2015). What type of online advertising is most effective for eTourism 2.0? An eye tracking study based on the characteristics of tourists. Computers in Human Behavior, 50, 618–625. https://doi.org/10.1016/j.chb.2015.03.017
+- Rosbergen, E., Pieters, R., & Wedel, M. (1997). Visual attention to advertising. Journal of Consumer Research, 24(3), 305–314.

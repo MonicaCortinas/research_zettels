@@ -31,6 +31,7 @@ De acuerdo con @gao2018_alexa, para el caso del Amazon Echo, estudiando los dato
 ## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
+- [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
 - [La interacción por voz versus tacto](2004051647_effect_voice_interactions.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)

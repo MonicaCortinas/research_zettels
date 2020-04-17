@@ -30,6 +30,7 @@ Estiman este modelo global con SEM con una muestra de 1600 personas.
 - [Index](_2003101705_index.md)
 - [Las escalas de flow](2003291853_escala_de_flow.md)
 - [Validación de DFS-2](2003311902_validacion_dSF2.md)
+- [Los atmospherics en la experiencia web](2004060631_web_atmospherics.md)
 - [La economía de la experiencia](2003171027_experience_economy_theory.md)
 - [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 - [La gamificación como herramienta de mejora del engagement](2003170736_gamificacion_engagement.md)

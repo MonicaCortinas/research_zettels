@@ -18,6 +18,13 @@ modified: '2020-04-06T08:33:55.880Z'
 
 @easwara2015_privacy también enmarcan su experimento sobre uso de voz en VAPAS en un modelo TAM teórico aunque luego no lo estiman empíricamente.
 
+@yan2019_undestanding también incluyen la utilidad percibida y el disfrute hedónico en su modelo de adopción  que se centra en analizar el efecto de las [características del dispositivo]. La escala que utilizan es:
+
+- I intend to use VPA devices in the future
+- I predict I would use VPA devices in the future 
+- I recommend others to use VPA devices
+
+
 ## La perspectiva parasocial
 
 @han2018_understanding plantean por contra un modelo parasocial, que viene del mundo de la publicidad y la comunicación y está relacionado con la identificación que nos hacemos de un personaje televisivo, por ejemplo. En su trabajo, los VAPAS (les llaman IPAs) son entidades sociales con las que que podemos identificarnos.
@@ -38,6 +45,7 @@ Así, la intención de continuar con el asistente se mide como:
 - [utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
+- [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
@@ -56,3 +64,4 @@ Referencias
 - Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants. Industrial Management & Data Systems, 118(3), 618–636. https://doi.org/10.1108/IMDS-05-2017-0214
 - Easwara Moorthy, A., & Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. International Journal of Human-Computer Interaction, 31(4), 307–335. https://doi.org/10.1080/10447318.2014.986642
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w
+- Yang, H., & Lee, H. (2019). Understanding user behavior of virtual personal assistant devices. Information Systems and E-Business Management, 17(1), 65–87. https://doi.org/10.1007/s10257-018-0375-1

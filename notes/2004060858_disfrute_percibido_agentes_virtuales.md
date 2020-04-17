@@ -25,6 +25,22 @@ Perceived enjoyment adapted fromKamis et al. (2008).
 - Enj2 - While using Siri, I find the interaction interesting. 
 - Enj3 - While using Siri, I find the interaction to be fun.
 
+
+## @yan2019_undestanding Antecedentes del disfrute percibido
+
+@yan2019_undestanding también incluyen el disfrute percibido en su modelo de adopción pero esta utilidad percibida tiene como antecedentes las [características de los agentes](2004170922_caracteristicasVAPA.md):
+
+- Atractivo visual
+- Contenido de calidad
+
+### Escala
+
+ - Using VPA devices is truly fun
+ - I know using VPA devices to be enjoyable 
+ - The use of VPA devices gives me pleasure 
+ - The use of VPA devices makes me feel good
+
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
