@@ -18,6 +18,8 @@ Este trabajo se puede relacionar con que los estímulos más relevantes para la 
 
  Este trabajo es de los mismo autores que [@luan2018_context](2003281654_atencion_recomendaciones_congruencia_productos.md) que estudian la atención a los productos recomendados según la congruencia con el producto que se busca.
 
+## Notas relacionadas
+
 - [Index](_2003101705_index.md)
 - [Cómo la atención a las fotografías mejora la actitud hacia el sitio en la compra de productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [Las tareas más orientadas centran la atención en los estímulos requeridos mientras que las más libres centran la atención en los más llamativos](2003220949_eyetracking_measures_differ_bytask.md)

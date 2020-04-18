@@ -25,14 +25,14 @@ Notas relacionadas:
 - [Index](_2003101705_index.md)
 - [Teoría constructivista de la percepción](2003161101_teoria_constructivista_percepcion.md)
 - [Teoría ecológica de la percepción](2003161118_teoria_ecologica_percepcion.md)
-- [Mapas de relevancia]([mapas de saliencia](2003310840_saliencia_convencion_atencion_sitio.md))
+- [Las etapas en la atención a un estímulo](2004180816_etapas_atencion_eleccionproductos.md)
+- [La atención a los puntos de un sitio web depende de su saliencia y de las convenciones esperadas](2003310840_saliencia_convencion_atencion_sitio.md)
 - [Las variables demográficas en la atención](2004121019_variables_demograficas_atencion.md)
 - [Resumen de factores en compra por impulso online según modelo S-O-R](2003190944_compra_por_impulso_online.md)
 - [Cómo afecta el color, las fuentes, la posición y el tamaño a la percepción del precio unitario](2003251015_atencion_precio_unitario_eyetracking.md)
 - [La atención a las fotos mejora la actitud hacia el sitio](2003210809_atencionfotos_productosexperiencia.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [La atención a un estímulo aumenta cuando hay más presión de tiempo](2003291731_escasezdetiempoaumentaatencion.md)
-- [La atención a los puntos de un sitio web depende de su saliencia y de las convenciones esperadas](2003310840_saliencia_convencion_atencion_sitio.md)
 - [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
 
 --
