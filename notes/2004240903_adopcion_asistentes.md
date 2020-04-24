@@ -31,10 +31,13 @@ También incluyen en el modelo otra medida objetiva declarativa de experiencia:
 - [Index](_2003101705_index.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [La experiencia y conocimiento en la adopción](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
+- [La interacción con los VAPAS](2004210737_lainteraccionconlosvapas.md)
+- [El tipo de interacción](2004240955_tipos_interaccion_vapas.md)
 - [utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
+- [La importancia de la edad en la adopción de los agentes virtuales](2004140714_aceptacionVAPASsegunedad.md)
 
   --
 Referencias

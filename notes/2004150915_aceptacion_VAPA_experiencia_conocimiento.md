@@ -17,7 +17,7 @@ En general, cuando no se sabe cómo funciona (no conocimiento técnico) la exper
 - Months of Using: How long have you been using the smart speaker? - in Months
 - Use: In the last 7 days, howmany times do you use the smart speaker per day?
 
-
+@chattaraman2019_should  se centran en adultos mayores (entre 61 y 89 años) y estudian el efecto de la [interacción social frente a interacción funcional](2004240955_tipos_interaccion_vapas.md), controlando además la experiencia y el tipo de interacción [voz frente a texto](2004051647_effect_voice_interactions.md).  Se obtiene un efecto interacción con la experiencia y los **asistentes orientados socialmente consiguen mejores resultados sociales** (mejor percepción de interacción, mayor confianza en el sitio) para los usuarios **más experimentados**. Sin embargo, los usuarios **menos experimentados** consiguen mejores resultados (mayor facilidad de uso, mayor autoeficacia percibida usando el sitio) con un **lenguaje funcional**. 
 
 # Notas relacionadas:
 
@@ -34,6 +34,7 @@ En general, cuando no se sabe cómo funciona (no conocimiento técnico) la exper
 --
 Referencias
 
+- Chattaraman, V., Kwon, W.-S., Gilbert, J. E., & Ross, K. (2019). Should AI-Based, conversational digital assistants employ social- or task-oriented interaction style? A task-competency and reciprocity perspective for older adults. Computers in Human Behavior, 90, 315–330. https://doi.org/10.1016/j.chb.2018.08.048
 - Chen, M.-L., & Wang, H.-C. (2018). How Personal Experience and Technical Knowledge Affect Using Conversational Agents. Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion - IUI 18, 31, 1–2. https://doi.org/10.1145/3180308.3180362
 - Cowan, B. R., Pantidi, N., Coyle, D., Morrissey, K., Clarke, P., Al-Shehri, S., … Bandeira, N. (2017). “What can i help you with?”: Infrequent users’ experiences of intelligent personal assistants. Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services, MobileHCI 2017. https://doi.org/10.1145/3098279.3098539
 - Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1

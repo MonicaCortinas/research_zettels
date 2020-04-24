@@ -15,9 +15,12 @@ En el experiemto 2, se utiliza comida congelada y se hizo una aproximación simi
 
 Los resultados se explican argumentando que este efecto se produce en el **engagement con la plataforma** y también a la novedad y dificultad del nuevo canal, mientras que en el **engagement con la marca** el resultado hubiera sido distinto. **Piensan que este efecto no sería aplicable a Alexa, porque es solo voz** (página 101).
 
+@chattaraman2019_should también comparan en un diseño experimental un asistente virtual con input de voz frente a texto, pero no encuentran diferencias significativas, aunque este factor se incluye en este trabajo solamente como elemento de control, ya que el trabajo está centrado en el tipo de interacción.
+
+
 # El efecto del tacto
 
-@Ôzhao2018_persuasive mostraron que el sentido del tacto puede ser poderoso en la interacción incluso con agentes virtuales en tiendas virtuales, mostrando que si el asistente les toca el brazo a la persona, pasan más tiempo en la tienda, gastan más dinero y están más satisfechos con la experiencia.
+@zhao2018_persuasive mostraron que el sentido del tacto puede ser poderoso en la interacción incluso con agentes virtuales en tiendas virtuales, mostrando que si el asistente les toca el brazo a la persona, pasan más tiempo en la tienda, gastan más dinero y están más satisfechos con la experiencia.
 
 
 ## Notas relacionadas
@@ -41,5 +44,6 @@ Los resultados se explican argumentando que este efecto se produce en el **engag
 
 Referencias:
 
+- Chattaraman, V., Kwon, W.-S., Gilbert, J. E., & Ross, K. (2019). Should AI-Based, conversational digital assistants employ social- or task-oriented interaction style? A task-competency and reciprocity perspective for older adults. Computers in Human Behavior, 90, 315–330. https://doi.org/10.1016/j.chb.2018.08.048
 - Pagani, M., Racat, M., & Hofacker, C. F. (2019). Adding Voice to the Omnichannel and How that Affects Brand Trust. Journal of Interactive Marketing, 48, 89–105. https://doi.org/10.1016/j.intmar.2019.05.002
 - Zhao, Y., Ham, J., & van der Vlist, J. (2018). Persuasive Virtual Touch: The Effect of Artificial Social Touch on Shopping Behavior in Virtual Reality. In G. Ham, J and Spagnolli, A and Blankertz, B and Gamberini, L and Jacucci (Ed.), SYMBIOTIC INTERACTION, SYMBIOTIC 2017 (pp. 98–109). https://doi.org/10.1007/978-3-319-91593-7\_11

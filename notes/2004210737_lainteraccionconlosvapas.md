@@ -40,6 +40,7 @@ La forma en la que se produce la interacción está por supuesto condicionada po
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [Los tipos de interacción](2004240955_tipos_interaccion_vapas.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
