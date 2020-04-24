@@ -1,11 +1,13 @@
 ---
-tags: [artificialintelligence, chatbot, vapas, Notebooks/artificialintelligence, virtualagents, adopcion]
+tags: [artificialintelligence, chatbot, vapas, Notebooks/artificialintelligence, virtualagents, adoption]
 title: 2004060833_La intención de adoptar un agente virtual
 created: '2020-04-06T08:33:55.880Z'
 modified: '2020-04-06T08:33:55.880Z'
 ---
 
 # La intención de adoptar un agente virtual
+
+La intención de adopción es un concepto a futuro, que se relaciona por tanto con las percepciones sobre el dispositivo, aunque no se tenga experiencia con él. Sin embargo, el [nivel de adopción del dispositivo](2004240903_adopcion_asistentes.md) es un concepto en presente, relacionado con el uso que se le da al dispositivo y por tanto, de forma más natura con la [satisfacción con el dispositivo](2004240815_satisfaccion_vapas.md).
 
 @moussawi2020_how explican la intención de adoptar un agente virtual por un modelo TAM, en el que que la intención de adopción se explica por los beneficios:
 
@@ -24,12 +26,11 @@ modified: '2020-04-06T08:33:55.880Z'
 - I predict I would use VPA devices in the future 
 - I recommend others to use VPA devices
 
-
 ## La perspectiva parasocial
 
 @han2018_understanding plantean por contra un modelo parasocial, que viene del mundo de la publicidad y la comunicación y está relacionado con la identificación que nos hacemos de un personaje televisivo, por ejemplo. En su trabajo, los VAPAS (les llaman IPAs) son entidades sociales con las que que podemos identificarnos.
 
-Así, la percepción de una relación parasocial es un antecedente de la satisfacción con el asistente, y esta satisfacción es un antecedente de la intención de continuar con el asistente. En esa relación influye también lo que denominan el "task atraction" que en realidad es una [utilidad percibida](2004060840_utilidad_percibidad_agentesvirtuales.md). 
+Así, la percepción de una relación parasocial es un antecedente de la [satisfacción con el asistente](2004240815_satisfaccion_vapas.md), y esta satisfacción es un antecedente de la intención de continuar con el asistente. En esa relación influye también lo que denominan el "task atraction" que en realidad es una [utilidad percibida](2004060840_utilidad_percibidad_agentesvirtuales.md). 
 
 Así, la intención de continuar con el asistente se mide como:
 
@@ -37,6 +38,7 @@ Así, la intención de continuar con el asistente se mide como:
 - CONT2 I intend to continue using my  intelligent personal assistant rather than discontinue its use
 - CONT3 I will use my intelligent personal assistant on a regular basis
 
+Esta escala de intención de continuar sería un punto intermedio entre la intención de adopción y la adopción.
 
 
 ## Notas relacionadas
@@ -46,7 +48,10 @@ Así, la intención de continuar con el asistente se mide como:
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
+- [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
 - [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
+- [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
+- [La experiencia y conocimiento en la adopción](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)

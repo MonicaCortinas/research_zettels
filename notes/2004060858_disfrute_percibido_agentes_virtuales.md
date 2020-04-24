@@ -43,7 +43,7 @@ Perceived enjoyment adapted fromKamis et al. (2008).
 
 ## @lee2019_hey Trabajo sobre vapas as social actors, armonía en grupo familiar
 
- @lee2019_hey también incluyen la dimensión hedónica en un trabajo en el que se relaciona con la **satisfacción**, que luego lleva al uso y la armonía familiar.
+ @lee2019_hey también incluyen la dimensión hedónica en un trabajo en el que se relaciona con la [satisfacción](2004240815_satisfaccion_vapas.md), que luego lleva al uso y la armonía familiar.
 
  Su escala es:
 
@@ -57,6 +57,7 @@ Perceived enjoyment adapted fromKamis et al. (2008).
 
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
+- [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La relación con los asistentes, enfoque parasocial](2004160935_relacion_con_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)

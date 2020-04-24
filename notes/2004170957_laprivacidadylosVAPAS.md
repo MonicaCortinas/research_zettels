@@ -31,6 +31,7 @@ Además, hay un trabajo muy interesante en el Journal of Marketing, @melumad2020
 
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
+- [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [Las características del asistente y su efecto en la utilidad percibida](2004170922_caracteristicasVAPA.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)

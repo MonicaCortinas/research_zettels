@@ -13,6 +13,12 @@ En general, cuando no se sabe cómo funciona (no conocimiento técnico) la exper
 
 @cowan2017_what estudian cómo se relacionan con los asistentes los usuarios con poca experiencia en un estudio cualitativo en el que primero se encargaba hacer seis tareas con Siri y después de hacía una entrevista. Entre los resultados destaca que en muchos casos la interacción puramente por voz es más frustrante que el tacto y la "vergüenza social" de utilizar estos asistentes en público, de manera similar a los resultados de [@easwara2015_privacy](@easwara2015_privacy)
 
+@lee2019_hey miden la experiencia en el uso como variable de control en su modelo de [satisfacción con VAPAS](2004240815_satisfaccion_vapas.md) y para eso incluyen dos medidas objetivas:
+- Months of Using: How long have you been using the smart speaker? - in Months
+- Use: In the last 7 days, howmany times do you use the smart speaker per day?
+
+
+
 # Notas relacionadas:
 
 - [Index](_2003101705_index.md)
@@ -30,3 +36,4 @@ Referencias
 
 - Chen, M.-L., & Wang, H.-C. (2018). How Personal Experience and Technical Knowledge Affect Using Conversational Agents. Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion - IUI 18, 31, 1–2. https://doi.org/10.1145/3180308.3180362
 - Cowan, B. R., Pantidi, N., Coyle, D., Morrissey, K., Clarke, P., Al-Shehri, S., … Bandeira, N. (2017). “What can i help you with?”: Infrequent users’ experiences of intelligent personal assistants. Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services, MobileHCI 2017. https://doi.org/10.1145/3098279.3098539
+- Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1
