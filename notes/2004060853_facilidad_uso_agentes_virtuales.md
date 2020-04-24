@@ -42,6 +42,7 @@ Benbasat (1991).
 - [El tipo de lenguaje de los asistentes](2004051732_tipo_lenguaje_asistentes.md)
 - [Los usos profesionales de los agentes virtuales](2004081151_usos_profesionales_vapas.md)
 - [El uso de VAPAs en discapacidad](2004081204_uso_vapas_discapacidad.md)
+- [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 
 --
 

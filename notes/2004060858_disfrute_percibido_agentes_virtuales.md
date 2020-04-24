@@ -41,6 +41,18 @@ Perceived enjoyment adapted fromKamis et al. (2008).
  - The use of VPA devices makes me feel good
 
 
+## @lee2019_hey Trabajo sobre vapas as social actors, armonía en grupo familiar
+
+ @lee2019_hey también incluyen la dimensión hedónica en un trabajo en el que se relaciona con la **satisfacción**, que luego lleva al uso y la armonía familiar.
+
+ Su escala es:
+
+- HMOT1 Using my smart speaker is Fun
+- HMOT2 Using my smart speaker is Enjoyable
+- HMOT3 Using my smart speaker is Very Entertaining 
+- HMOT4a Using my smart speaker is Uninteresting (R) 
+- HMOT5 Using my smart speaker is Pleasurable
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -59,4 +71,6 @@ Perceived enjoyment adapted fromKamis et al. (2008).
 
 Referencias 
 
+- Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w
+- Yang, H., & Lee, H. (2019). Understanding user behavior of virtual personal assistant devices. Information Systems and E-Business Management, 17(1), 65–87. https://doi.org/10.1007/s10257-018-0375-1

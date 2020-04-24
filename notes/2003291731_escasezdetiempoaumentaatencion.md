@@ -27,6 +27,7 @@ La escasez de tiempo cambia también el patrón de atención.  @pieters1999_visu
 - [Index](_2003101705_index.md)
 - [Teoría general de atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
 - [La atención a los videos depende de la velocidad de reproducción](2004031202_atencion_videos_velocidad_reproduccion.md)
+- [Atención a las miniaturas de youtube versus títulos con EyeTribe](2004201836_atencioncaratula_video_vs_titulo.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [Los estímulos más cercanos y más similares atraen más atención](2003260716_estimulosproximosysimilares_atencion.md)
 - [Percepción de textos e imágenes](2003161247_percepcion_textoimagen.md)

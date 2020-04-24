@@ -17,6 +17,18 @@ Además, hay un trabajo muy interesante en el Journal of Marketing, @melumad2020
 
 @pagani2019_adding estudian como afecta a la implicación con el asistente el usar o no la voz y se plantea cómo la preocupación por la privacidad puede moderar esta relación, ya que la voz la pone de manifiesto en mayor medida que el texto.
 
+@lee2019_hey incluyen la mayorúa de aspectos relacionados con la privacidad en una escala que denominan de "seguridad percibida" y la utilizan como antecedente de la satisfacción con el dispositivo.
+
+### Escala
+- PSEC1 I would feel secure using my smart speaker. 
+- PSEC2 My smart speaker is a secure means through which to search sensitive information.
+- PSEC3 I would feel totally safe providing sensitive information about myself over my smart speaker.
+- PSEC4 Overall, my smart speaker is a safe technology for my purpose of using the system.
+- PSEC5 Matters on security has no influence in using my smart speaker.
+
+
+## Notas relacionadas
+
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Las características del asistente y su efecto en la utilidad percibida](2004170922_caracteristicasVAPA.md)
@@ -25,11 +37,13 @@ Además, hay un trabajo muy interesante en el Journal of Marketing, @melumad2020
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
+- [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 
 --
 References
 
 - Burbach, L., Halbach, P., Plettenberg, N., Nakayama, J., Ziefle, M., & Calero Valdez, A. (2019). “Hey, Siri”, “Ok, Google”, “Alexa”. Acceptance-Relevant Factors of Virtual Voice-Assistants. 2019 IEEE International Professional Communication Conference (ProComm), 101–111. https://doi.org/10.1109/ProComm.2019.00025
 - Easwara Moorthy, A., & Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. International Journal of Human-Computer Interaction, 31(4), 307–335. https://doi.org/10.1080/10447318.2014.986642
+- Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1
 - Melumad, S., & Meyer, R. (2020). Full Disclosure: How Smartphones Enhance Consumer Self-Disclosure. Journal of Marketing, 84(3), 28–45. https://doi.org/10.1177/0022242920912732
 - Pagani, M., Racat, M., & Hofacker, C. F. (2019). Adding Voice to the Omnichannel and How that Affects Brand Trust. Journal of Interactive Marketing, 48, 89–105. https://doi.org/10.1016/j.intmar.2019.05.002

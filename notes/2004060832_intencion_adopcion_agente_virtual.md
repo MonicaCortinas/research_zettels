@@ -46,6 +46,7 @@ Así, la intención de continuar con el asistente se mide como:
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
+- [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)

@@ -34,6 +34,7 @@ Notas relacionadas:
 
 - [Index](_2003101705_index.md)
 - [Efectos de la motivación](2003101738_motivacion_memoriatrabajo.md)
+- [Atención a las miniaturas de youtube versus títulos con EyeTribe](2004201836_atencioncaratula_video_vs_titulo.md)
 - [La atención a las imágenes mejora la actitud hacia el sitio en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
 - [Teoría constructivista de la percepción](2003161101_teoria_constructivista_percepcion.md)
 - [Efectos del color](2003161159_percepcion_color.md)

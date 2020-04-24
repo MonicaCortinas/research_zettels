@@ -15,6 +15,11 @@ En el experiemto 2, se utiliza comida congelada y se hizo una aproximación simi
 
 Los resultados se explican argumentando que este efecto se produce en el **engagement con la plataforma** y también a la novedad y dificultad del nuevo canal, mientras que en el **engagement con la marca** el resultado hubiera sido distinto. **Piensan que este efecto no sería aplicable a Alexa, porque es solo voz** (página 101).
 
+# El efecto del tacto
+
+@Ôzhao2018_persuasive mostraron que el sentido del tacto puede ser poderoso en la interacción incluso con agentes virtuales en tiendas virtuales, mostrando que si el asistente les toca el brazo a la persona, pasan más tiempo en la tienda, gastan más dinero y están más satisfechos con la experiencia.
+
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -30,9 +35,11 @@ Los resultados se explican argumentando que este efecto se produce en el **engag
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 - [La efectividad de los asistentes virtuales](2004041632_efectividad_chatbots.md)
+- [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 
 --
 
 Referencias:
 
-Pagani, M., Racat, M., & Hofacker, C. F. (2019). Adding Voice to the Omnichannel and How that Affects Brand Trust. Journal of Interactive Marketing, 48, 89–105. https://doi.org/10.1016/j.intmar.2019.05.002
+- Pagani, M., Racat, M., & Hofacker, C. F. (2019). Adding Voice to the Omnichannel and How that Affects Brand Trust. Journal of Interactive Marketing, 48, 89–105. https://doi.org/10.1016/j.intmar.2019.05.002
+- Zhao, Y., Ham, J., & van der Vlist, J. (2018). Persuasive Virtual Touch: The Effect of Artificial Social Touch on Shopping Behavior in Virtual Reality. In G. Ham, J and Spagnolli, A and Blankertz, B and Gamberini, L and Jacucci (Ed.), SYMBIOTIC INTERACTION, SYMBIOTIC 2017 (pp. 98–109). https://doi.org/10.1007/978-3-319-91593-7\_11

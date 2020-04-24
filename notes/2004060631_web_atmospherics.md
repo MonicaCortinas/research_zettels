@@ -35,6 +35,7 @@ Sin embargo, @manganari2009_store en un trabajo teórico, reservan el término a
 - [Teoría de la atención](2003161131_unificacion_percepcion_ecologia_construccion.md)
 - [Modelo S-O-R en la compra por impulso online](2003190944_compra_por_impulso_online.md)
 - [La medición de la experiencia online según el flow](2004010934_modelonovak_flow.md)
+- [La calidad del sitio como indicativo de calidad de los productos](2004201730_calidadsitioweb_extrisiccueproductos.md)
 - [El contraste visual en la experiencia en un sitio web](2004011126_visual_contrast_complexity_web_experience.md)
 - [La colocación esperada de los elementos en un sitio web](2004021623_expectativas_colocacion_banner_links.md)
 
