@@ -1,5 +1,5 @@
 ---
-tags: [artificialintelligence, chatbot, vapas, Notebooks/artificialintelligence, virtualagents, adoption]
+tags: [artificialintelligence, chatbot, vapas, Notebooks/artificialintelligence, virtualagents, adoption, loyalty]
 title: 2004240903_La adoptación de un agente virtual
 created: '2020-04-24T09:33:55.880Z'
 modified: '2020-04-24T09:33:55.880Z'
@@ -27,12 +27,28 @@ También incluyen en el modelo otra medida objetiva declarativa de experiencia:
 - Months of Using: How long have you been using the smart speaker? - in Months
 
 La adopción del dispositivo puede ir un paso más allá y convertirse una **relación importante**, como señala el [enfoque parasocial](2004160935_relacion_con_vapas.md) 
+
+
+## La lealtad al dispositivo
+
+@moriuchi2019_okay incluyen explícitamente la lealtad al dispositivo en un modelo TAM que incluye como antecedentes de la lealtad el [engagement y la actitud](2004251206_engagement_vapas.md)
+
+La escalan que usan es:
+- LOY1 I would recommend a company to others because of their integration of voice assistants on their website or messaging app.
+- LOY2 I will do more shopping with companies that integrate voice assistants on their website or messaging app in the future. 
+- LOY3 I encourage friends and relatives search information from companies that integrate voice assistants on their website or messaging app.
+- LOY4 I say positive things to other people about a company if they use voice assistants integrated on their website or messaging app. 
+- LOY5 A company that integrates voice assistants on their website or messaging app will be my destination for online shopping 
+
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [La experiencia y conocimiento en la adopción](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [La interacción con los VAPAS](2004210737_lainteraccionconlosvapas.md)
+- [El engagement y la actitud hacia los VAPAS](2004251206_engagement_vapas.md)
+- [La norma subjetiva en los VAPAS](2004251156_normasubjetiva_asistentesvirtuales.md)
 - [El tipo de interacción](2004240955_tipos_interaccion_vapas.md)
 - [utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)

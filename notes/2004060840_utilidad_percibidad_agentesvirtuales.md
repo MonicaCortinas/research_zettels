@@ -67,6 +67,21 @@ La escala que utilizan es:
 - PU5. Based on my experience with my digital assistant, it allowed me to complete tasks more quickly.
 - PU6. Based on my experience with my digital assistant, my tasks were easier to complete.
 
+## @moriuchi2019_okay la utilidad percibida como antecedente de engagement y lealtad
+
+@moriuchi2019_okay en un trabajo en Psychology & Marketing plantean un modelo TAM en el que los resultados son engagement y lealtad y lo testan con SEM. 
+
+Su escala es:
+- PU1. Using a voice assistant improves my shopping experiences
+- PU2. Using a voice assistant increases my time‐effectiveness when I am gathering information/ shopping 
+- PU3. Using a voice assistant would enable me to accomplish my shopping decisions/ information gathering 
+- PU4. Using a voice assistant solves my shopping decisions/ information gathering easier.
+- PU5. Using a voice assistant enhances my repurchases
+- PU6. Using a voice assistant are better than using real customer agents
+- PU7. Voice assistants save me the time when I am looking for shopping decisions/ information gathering 
+- PU8. Overall, I find a voice assistant to be useful when I need shopping decisions/ information gathering
+
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)

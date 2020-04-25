@@ -11,7 +11,7 @@ modified: '2020-04-06T09:04:55.880Z'
 
 En este caso, se considera que tanto la demostración de inteligencia como el antropomorfismo pueden aumentar la confianza inicial.
 
-## Antecedentes del disfrute percibido
+## Antecedentes de la confianza
 
 - La [inteligencia percibida](2004060750_inteligencia_percibida_agentes_virtuales.md) afecta positivamente a la confianza inicial.
 - El [antropomorfismo percibido](2004060734_antropomorfismo_vapas.md) afecta positivamente a la confianza inicial. **No confirmado en el modelo**
@@ -23,9 +23,37 @@ En este caso, se considera que tanto la demostración de inteligencia como el an
 ### Escala
 
 Initial trust adapted fromMcKnight et al. (2002)
+
 - Trust_Benevolence - If I required help, Siri would do its best to help me. 
 - Trust_Integrity - I characterize Siri as honest. 
 - Trust_Ability - Siri is competent and effective in helping me with my daily tasks.
+
+## La confianza como moderador de la relación expectativas-satisfacción
+
+@brill2019_siri plantean un modelo de satisfacción en el marco de la disconformidad de expectativas de Oliver.
+
+En su modelo, la confianza es un factor moderador de la relación disconformidad-satisfacción, incrementando el efecto positivo.
+
+Para @brill2019_siri la confianza percibida tiene tres dimensiones:
+
+- Competencia:
+  - TC1. My digital assistant is like a real expert in providing answers.
+  - TC2. My digital assistant has the expertise to understand my needs and preferences.
+  - TC3. My digital assistant can understand my needs and preferences.
+  - TC4. My digital assistant had good knowledge about the questions and subjects that I am interested in.
+  - TC5. My digital assistant matches my needs to the information available.
+
+- Benevolence:
+  - TB1. My digital assistant puts my interests first.
+  - TB2. My digital assistant keeps my interests in mind.
+  - TB3. My digital assistant wants to understand my needs and preferences.
+  - TB4. My digital assistant helps me know more about the topic of my inquiry.
+
+- Integridad:
+  - TI1. My digital assistant provides unbiased information and recommendations.
+  - TI2. My digital assistant provides honest answers.
+  - TI3. I consider my digital assistant to possess integrity.
+  - TI4. My digital assistant is not linked to a specific company, so it is unbiased.
 
 ## Notas relacionadas
 

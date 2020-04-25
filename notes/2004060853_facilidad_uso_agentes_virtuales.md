@@ -29,6 +29,15 @@ Benbasat (1991).
 - PEOU3 - I believe that it is easy to get Siri to do what I want it to do.
 - PEOU4 - My interaction with Siri is clear and understandable 
 
+## @moriuchi2019_okay la facilidad de uso percibida como antecedente de engagement y lealtad
+
+@moriuchi2019_okay en un trabajo en Psychology & Marketing plantean un modelo TAM en el que los resultados son engagement y lealtad y lo testan con SEM. 
+
+Su escala es:
+- PEU1 My interaction with the voice assistants is clear and understandable
+- PEU2 I find the voice assistant to be easy to use 
+- PEU3 I find it easy to get the voice assistant to answer my questions
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -49,4 +58,5 @@ Benbasat (1991).
 Referencias 
 
 - Chen, M.-L., & Wang, H.-C. (2018). How Personal Experience and Technical Knowledge Affect Using Conversational Agents. Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion - IUI 18, 31, 1–2. https://doi.org/10.1145/3180308.3180362
+- Moriuchi, E. (2019). Okay, Google!: An empirical study on voice assistants on consumer engagement and loyalty. Psychology & Marketing, 36(5), 489–501. https://doi.org/10.1002/mar.21192
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w

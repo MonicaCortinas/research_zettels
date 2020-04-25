@@ -29,6 +29,9 @@ Según @an2020_effects, las dimensiones de engagement son similares, ellos las c
 
 Según @an2020_effects, el engagement tiene efectos en la creación de valor, a través del valor funcional, hedónico y social y a partir de este valor, efectos en la satisfacción, recuerdo, lealtad, etc...
 
+## Engagement y VAPAS
+
+[@moriuchi2019_okay](2004251206_engagement_vapas.md) incorporan el engagement como un antecedente importante de la lealtad en un modelo TAM para la adopción de los asistentes de voz.
 
 ### Notas relacionadas:
 
@@ -42,6 +45,6 @@ Según @an2020_effects, el engagement tiene efectos en la creación de valor, a 
 
 Referencias:
 
-An, M., & Han, S.-L. (2020). Effects of experiential motivation and customer engagement on customer value creation: Analysis of psychological process in the experience-based retail environment. Journal of Business Research, in press. https://doi.org/10.1016/j.jbusres.2020.02.044
-
-Xi, N., & Hamari, J. (2020). Does gamification affect brand engagement and equity? A study in online brand communities. Journal of Business Research, 109(November 2019), 449–460. https://doi.org/10.1016/j.jbusres.2019.11.058
+- An, M., & Han, S.-L. (2020). Effects of experiential motivation and customer engagement on customer value creation: Analysis of psychological process in the experience-based retail environment. Journal of Business Research, in press. https://doi.org/10.1016/j.jbusres.2020.02.044
+- Moriuchi, E. (2019). Okay, Google!: An empirical study on voice assistants on consumer engagement and loyalty. Psychology & Marketing, 36(5), 489–501. https://doi.org/10.1002/mar.21192
+- Xi, N., & Hamari, J. (2020). Does gamification affect brand engagement and equity? A study in online brand communities. Journal of Business Research, 109(November 2019), 449–460. https://doi.org/10.1016/j.jbusres.2019.11.058

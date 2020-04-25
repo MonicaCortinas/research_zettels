@@ -9,10 +9,13 @@ modified: '2020-04-06T08:33:55.880Z'
 
 La intención de adopción es un concepto a futuro, que se relaciona por tanto con las percepciones sobre el dispositivo, aunque no se tenga experiencia con él. Sin embargo, el [nivel de adopción del dispositivo](2004240903_adopcion_asistentes.md) es un concepto en presente, relacionado con el uso que se le da al dispositivo y por tanto, de forma más natura con la [satisfacción con el dispositivo](2004240815_satisfaccion_vapas.md).
 
+## Modelo TAM para la intención de adopción
+
 @moussawi2020_how explican la intención de adoptar un agente virtual por un modelo TAM, en el que que la intención de adopción se explica por los beneficios:
 
 - Utilitarios: [utilidad percibida](2004060840_utilidad_percibidad_agentesvirtuales.md) y [facilidad de uso](2004060853_facilidad_uso_agentes_virtuales.md)
 - Hedónicos: [disfrute percibido](2004060858_disfrute_percibido_agentes_virtuales.md) y [confianza inicial](2004060904_confianza_agentevirtual.md)
+
 
 ### Escala. Intention to adopt from Karahanna et al. (1999). 
 - Int1 - I intend to start using Siri within the next month. 
@@ -25,6 +28,14 @@ La intención de adopción es un concepto a futuro, que se relaciona por tanto c
 - I intend to use VPA devices in the future
 - I predict I would use VPA devices in the future 
 - I recommend others to use VPA devices
+
+@moriuchi2019_okay también utilizan los conceptos de un modelo TAM
+
+- [Facilidad de uso](2004060853_facilidad_uso_agentes_virtuales.md)
+- [Utilidad percibida](2004060840_utilidad_percibidad_agentesvirtuales.md)
+- [Norma subjetiva](2004251156_normasubjetiva_asistentesvirtuales.md)
+
+pero sin embargo, su variable dependiente no es la intención de adopción, sino el engagement y la lealtad (que podemos entender como adopción)
 
 ## La perspectiva parasocial
 
@@ -48,10 +59,11 @@ Esta escala de intención de continuar sería un punto intermedio entre la inten
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
+- [La norma subjetiva en los VAPAS](2004251156_normasubjetiva_asistentesvirtuales.md)
 - [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
 - [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
-- [La confianza en los VAPAS](2004251054_laconfianzaenlosvapas.md)
+- [La confianza en los VAPAS](2004060904_confianza_agentevirtual.md)
 - [La experiencia y conocimiento en la adopción](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)

@@ -74,7 +74,7 @@ La escala de satisfacción que usan es:
 - [Index](_2003101705_index.md)
 - [La interacción con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
-- [La confianza en los VAPAS](2004251054_laconfianzaenlosvapas.md)
+- [La confianza en los VAPAS](2004060904_confianza_agentevirtual.md)
 - [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
 - [La utilidad percibida de los agentes](2004060840_utilidad_percibidad_agentesvirtuales.md)
 - [La privacidad y seguridad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
