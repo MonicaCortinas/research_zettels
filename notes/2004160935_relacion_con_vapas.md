@@ -23,7 +23,7 @@ Así, esta percepción de la relación parasocial tiene como antecedentes:
 
 Ellos estiman un modelo por PLS y las tres dimensiones afectan a la percepción, y esta percepción afecta a la satisfacción con el asistente y a la [intención de adopción](2004060832_intencion_adopcion_agente_virtual.md). 
 
-Un requisito para la relación podría ser la [adopción del dispositivo](2004240903_adopcion_asistentes.md). Un ejemplo podría ser las reacciones a la muerte del robot Jibo (rhttps://www.theverge.com/2019/6/19/18682780/jibo-death-server-update-social-robot-mourning).
+Un requisito para la relación podría ser la [adopción del dispositivo](2004240903_adopcion_asistentes.md). Un ejemplo podría ser las reacciones a la muerte del robot Jibo (rhttps://www.theverge.com/2019/6/19/18682780/jibo-death-server-update-social-robot-mourning) y también el [impacto de los VAPAs en la armonía familiar](2004251228_losvapas_cohesionan_grupos.md).
 
 @fullwood2017_myvirtual abordan este tema en relación, no solo con los asistentes virtuales sino con los smartphones en general, en un estudio cualitativo publicado en Computers in Human Behavior. En este trabajo se muestra cómo además de las percepciones materialistas y funcionales sobre los dispositivos, son también importantes los afectos sentimentales.
 
@@ -81,6 +81,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 - [Utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
 - [Facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [Disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
+- [Los VAPAs y la cohesión de grupo](2004251228_losvapas_cohesionan_grupos.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo y la personificación en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)

@@ -27,7 +27,7 @@ Podemos enmarcar el resultado de la interacción con los VAPAs en dos teorías d
 
 - Computers as social actors (CASA): 
   - @chattaraman2019_should utilizan el Social Response Theory to artificial agents: En esta teoría se plantea que los humanos respondemos a la interacción con ordenadores y otras máquinas como si fueran personas utilizando reglas sociales de lenguaje, educación, etc... Se citan como referencias importantes (Nass & Moon, 2000; Reeves & Nass, 1996).
-  - También se enfoca en CASA @lee2019_hey y ponen ejemplos interesantes, como la relación con los robots Roomba, al que el 14% de los usuarios ponen un nombre y otro 50% interactúa de forma social, citando a Forlizzi y DiSalvo, 2006. Este trabajo de  @lee2019_hey es interesante, porque no solo incluyen los factores que inciden en la satisfacción con el dispositivo (compatibilidad, motivación hedónica y seguridad percibida) sino que relacionan esta satisfacción con el uso continuado y con la **cohesión en el grupo familiar**. Es decir, un dispositivo tipo VAPA puede servir, igual que una mascota, para unir más a la familia. El modelo se estima con PLS, aunque se incluyen conceptos nuevos como "Group Harmony". 
+  - También se enfoca en CASA @lee2019_hey y ponen ejemplos interesantes, como la relación con los robots Roomba, al que el 14% de los usuarios ponen un nombre y otro 50% interactúa de forma social, citando a Forlizzi y DiSalvo, 2006. Este trabajo de  @lee2019_hey es interesante, porque no solo incluyen los factores que inciden en la satisfacción con el dispositivo (compatibilidad, motivación hedónica y seguridad percibida) sino que relacionan esta satisfacción con el uso continuado y con la [**cohesión en el grupo familiar**](2004251228_losvapas_cohesionan_grupos.md). Es decir, un dispositivo tipo VAPA puede servir, igual que una mascota, para unir más a la familia. El modelo se estima con PLS, aunque se incluyen conceptos nuevos como "Group Harmony". 
   - @purington2017_alexa utiliza el mismo marco para estudiar [la relación](2004160935_relacion_con_vapas.md) con datos de reviews de Amazon.
 
 - Human robot interaction: Otra perspectiva, desarrollada más desde el punto de vista industrial, tiene que ver con los niveles de interacción cognitiva con los que interactuamos con la máquina. Así, @bernard2019_cognitive señalan cinco niveles de interacción:
@@ -47,7 +47,9 @@ La forma en la que se produce la interacción está por supuesto condicionada po
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [La confianza en los VAPAS](2004251054_laconfianzaenlosvapas.md)
+- [Los VAPAs y la cohesión de grupo](2004251228_losvapas_cohesionan_grupos.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
+- [Los VAPAs y la cohesión de grupo](2004251228_losvapas_cohesionan_grupos.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La presencia física de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [El antropomorfismo de los asistentes](2004060734_antropomorfismo_vapas.md)

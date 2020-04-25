@@ -22,7 +22,6 @@ modified: '2020-04-24T08:37:55.880Z'
  - [El uso continuado](2004240903_adopcion_asistentes.md) 
  - [El hábito](2004240903_adopcion_asistentes.md)
 
-
 ### Escala
 
 - SAT1 Very Dissatisfied / Very Satisfied
@@ -50,11 +49,11 @@ La escala de @han2018_understanding:
 
 - Confirmación de expectativas (esta tiene como antecedentes la [utilidad del dispositivo](2004060840_utilidad_percibidad_agentesvirtuales.md) y las expectativas sobre la utilidad): 
   - CU1. My increased productivity due to my digital assistant was --- than expected (much worse than expected, much better than expected)
-  - My improved performance due to my digital assistant was  ---  than expected
-   - CU3. My enhanced effectiveness due to my digital assistant was than expected
-   - CU4. The usefulness of my digital assistant was than expected.
-   - CU5. My ability to complete tasks more quickly with my digital assistant was than expected.
-   - CU6. The ease with which I complete my tasks with my digital assistant was than expected.
+  - CU2. My improved performance due to my digital assistant was  ---  than expected
+  - CU3. My enhanced effectiveness due to my digital assistant was than expected
+  - CU4. The usefulness of my digital assistant was than expected.
+  - CU5. My ability to complete tasks more quickly with my digital assistant was than expected.
+  - CU6. The ease with which I complete my tasks with my digital assistant was than expected.
 
 Los moderadores de esta relación son: 
 
