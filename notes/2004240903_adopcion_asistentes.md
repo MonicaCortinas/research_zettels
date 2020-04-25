@@ -26,6 +26,7 @@ También incluyen en el modelo otra medida objetiva declarativa de experiencia:
 
 - Months of Using: How long have you been using the smart speaker? - in Months
 
+La adopción del dispositivo puede ir un paso más allá y convertirse una **relación importante**, como señala el [enfoque parasocial](2004160935_relacion_con_vapas.md) 
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)

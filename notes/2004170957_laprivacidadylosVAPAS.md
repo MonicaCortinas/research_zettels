@@ -17,15 +17,22 @@ Además, hay un trabajo muy interesante en el Journal of Marketing, @melumad2020
 
 @pagani2019_adding estudian como afecta a la implicación con el asistente el usar o no la voz y se plantea cómo la preocupación por la privacidad puede moderar esta relación, ya que la voz la pone de manifiesto en mayor medida que el texto.
 
-@lee2019_hey incluyen la mayorúa de aspectos relacionados con la privacidad en una escala que denominan de "seguridad percibida" y la utilizan como antecedente de la satisfacción con el dispositivo.
+@lee2019_hey incluyen la mayoría de aspectos relacionados con la privacidad en una escala que denominan de "seguridad percibida" y la utilizan como antecedente de la satisfacción con el dispositivo.
 
-### Escala
+### Escala @lee2019_hey
+
 - PSEC1 I would feel secure using my smart speaker. 
 - PSEC2 My smart speaker is a secure means through which to search sensitive information.
 - PSEC3 I would feel totally safe providing sensitive information about myself over my smart speaker.
 - PSEC4 Overall, my smart speaker is a safe technology for my purpose of using the system.
 - PSEC5 Matters on security has no influence in using my smart speaker.
 
+@han2018_understanding también incluyen la percepción de privacidad-riesgo como antecedentes de la [relación parasocial](2004160935_relacion_con_vapas.md) además de la atracción social y la atracción física.
+
+### Escala @han2018_understanding
+
+  - PR1 I am worried to my intelligent personal assistant because other people or organizations may be able to access my AI device
+  - PR2 There will be much potential loss associated with disclosing personal information to my intelligent personal assistant
 
 ## Notas relacionadas
 

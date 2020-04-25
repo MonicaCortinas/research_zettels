@@ -19,6 +19,9 @@ En su estudio se centran en adultos mayores (entre 61 y 89 años) y estudian el 
 
 Se obtiene un efecto interacción con la experiencia y los asistentes orientado socialmente consiguen mejores resultados sociales (mejor percepción de interacción, mayor confianza en el sitio) para los usuarios más experimentados. Sin embargo, los usuarios menos experimentados consiguen mejores resultados (mayor facilidad de uso, mayor autoeficacia percibida usando el sitio) con un lenguaje funcional. 
 
+@abdolrahmani2018_siri señalan que el tipo de interacción más adecuado puede no ser el mismo según los dispositivos, ya que según señalan Google Home provoca interacciones más serias mientras que Apple Siri provoca conversaciones más sociales. 
+
+
 ## Según el nivel de interacción: Enfoque Human-Computer Interaction
 
 Otra perspectiva, desarrollada más desde el punto de vista industrial, tiene que ver con los niveles de interacción cognitiva con los que interactuamos con la máquina. Así, @bernard2019_cognitive señalan cinco niveles de interacción:
@@ -50,5 +53,6 @@ Aquí podemos situar los trabajos que distinguen entre [voz, texto, tacto]((2004
 --
 Referencias
 
+- Abdolrahmani, A., Kuber, R., & Branham, S. M. (2018). “Siri Talks at You.” Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility - ASSETS ’18, 249–258. https://doi.org/10.1145/3234695.3236344
 - Bernard, D., & Arnold, A. (2019). Cognitive interaction with virtual assistants: From philosophical foundations to illustrative examples in aeronautics. Computers in Industry, 107, 33–49. https://doi.org/10.1016/j.compind.2019.01.010
 - Chattaraman, V., Kwon, W.-S., Gilbert, J. E., & Ross, K. (2019). Should AI-Based, conversational digital assistants employ social- or task-oriented interaction style? A task-competency and reciprocity perspective for older adults. Computers in Human Behavior, 90, 315–330. https://doi.org/10.1016/j.chb.2018.08.048

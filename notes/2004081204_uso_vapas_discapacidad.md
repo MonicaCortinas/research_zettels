@@ -11,6 +11,8 @@ Los asistentes virtuales pueden ser muy útiles en casos de personas con ciertas
 
 @pradhan2018_accesibility estudian estas aplicaciones en dos estudios exploratorios. En primer lugar, realizan un análisis de contenido de las reviews de Alexa, seleccionando palabras relacionadas con la discapacidad. Después hacen también entrevistas con usuarios con discapacidad visual. En ambos estudios se muestra como estas aplicaciones son importantes.
 
+@abdolrahmani2018_siri estudian en un estudio cualitativo con catorce entrevistas los usos de estos dispositivos en personas ciegas.
+
 - [Index](_2003101705_index.md)
 - [Tareas personales de los VAPAS](2004110921_tareas_personales_asistentes.md)
 - [Los usos profesionales de los VAPAS](2004081151_usos_profesionales_vapas.md)
@@ -23,6 +25,7 @@ Los asistentes virtuales pueden ser muy útiles en casos de personas con ciertas
 --
 Referencias
 
-Anders, G. (2017). Alexa Understand Me. MIT TECHNOLOGY REVIEW, 120(5), 26–31.
-Pradhan, A., Mehta, K., & Findlater, L. (2018). “Accessibility came by accident”: Use of voice-controlled intelligent personal assistants by people with disabilities. Conference on Human Factors in Computing Systems - Proceedings, 2018-April, 1–13. https://doi.org/10.1145/3173574.3174033
+- Abdolrahmani, A., Kuber, R., & Branham, S. M. (2018). “Siri Talks at You.” Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility - ASSETS ’18, 249–258. https://doi.org/10.1145/3234695.3236344
+- Anders, G. (2017). Alexa Understand Me. MIT Technology Review, 120(5), 26–31.
+- Pradhan, A., Mehta, K., & Findlater, L. (2018). “Accessibility came by accident”: Use of voice-controlled intelligent personal assistants by people with disabilities. Conference on Human Factors in Computing Systems - Proceedings, 2018-April, 1–13. https://doi.org/10.1145/3173574.3174033
 
