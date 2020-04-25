@@ -46,6 +46,7 @@ La forma en la que se produce la interacción está por supuesto condicionada po
 - [Los tipos de interacción](2004240955_tipos_interaccion_vapas.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
+- [La confianza en los VAPAS](2004251054_laconfianzaenlosvapas.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La presencia física de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)

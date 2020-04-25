@@ -52,7 +52,20 @@ Los ítems en la atracción de la tarea son:
 - TA2 I would recommend my intelligent personal assistant as a work partner
 - TA3 I could rely on my intelligent personal assistant to get the job done
 
+## @brill2019_siri La satisfacción con los agentes como consecuencia de la diferencia en expectativas
 
+@brill2019_siri en su modelo consideran que la satisfacción es una consecuencia de la disconformidad de expectivas y esta disconformidad tiene como antecedentes
+
+- las expectativas
+- la utilidad percibida
+
+La escala que utilizan es:
+- PU1. Based on my experience with my digital assistant, it increased my productivity.
+- PU2. Based on my experience with my digital assistant, it improved my performance.
+- PU3. Based on my experience with my digital assistant, it enhanced my effectiveness.
+- PU4. Based on my experience with my digital assistant, it was useful.
+- PU5. Based on my experience with my digital assistant, it allowed me to complete tasks more quickly.
+- PU6. Based on my experience with my digital assistant, my tasks were easier to complete.
 
 ## Notas relacionadas
 

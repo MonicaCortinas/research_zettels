@@ -51,6 +51,7 @@ Esta escala de intención de continuar sería un punto intermedio entre la inten
 - [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
 - [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
+- [La confianza en los VAPAS](2004251054_laconfianzaenlosvapas.md)
 - [La experiencia y conocimiento en la adopción](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)

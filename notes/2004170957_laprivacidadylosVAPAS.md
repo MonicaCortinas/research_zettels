@@ -34,6 +34,19 @@ Además, hay un trabajo muy interesante en el Journal of Marketing, @melumad2020
   - PR1 I am worried to my intelligent personal assistant because other people or organizations may be able to access my AI device
   - PR2 There will be much potential loss associated with disclosing personal information to my intelligent personal assistant
 
+## @brill2019_siri incluyen la preocupación por la privacidad como moderador 
+
+Es un moderador de  la relación disconformidad de expectativas-[satifacción](2004240815_satisfaccion_vapas.md)
+
+La escala que usan es:
+
+- PC1. Compared to others, I am more sensitive about the way online companies handle my personal information.
+- PC2. To me, it is most important to keep my privacy intact from online companies.
+- PC3. I am concerned about threats to my personal privacy today.
+- PC4. I believe other people are too much concerned with online privacy issues.
+- PC5. I am concerned about threats to my personal privacy today.
+Perceived
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -50,6 +63,7 @@ Además, hay un trabajo muy interesante en el Journal of Marketing, @melumad2020
 --
 References
 
+- Brill, T. M., Munoz, L., & Miller, R. J. (2019). Siri, Alexa, and other digital assistants: a study of customer satisfaction with artificial intelligence applications. Journal of Marketing Management, 35(15–16), 1401–1436. https://doi.org/10.1080/0267257X.2019.1687571
 - Burbach, L., Halbach, P., Plettenberg, N., Nakayama, J., Ziefle, M., & Calero Valdez, A. (2019). “Hey, Siri”, “Ok, Google”, “Alexa”. Acceptance-Relevant Factors of Virtual Voice-Assistants. 2019 IEEE International Professional Communication Conference (ProComm), 101–111. https://doi.org/10.1109/ProComm.2019.00025
 - Easwara Moorthy, A., & Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. International Journal of Human-Computer Interaction, 31(4), 307–335. https://doi.org/10.1080/10447318.2014.986642
 - Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1
