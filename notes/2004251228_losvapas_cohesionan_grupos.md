@@ -27,3 +27,9 @@ Los antecedentes de esta armonía de grupo, que resultan significativos en su mo
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
 - [La confianza en los VAPAS](2004251054_laconfianzaenlosvapas.md)
+
+--
+
+References
+
+- Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1

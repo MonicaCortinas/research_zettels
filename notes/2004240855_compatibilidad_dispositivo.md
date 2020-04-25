@@ -24,6 +24,7 @@ modified: '2020-04-24T08:56:55.880Z'
 - [La satisfacción con el dispositivo](2004240815_satisfaccion_vapas.md)- 
 - [La privacidad y seguridad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
 - [La facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
+- [Las características de los VAPAS](2004170922_caracteristicasVAPA.md)
 
 
 --

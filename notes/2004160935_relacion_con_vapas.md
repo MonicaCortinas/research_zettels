@@ -82,6 +82,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 - [Facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [Disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [Los VAPAs y la cohesión de grupo](2004251228_losvapas_cohesionan_grupos.md)
+- [La influencia de las características del dispositivo](2004170922_caracteristicasVAPA.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
 - [El antropomorfismo y la personificación en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
@@ -100,5 +101,6 @@ Referencias
 - Fullwood, C., Quinn, S., Kaye, L. K., & Redding, C. (2017). My virtual friend: A qualitative analysis of the attitudes and experiences of Smartphone users: Implications for Smartphone attachment. Computers in Human Behavior, 75, 347–355. https://doi.org/10.1016/j.chb.2017.05.029
 - Gao, Y., Pan, Z., Wang, H., & Chen, G. (2018). Alexa, My Love: Analyzing Reviews of Amazon Echo. In L. Wang, G and Han, Q and Bhuiyan, MZA and Ma, X and Loulergue, F and Li, P and Roveri, M and Chen (Ed.), 2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) (pp. 372–380). https://doi.org/10.1109/SmartWorld.2018.00094
 - Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants. Industrial Management & Data Systems, 118(3), 618–636. https://doi.org/10.1108/IMDS-05-2017-0214
+- Lee, K., Lee, K. Y., & Sheehan, L. (2019). Hey Alexa! A Magic Spell of Social Glue?: Sharing a Smart Voice Assistant Speaker and Its Impact on Users’ Perception of Group Harmony. Information Systems Frontiers. https://doi.org/10.1007/s10796-019-09975-1
 - Purington, A., Taft, J. G., Sannon, S., Bazarova, N. N., & Taylor, S. H. (2017). “Alexa is my new BFF”: Social Roles, User Satisfaction, and Personification of the Amazon Echo. Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA ’17, 2853–2859. https://doi.org/10.1145/3027063.3053246
 - Steinhoff, L., Arli, D., Weaven, S., & Kozlenkova, I. V. (2019). Online relationship marketing. Journal of the Academy of Marketing Science, 47(3), 369–393. https://doi.org/10.1007/s11747-018-0621-6

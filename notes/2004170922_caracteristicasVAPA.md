@@ -29,6 +29,20 @@ Hay características del diseño de los asistentes que pueden afectar a su acept
     - VPA devices look professionally designed
     - The overall look and feel of VPA devices is visually appealing Overall, VPA devices look attractive
 
+Estas características pueden aumentar la [compatibilidad del dispositivo](2004240855_compatibilidad_dispositivo.md) con la persona.
+
+## El localismo puede moderar el engagement
+
+@moriuchi2019_okay incluyen esta característica del dispositivo como elemento moderador en la relación entre la utilidad percibida y el engagement, aunque no está en exceso justificado porqué. La escala que usan es:
+
+- LOC1 I would use a voice assistant if it understands my local slang
+- LOC2 I would use a voice assistant if it understands my cultural nuances 
+- LOC3 I would use a voice assistant more if the voice assistants understand my language 
+- LOC4 I would use a voice assistant if it has a local accent. 
+- LOC5 I would use a voice assistant if it understands my local offerings 
+
+
+
 # Notas relacionadas:
 
 - [Index](_2003101705_index.md)
@@ -36,10 +50,12 @@ Hay características del diseño de los asistentes que pueden afectar a su acept
 - [Utilidad percibidad en los VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md)
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
+- [La compatibilidad del dispositivo](2004240855_compatibilidad_dispositivo.md)
 
 --
 References
 
 - Burbach, L., Halbach, P., Plettenberg, N., Nakayama, J., Ziefle, M., & Calero Valdez, A. (2019). “Hey, Siri”, “Ok, Google”, “Alexa”. Acceptance-Relevant Factors of Virtual Voice-Assistants. 2019 IEEE International Professional Communication Conference (ProComm), 101–111. https://doi.org/10.1109/ProComm.2019.00025
+- Moriuchi, E. (2019). Okay, Google!: An empirical study on voice assistants on consumer engagement and loyalty. Psychology & Marketing, 36(5), 489–501. https://doi.org/10.1002/mar.21192
 - Yang, H., & Lee, H. (2019). Understanding user behavior of virtual personal assistant devices. Information Systems and E-Business Management, 17(1), 65–87. https://doi.org/10.1007/s10257-018-0375-1
 

@@ -23,7 +23,7 @@ La intención de adopción es un concepto a futuro, que se relaciona por tanto c
 
 @easwara2015_privacy también enmarcan su experimento sobre uso de voz en VAPAS en un modelo TAM teórico aunque luego no lo estiman empíricamente.
 
-@yan2019_undestanding también incluyen la utilidad percibida y el disfrute hedónico en su modelo de adopción  que se centra en analizar el efecto de las [características del dispositivo]. La escala que utilizan es:
+@yan2019_undestanding también incluyen la utilidad percibida y el disfrute hedónico en su modelo de adopción  que se centra en analizar el efecto de las [características del dispositivo](2004170922_caracteristicasVAPA.md). La escala que utilizan es:
 
 - I intend to use VPA devices in the future
 - I predict I would use VPA devices in the future 
@@ -60,6 +60,7 @@ Esta escala de intención de continuar sería un punto intermedio entre la inten
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
 - [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
 - [La norma subjetiva en los VAPAS](2004251156_normasubjetiva_asistentesvirtuales.md)
+- [La influencia de las características del dispositivo](2004170922_caracteristicasVAPA.md)
 - [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
 - [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
