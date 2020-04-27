@@ -19,12 +19,21 @@ Para valorar en qué medida se aprecian los algoritmos se utiliza una medida lla
 
 Es interesante pensar porqué en este contexto se presentan estos resultados, pero en los resultados de [@luo2019_frontiers](2004041604_preferimos_comprar_personas_chatbot.md) el efecto en ventas del chatbot se desvanecía en cuanto se averiguaba que era un bot. ¿Estamos dispuestos a aceptar la predicción pero no a interactuar con ellos?
 
+@yeomans2019_making también encuentra un efecto similar, comparando la precisión de un algoritmo con el de una persona para recomendar chistes a alguien (incluyendo las recomendaciones de amigos). Su algoritmo resulta ser mejor que las personas eligiendo los chistes, pero los individuos confían menos en él que en una persona.
+
 **Quizás es interesante comparar el consejo en interactuación directa o mediado por un humano**.
+
+
+## La confianza en el algoritmo depende del tipo de tarea
+
+Sin embargo (@castelo2019_taskdependent)[2004271035_algorithm_type_task.md] encuentran que en general, se **prefiere el consejo humano**, aunque [@castelo2019_taskdependent](2004271035_algorithm_type_task.md) plantean como la confianza en los algoritmos depende del tipo de tarea, siendo menor para tareas subjetivas que para tareas objetivas.
+
 
 ## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)
+- [El tipo de tarea y la interacción con los algoritmos](2004271035_algorithm_type_task.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
@@ -33,4 +42,6 @@ Es interesante pensar porqué en este contexto se presentan estos resultados, pe
 
 References:
 
-Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151(December 2018), 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005
+
+- Castelo, N., Bos, M. W., & Lehmann, D. R. (2019). Task-Dependent Algorithm Aversion. Journal of Marketing Research, 002224371985178. https://doi.org/10.1177/0022243719851788
+- Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151(December 2018), 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005

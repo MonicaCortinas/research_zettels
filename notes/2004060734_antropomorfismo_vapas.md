@@ -55,6 +55,20 @@ Aunque en el enfoque CASA o en la idea de personificación, un antropomorfismo m
 
 > "the effects of cognitive human-likeness on comfort may be non-linear, with initial increases preserving control with the technology, but further increases creating perceived threats and discomfort even as the technology becomes more useful" @castelo2019_blurring, page 22
 
+## La "affective human-likeness" del algoritmo. 
+
+[@castelo2019_taskdependent](2004271035_algorithm_type_task.md) plantean un efecto moderador del "parecido a la persona en cuanto a las capacidades afectivas" en la aceptación del consejo de los algoritmos. Los algoritmos que se percibe tienen unas capacidades afectivas mayores se pueden percibir como mejores para tareas subjetivas y mejorando la confianza a pesar de que puedan generar incomididad. 
+
+@castelo2019_taskdependent mencionan dos dimensiones distintas en este parecido:
+
+- habilidades cognitivas
+- habilidades afectivas también llamadas de "agencia", o de "naturaleza humana"
+
+En el estudio 6 de ese trabajo se manipula esta dimensión de habilidades afectivas dándoles a leer un texto reafirmativo en ese sentido y en la otra condición un texto contrario. Efectivamente, cuando se piensa que los algoritmos tienen estas habilidades, la confianza en el consejo es mayor.
+
+
+
+
 ## Cuestiones abiertas sobre el antropomorfismo
 
 Así, según @steinhoff2019_online las preguntas abiertas son:

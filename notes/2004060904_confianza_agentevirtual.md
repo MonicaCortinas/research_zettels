@@ -55,11 +55,16 @@ Para @brill2019_siri la confianza percibida tiene tres dimensiones:
   - TI3. I consider my digital assistant to possess integrity.
   - TI4. My digital assistant is not linked to a specific company, so it is unbiased.
 
+## La tarea como antecedente de la confianza
+
+[@castelo2019_taskdependent](2004271035_algorithm_type_task.md) plantean como la confianza en los algoritmos depende del tipo de tarea, siendo menor para tareas subjetivas que para tareas objetivas.
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
+- [El tipo de tarea y la interacción con los algoritmos](2004271035_algorithm_type_task.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
