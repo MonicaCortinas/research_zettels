@@ -61,6 +61,7 @@ Esta escala de intención de continuar sería un punto intermedio entre la inten
 - [La privacidad y los VAPAS](2004170957_laprivacidadylosVAPAS.md)
 - [La norma subjetiva en los VAPAS](2004251156_normasubjetiva_asistentesvirtuales.md)
 - [La influencia de las características del dispositivo](2004170922_caracteristicasVAPA.md)
+- [Los modelos de precio y negocio de los asistentes](2004281216_modelos_precios_asistentes_virtuales.md)
 - [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
 - [La interactuación con los VAPAS](2004210737_lainteraccionconlosvapas.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)

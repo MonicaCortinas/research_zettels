@@ -31,6 +31,8 @@ Los afectos sentimentales están relacionados con el grado de personificación q
 
 También insisten en la personificación @gao2018_alexa con datos de reviews, aunque su análisis no es muy preciso por el diccionario que utilizan, pero también detectan, como @purington2017_alexa mejores actitudes en las revisiones con mayor grado de personificación.
 
+De la misma forma @adam2020_AIbased en este caso utilizando un [chatbot financiero](2003241127_chatbotsycustomercompliance.md) encuentran que la imitación de un lenguaje más social por parte del chatbot hace que este sea más efectivo. 
+
 ### Escalas en el enfoque parasocial:
 
 - Relación parasocial:
@@ -78,6 +80,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 - [Index](_2003101705_index.md)
 - [Intención de adopción de VAPAs](2004060832_intencion_adopcion_agente_virtual.md). 
 - [La adopción de los asistentes](2004240903_adopcion_asistentes.md)
+- [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md)
 - [Utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
 - [Facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [Disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
@@ -98,6 +101,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 
 Referencias 
 
+- Adam, M., Wessel, M., & Benlian, A. (2020). AI-based chatbots in customer service and their effects on user compliance. Electronic Markets, 1–19. https://doi.org/10.1007/s12525-020-00414-7
 - Fullwood, C., Quinn, S., Kaye, L. K., & Redding, C. (2017). My virtual friend: A qualitative analysis of the attitudes and experiences of Smartphone users: Implications for Smartphone attachment. Computers in Human Behavior, 75, 347–355. https://doi.org/10.1016/j.chb.2017.05.029
 - Gao, Y., Pan, Z., Wang, H., & Chen, G. (2018). Alexa, My Love: Analyzing Reviews of Amazon Echo. In L. Wang, G and Han, Q and Bhuiyan, MZA and Ma, X and Loulergue, F and Li, P and Roveri, M and Chen (Ed.), 2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) (pp. 372–380). https://doi.org/10.1109/SmartWorld.2018.00094
 - Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants. Industrial Management & Data Systems, 118(3), 618–636. https://doi.org/10.1108/IMDS-05-2017-0214

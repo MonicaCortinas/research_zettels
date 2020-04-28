@@ -37,6 +37,7 @@ En general, nosotros vamos a reservar el término chatbots para los asistentes q
 - [Index](_2003101705_index.md)
 - [Historia de los agentes virtuales](2004030753_historia_agentes_virtuales.md)
 - [La presencia física de los asistentes virtuales](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
+- [Los modelos de precio y negocio de los asistentes](2004281216_modelos_precios_asistentes_virtuales.md)
 - [Antropomorfismo de agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [Preferimos interactuar con personas que con chatbots](2004041604_preferimos_comprar_personas_chatbot.md)
 - [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)

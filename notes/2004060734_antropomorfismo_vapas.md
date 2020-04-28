@@ -66,8 +66,9 @@ Aunque en el enfoque CASA o en la idea de personificación, un antropomorfismo m
 
 En el estudio 6 de ese trabajo se manipula esta dimensión de habilidades afectivas dándoles a leer un texto reafirmativo en ese sentido y en la otra condición un texto contrario. Efectivamente, cuando se piensa que los algoritmos tienen estas habilidades, la confianza en el consejo es mayor.
 
+## El antropomorfismo en los chatbots
 
-
+En el trabajo de @adam2020_AIbased: [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md) se muestra que los chatbots que imitan el comportamiento más social de las personas tienen una mejor acogida.
 
 ## Cuestiones abiertas sobre el antropomorfismo
 
@@ -85,6 +86,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
+- [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
@@ -99,6 +101,9 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 --
 
 Referencias 
+
+
+- Adam, M., Wessel, M., & Benlian, A. (2020). AI-based chatbots in customer service and their effects on user compliance. Electronic Markets, 1–19. https://doi.org/10.1007/s12525-020-00414-7
 - Castelo, N. (2019). Blurring the Line Between Human and Machine: Marketing Artificial Intelligence.
 - Gao, Y., Pan, Z., Wang, H., & Chen, G. (2018). Alexa, My Love: Analyzing Reviews of Amazon Echo. In L. Wang, G and Han, Q and Bhuiyan, MZA and Ma, X and Loulergue, F and Li, P and Roveri, M and Chen (Ed.), 2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) (pp. 372–380). https://doi.org/10.1109/SmartWorld.2018.00094
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w

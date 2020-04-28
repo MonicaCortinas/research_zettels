@@ -66,7 +66,6 @@ Encuentran que se confía menos en los algoritmos para las tareas con mayores co
 
 ## Notas relacionadas
 
-
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La utilidad percibida de los VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md)
@@ -75,6 +74,7 @@ Encuentran que se confía menos en los algoritmos para las tareas con mayores co
 - [La atención a los anuncios en Facebook](2004180843_atencion_anuncios_facebook_segunamistad.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
 - [El disfrute percibido en el uso de los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
+- [Los modelos de precios y negocio de los asistentes](2004281216_modelos_precios_asistentes_virtuales.md)
 
 --
 References
