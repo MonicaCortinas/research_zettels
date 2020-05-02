@@ -19,6 +19,7 @@ Explican la segmentación (estimada con cluster latente), en función de lo que 
 
 - [Index](_2003101705_index.md)
 - [Omnicanalidad, promociones y lealtad](2003251201_omnicanalidadylealtad.md)
+- [El social customer journey](2005021657_customerjourney_social.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 
 

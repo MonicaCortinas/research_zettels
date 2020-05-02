@@ -97,6 +97,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
 - [Análisis de patentes sobre chatbots en los últimos 20 años](2003250911_analisistextopatentesparachatbots.md)
 - [Los usos profesionales de los agentes virtuales](2004081151_usos_profesionales_vapas.md)
+- [Innovaciones radicales y mejora humana](2005021709_radical_innovation_human_enhacements.md)
 
 --
 

@@ -15,6 +15,7 @@ Obtienen que los consumidores online o en los que combinan los canales online y 
 
 - [Index](_2003101705_index.md)
 - [Omnicanalidad y propensión a la promoción](2003251201_omnicanalidadylealtad.md)
+- [El social customer journey](2005021657_customerjourney_social.md)
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 
 

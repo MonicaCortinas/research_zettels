@@ -36,9 +36,15 @@ e.g. Siri develops super-human capabilities such as solving complex mathematical
 
 ## Notas relacionadas
 
+- [Index](_2003101705_index.md)
+
+- [Inteligencia Artificial, aplicaciones, probadores virtuales](2005021646_aplicacionesIA_probadoresvirtuales.md)
+
 - Chatbots, nota inicial: [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md)
 
 - VAPAs, nota inicial: [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
+
+- [Innovaciones radicales y mejora humana](2005021709_radical_innovation_human_enhacements.md)
 --
 
 References

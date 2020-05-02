@@ -36,6 +36,7 @@ En general, nosotros vamos a reservar el término chatbots para los asistentes q
 
 - [Index](_2003101705_index.md)
 - [Historia de los agentes virtuales](2004030753_historia_agentes_virtuales.md)
+- [Inteligencia Artificial, aplicaciones, probadores virtuales](2005021646_aplicacionesIA_probadoresvirtuales.md)
 - [La presencia física de los asistentes virtuales](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [Los modelos de precio y negocio de los asistentes](2004281216_modelos_precios_asistentes_virtuales.md)
 - [Antropomorfismo de agentes virtuales](2004060734_antropomorfismo_vapas.md)
@@ -46,6 +47,7 @@ En general, nosotros vamos a reservar el término chatbots para los asistentes q
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
 - [Análisis de patentes sobre chatbots en los últimos 20 años](2003250911_analisistextopatentesparachatbots.md)
+- [Los VAPAs en el social customer journey](2005021657_customerjourney_social.md)
 
 
 --

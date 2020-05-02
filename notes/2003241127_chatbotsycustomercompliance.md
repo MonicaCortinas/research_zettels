@@ -23,6 +23,7 @@ En el experimento, además, se incluye el efecto del ["foot-in-door"](2003241149
 
 - [Index](_2003101705_index.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
+- [Antropomorfismo y VAPAs](2004060734_antropomorfismo_vapas.md)
 - [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 - [Chatbots: El aprendizaje tutorizado interactivo en la educación del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
@@ -30,6 +31,7 @@ En el experimento, además, se incluye el efecto del ["foot-in-door"](2003241149
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [El género de los asistentes virtuales](2004051710_genero_asistentes_virtuales.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
+- [Innovaciones radicales y mejora humana](2005021709_radical_innovation_human_enhacements.md)
 
 --
 References:
