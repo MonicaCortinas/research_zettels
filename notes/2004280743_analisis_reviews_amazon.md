@@ -14,14 +14,20 @@ pradhan2018_accesibility utilizan datos de reviews de Amazon para estudiar el us
 
 @nguyen2019_hey también utilizan reviews pero en este caso no se de Amazon, sino de **Bestbuy** para hacer un análisis de topic modeling usando un modelo de Lantent Dirichlet Allocation (LDA). En este caso, parten de 53.273 reviews. Recogen datos de Amazon (Echo, Echo Dot, Echo Spot), Google (Home, Home Mini, Home Max), Apple (HomePod) and Sonos (One, Beam). El resultado son 13 tópicos distintos que después unifican en ocho: precio, integración, calidad de sonido, fiabilidad, skills, diversión, facilidad de uso, poner música. Comparan el rendimiento por dispositivo, siendo mejor en los aspectos de sonido para Apple y Sonnos, pero mejor en skills y diversión para Google Home y Amazon Alexa.
 
+# Otros usos de datos de reviews de Amazon
+
+@kordrostami2020_investigating, como otros trabajos, se centran en analizar cómo influyen las reviews en las compras. En este caso además, no se hace análisis textual, sino solo la puntuación y el volumen de ventas de zapatos.
+
 ## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
+- [El efecto de las reviews en la compra de productos](2005031821_efectodelasreviews_compra_productos.md)
 - [Textual Analysis](2003250920_textual_analysis.md)
 
 -- 
 References
 
+- Kordrostami, E., & Rahmani, V. (2020). Investigating conflicting online review information:evidence from Amazon.com. Journal of Retailing and Consumer Services, 55(October 2019), 102125. https://doi.org/10.1016/j.jretconser.2020.102125
 - Nguyen, H., & Hovy, D. (2019). Hey Siri . Ok Google . Alexa : A topic modeling of user reviews for smart speakers. W-NUT Workshop, EMNLP.
 - Pradhan, A., Mehta, K., & Findlater, L. (2018). “Accessibility came by accident”: Use of voice-controlled intelligent personal assistants by people with disabilities. Conference on Human Factors in Computing Systems - Proceedings, 2018-April, 1–13. https://doi.org/10.1145/3173574.3174033
 - Purington, A., Taft, J. G., Sannon, S., Bazarova, N. N., & Taylor, S. H. (2017). “Alexa is my new BFF”: Social Roles, User Satisfaction, and Personification of the Amazon Echo. Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA ’17, 2853–2859. https://doi.org/10.1145/3027063.3053246

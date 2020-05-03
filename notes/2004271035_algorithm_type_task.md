@@ -41,6 +41,8 @@ Plantean seis estudios para contestar a estas cuestiones:
 
 - Estudio 6: afectividad similar a la persona del algoritmo. Se manpulan las habilidades afectivas dándoles a leer un texto reafirmativo en ese sentido y en la otra condición un texto contrario. Efectivamente, cuando se piensa que los algoritmos tienen estas habilidades, la confianza en el consejo es mayor.
 
+Este mismo trabajo se presenta en una versión divulgativa en @castelo2019_letthemachine.
+
 [@logg2019_algorithm](2004060917_aceptacion_consejo_algoritmos.md) también incluyen el nivel de subjetividad en su trabajo general sobre aceptación del consejo de los algoritmos, variando el nivel de subjetividad según el experimento, aunque no contrastan situaciones con alta y baja subjetividad.
 
 @dijkstra1998_persuasivenes tienen en cuenta la subjetividad desde una perspectiva más diferente: cómo se perciben las decisiones del algoritmo, comparando el mismo resultado presentado a los sujetos que proviene de un sistema humano o experto. Los resultados muestran que el Sistema Experto se percibe como más objetivo que el humano.
@@ -80,6 +82,7 @@ Encuentran que se confía menos en los algoritmos para las tareas con mayores co
 References
 
 - Castelo, N., Bos, M. W., & Lehmann, D. R. (2019). Task-Dependent Algorithm Aversion. Journal of Marketing Research, 002224371985178. https://doi.org/10.1177/0022243719851788
+- Castelo, N., Bos, M. W., & Lehmann, D. (2019). Let the Machine Decide: When Consumers Trust or Distrust Algorithms. NIM Marketing Intelligence Review, 11(2), 24–29. https://doi.org/10.2478/nimmir-2019-0012
 - Castelo, N. (2019). Blurring the Line Between Human and Machine: Marketing Artificial Intelligence. Dissertation. Columbia Business School
 - Dijkstra, J. J., Liebrand, W. B. G., & Timminga, E. (1998). Persuasiveness of expert systems. Behaviour & Information Technology, 17(3), 155–163. https://doi.org/10.1080/014492998119526
 - Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151(December 2018), 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005
