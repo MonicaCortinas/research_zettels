@@ -16,7 +16,7 @@ pradhan2018_accesibility utilizan datos de reviews de Amazon para estudiar el us
 
 # Otros usos de datos de reviews de Amazon
 
-@kordrostami2020_investigating, como otros trabajos, se centran en analizar cómo influyen las reviews en las compras. En este caso además, no se hace análisis textual, sino solo la puntuación y el volumen de ventas de zapatos.
+@kordrostami2020_investigating, como otros trabajos, se centran en analizar cómo influyen las reviews en las compras. En este caso además, no se hace análisis textual, sino solo la puntuación y el volumen de ventas de zapatos. También [@dai2020_people](2005031821_efectodelasreviews_compra_productos.md) usan reviews (más de seis millones de revies) para comparar la influencia de la review en las compras de productos experienciales versus los materiales. 
 
 ## Notas relacionadas:
 
@@ -27,6 +27,7 @@ pradhan2018_accesibility utilizan datos de reviews de Amazon para estudiar el us
 -- 
 References
 
+- Dai, H., Chan, C., & Mogilner, C. (2020). People Rely Less on Consumer Reviews for Experiential than Material Purchases. Journal of Consumer Research, 46(6), 1052–1075. https://doi.org/10.1093/jcr/ucz042
 - Kordrostami, E., & Rahmani, V. (2020). Investigating conflicting online review information:evidence from Amazon.com. Journal of Retailing and Consumer Services, 55(October 2019), 102125. https://doi.org/10.1016/j.jretconser.2020.102125
 - Nguyen, H., & Hovy, D. (2019). Hey Siri . Ok Google . Alexa : A topic modeling of user reviews for smart speakers. W-NUT Workshop, EMNLP.
 - Pradhan, A., Mehta, K., & Findlater, L. (2018). “Accessibility came by accident”: Use of voice-controlled intelligent personal assistants by people with disabilities. Conference on Human Factors in Computing Systems - Proceedings, 2018-April, 1–13. https://doi.org/10.1145/3173574.3174033

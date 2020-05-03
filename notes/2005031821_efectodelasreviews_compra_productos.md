@@ -25,6 +25,12 @@ Estas hipótesis se comprueban con:
 - un diseño experimental
 - datos de zapatos en Amazon: reviews y ranking de ventas. No se hace análisis textual, solo los valores cuantitativos de número de reviews y puntuación.
 
+## El efecto de las reviews depende del tipo de producto: son menos influyentes para productos experienciales
+
+@dai2020_people utilizan más de seis millones de reviews para comprobar su utilidad y también una serie de experimentos para confirmar sus resultados.
+
+Comprueban que, cuando el producto es de tipo experiencial se confía menos en las reviews que cuando el producto es de tipo materialista, porque se considera que la review está basada más en la experiencia subjetiva y menos en la calidad objetiva del producto.
+
 
 ## Notas relacionadas:
 
@@ -37,4 +43,5 @@ Estas hipótesis se comprueban con:
 
 Referencias
 
+- Dai, H., Chan, C., & Mogilner, C. (2020). People Rely Less on Consumer Reviews for Experiential than Material Purchases. Journal of Consumer Research, 46(6), 1052–1075. https://doi.org/10.1093/jcr/ucz042
 - Kordrostami, E., & Rahmani, V. (2020). Investigating conflicting online review information:evidence from Amazon.com. Journal of Retailing and Consumer Services, 55(October 2019), 102125. https://doi.org/10.1016/j.jretconser.2020.102125
