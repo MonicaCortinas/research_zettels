@@ -28,6 +28,16 @@ Es interesante pensar porqué en este contexto se presentan estos resultados, pe
 
 Sin embargo (@castelo2019_taskdependent)[2004271035_algorithm_type_task.md] encuentran que en general, se **prefiere el consejo humano**, aunque [@castelo2019_taskdependent](2004271035_algorithm_type_task.md) plantean como la confianza en los algoritmos depende del tipo de tarea, siendo menor para tareas subjetivas que para tareas objetivas.
 
+## La resistencia al uso en aplicaciones médica y el sentido de ser "único"
+
+@longoni2019_resistance en un estudio con ¡11! diseños experimentales estudian la aceptación o no de esta tecnología en aplicaciones médicas y muestran como **preferimos el consejo humano al de la inteligencia artificial**.
+
+Exploran las posibles razones detras de este efecto y la percepción de ser único y la "uniqueness neglect", la percepción de que los algoritmos no saben lidiar tan bien como las personas con las características individuales. 
+
+De hecho, se acepta mejor esta teconología cuando en vez de para uno mismo se plantea para su utilización en el individuo medio. Esto puede estar también relacionado con la **subjetividad** ya que la adaptación a un individuo es más subjetiva que la evaluación para el individuo medio. 
+
+También comprueban que se acepta mejor como apoyo a los profesionales, que como sustituto,
+
 
 ## Notas relacionadas:
 
@@ -45,3 +55,4 @@ References:
 
 - Castelo, N., Bos, M. W., & Lehmann, D. R. (2019). Task-Dependent Algorithm Aversion. Journal of Marketing Research, 002224371985178. https://doi.org/10.1177/0022243719851788
 - Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151(December 2018), 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005
+- Longoni, C., Bonezzi, A., & Morewedge, C. K. (2019). Resistance to Medical Artificial Intelligence. Journal of Consumer Research, 46(4), 629–650. https://doi.org/10.1093/jcr/ucz013

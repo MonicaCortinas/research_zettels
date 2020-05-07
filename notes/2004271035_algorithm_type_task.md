@@ -49,12 +49,19 @@ Este mismo trabajo se presenta en una versión divulgativa en @castelo2019_letth
 
 @yeomans2019_making se centra en un contexto subjetivo, la selección de chistes, para comparar la aceptación del consejo de algoritmos, encontrando que, aunque el consejo es mejor que las personas eligiendo los chistes, pero los individuos confían menos en él que en una persona.
 
+## Las tareas según su personalización al individuo ¿es lo mismo o distinto que la subjetividad?
+
+@longoni2019_resistance estudian la aceptación o no de esta tecnología en aplicaciones médicas y muestran como preferimos el consejo humano al de la inteligencia artificial por la "uniqueness neglect", la percepción de que los algoritmos no saben lidiar tan bien como las personas con las características individuales y se acepta mejor esta teconología cuando en vez de para uno mismo se plantea para su utilización en el individuo medio. Esto puede estar también relacionado con la **subjetividad** ya que la adaptación a un individuo es más subjetiva que la evaluación para el individuo medio. 
+
+
 ## Las tareas según su nivel de riesgo
 
 @castelo2019_taskdependent incluyen en el estudio 1 el nivel de "consecuencialidad" de las tareas. Para ello incluyen simplemente un indicador:
 - how consequential versus inconsequential it seemed, using scales from 0 (“not at all”) to 100 (“completely”). 
 
 Encuentran que se confía menos en los algoritmos para las tareas con mayores consecuencias. 
+
+Los resultados de resistencia al algoritmo en @longoni2019_resistance pueden estar también relacionados con ese nivel de riesgo
 
 ## Las tareas según su componente hedónico versus utilitario
 
@@ -86,4 +93,5 @@ References
 - Castelo, N. (2019). Blurring the Line Between Human and Machine: Marketing Artificial Intelligence. Dissertation. Columbia Business School
 - Dijkstra, J. J., Liebrand, W. B. G., & Timminga, E. (1998). Persuasiveness of expert systems. Behaviour & Information Technology, 17(3), 155–163. https://doi.org/10.1080/014492998119526
 - Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151(December 2018), 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005
+- Longoni, C., Bonezzi, A., & Morewedge, C. K. (2019). Resistance to Medical Artificial Intelligence. Journal of Consumer Research, 46(4), 629–650. https://doi.org/10.1093/jcr/ucz013
 - Yeomans, M., Shah, A., Mullainathan, S., & Kleinberg, J. (2019). Making sense of recommendations. Journal of Behavioral Decision Making, 32(4), 403–414. https://doi.org/10.1002/bdm.2118

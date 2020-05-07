@@ -19,10 +19,12 @@ La detección de qué estímulos pueden ser los favoritos puede hacerse por elec
 
 @navalpakkam2005_vision aplican una modelización con esta idea para explicar cómo, una vez que se define una tarea, se determina qué estímulos de los presentes son relevantes para esa tarea y con ese reconocimiento se construye un mapa de relevancia de los estímulos. Se testa cómo funciona el modelo con tres tipos de tareas. Este mapa de relevancia es algo similar al concepto de [mapas de relevancia](2003310840_saliencia_convencion_atencion_sitio.md)
 
-Notas relacionadas:
 
+
+## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
+- [La percepción visual en marketing](2005061045_percepcion_visual_marketing.md)
 - [Teoría constructivista de la percepción](2003161101_teoria_constructivista_percepcion.md)
 - [Teoría ecológica de la percepción](2003161118_teoria_ecologica_percepcion.md)
 - [Las etapas en la atención a un estímulo](2004180816_etapas_atencion_eleccionproductos.md)
