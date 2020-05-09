@@ -37,6 +37,7 @@ Hay 14 items en total. Aunque la escala es un poco antigua, los items parecen ig
 - [La calidad del sitio web como extrinsic cue de calidad](2004201730_calidadsitioweb_extrisiccueproductos.md)
 - [Validación de DFS-2](2003311902_validacion_dSF2.md)
 - [Los atmospherics en la experiencia web](2004060631_web_atmospherics.md)
+- [La aceptación de las cookies y la atribución de responsabilidad](2005091936_aceptacioncookiescomofacilitadorpreciosdinamicos.md)
 
 
 --

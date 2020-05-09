@@ -52,6 +52,8 @@ Perceived
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [La satisfacción con los VAPAS](2004240815_satisfaccion_vapas.md)
+- [La privacidad en la calidad del sitio web](2004201800_etailQ_web_site_quality.md)
+- [La aceptación de las cookies y la atribución de responsabilidad](2005091936_aceptacioncookiescomofacilitadorpreciosdinamicos.md)
 - [Las características del asistente y su efecto en la utilidad percibida](2004170922_caracteristicasVAPA.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
