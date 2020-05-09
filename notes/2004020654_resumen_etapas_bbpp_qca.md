@@ -45,6 +45,7 @@ Además, en este capítulo se incluyen algunas cuestiones sobre el software. Las
 - [Index](_2003101705_index.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 - [Qué es el QCA](2003212024_qca_descripcion.md)
+- [Aplicaciones en marketing de QCA](2005091837_aplicaciones_marketingQCA.md)
 - [Qué es un set](2003221713_setdefinition_qca.md)
 - [Cómo calibrar](2003221733_calibracion_sets.md)
 - [Lógica booleana](2003231138_operaciones_boleanas.md)
@@ -58,6 +59,7 @@ Además, en este capítulo se incluyen algunas cuestiones sobre el software. Las
 - [Suficiencia y cobertura de condiciones necesarias](2003290828_consistencia_cobertura_condiciones_necesarias.md)
 - [Diversidad limitada](2003300812_diversidad_limitada_qca.md)
 - [Problemas potenciales en QCA](2004020637_problemas_potenciales_QCA_extensiones.md)
+
 
 --
 

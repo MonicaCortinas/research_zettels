@@ -44,6 +44,7 @@ Los métodos set theoretic se llaman a veces "boolean methods", "logical methods
 - [Tablas de la verdad](2003260827_qca_tabladelaverdad.md)
 - [Minimización de la tabla de la verdad](2003261610_minimizacion_tabladelaverdad.md)
 - [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
+- [Aplicaciones en marketing de QCA](2005091837_aplicaciones_marketingQCA.md)
 
 
 --

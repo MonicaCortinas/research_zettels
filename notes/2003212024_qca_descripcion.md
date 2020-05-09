@@ -48,6 +48,7 @@ Otras dos variantes son menos frecuentes (@schneider2012_set, capítulo 10):
 - [Complejidad causal: INUS Y SUIN](2003250705_causalcomplexity.md)
 - [Tamaño de la muestra en QCA](2003250723_tamanomuestraenQCA.md)
 - [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
+- [Aplicaciones en marketing de QCA](2005091837_aplicaciones_marketingQCA.md)
 
 --
 
