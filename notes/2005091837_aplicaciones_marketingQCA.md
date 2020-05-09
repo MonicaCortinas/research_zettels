@@ -18,14 +18,29 @@ Cada vez hay más aplicaciones empíricas de los métodos QCA.
 - Se presenta un gráfico de marco conceptual y de soluciones interesante.
 - Los resultados del alpha de Crombach y los items se presentan en el apéndice
 
+## El QCA para el análisis del comportamiento de webrooming
+
+@aw2020_undertanding hace un análisis muy similar, con una forma parecida de presentar el marco concetual y también con el mismo análisis de escalas. En este caso:
+
+- Utiliza 5 variables
+- Utiliza también fsQCA
+- Se hace un análisis de validez predictiva con una muestra de validación y una de test para hacer los resultados más robustos.
+
+La cobertura total con tres soluciones es muy alta 0.83
+
+
 # Notas relacionadas
 
 - [Index](_2003101705_index.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 - [Qué es el QCA](2003212024_qca_descripcion.md)
 - [Resumen de BBPP QCA](2004020654_resumen_etapas_bbpp_qca.md)
+- [Canal de queja y omnicanalidad](2005091827_canaldequejacontextoomnicanal.md)
+- [Análisis del webrooming y la implicación con el producto mediante QCA](2005091857_laimportanciadelaimplicacioneenwebrooming.md)
 --
 
 Referencias
+
+- Aw, E. C. X. (2020). Understanding consumers’ paths to webrooming: A complexity approach. Journal of Retailing and Consumer Services, 53(November 2019). https://doi.org/10.1016/j.jretconser.2019.101991
 
 - Miquel-Romero, M. J., Frasquet, M., & Molla-Descals, A. (2020). The role of the store in managing postpurchase complaints for omnichannel shoppers. Journal of Business Research, 109(December 2019), 288–296. https://doi.org/10.1016/j.jbusres.2019.09.057

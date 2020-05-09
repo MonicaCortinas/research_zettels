@@ -19,12 +19,14 @@ Para aplicar el QCA comprueban la dimensionalidad de las escalas y luego las cod
 
 Los resultados del alpha de Crombach y los items se presentan en el apéndice
 
+
 # Notas relacionadas
 
 - [Index](_2003101705_index.md)
 - [Omnicanalidad y propensión a las promociones](2003251146_omnicanalidadypropension_promocion.md)
 - [Omnicanalidad, promociones y lealtad](2003251201_omnicanalidadylealtad.md)
 - [El social customer journey](2005021657_customerjourney_social.md)
+- [Análisis del webrooming y la implicación con el producto mediante QCA](2005091857_laimportanciadelaimplicacioneenwebrooming.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 
 --

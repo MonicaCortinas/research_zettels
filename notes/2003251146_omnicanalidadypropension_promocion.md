@@ -20,6 +20,7 @@ Explican la segmentación (estimada con cluster latente), en función de lo que 
 - [Index](_2003101705_index.md)
 - [Omnicanalidad, promociones y lealtad](2003251201_omnicanalidadylealtad.md)
 - [Canal de queja y omnicanalidad](2005091827_canaldequejacontextoomnicanal.md)
+- [Análisis del webrooming y la implicación con el producto mediante QCA](2005091857_laimportanciadelaimplicacioneenwebrooming.md)
 - [El social customer journey](2005021657_customerjourney_social.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 
