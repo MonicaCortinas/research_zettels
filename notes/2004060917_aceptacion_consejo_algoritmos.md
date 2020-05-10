@@ -45,6 +45,7 @@ También comprueban que se acepta mejor como apoyo a los profesionales, que como
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)
 - [El tipo de tarea y la interacción con los algoritmos](2004271035_algorithm_type_task.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
+- [Los errores en los chatbots](2005102010_loserroresenloschatbots.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)
 

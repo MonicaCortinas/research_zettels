@@ -36,6 +36,7 @@ for completing its tasks.
 - [Index](_2003101705_index.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
+- [Los errores en los chatbots](2005102010_loserroresenloschatbots.md)
 - [Los usos de los agentes virtuales](2004060821_usos_virtual_agents_sistemas_duales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)

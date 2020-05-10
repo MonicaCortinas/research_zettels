@@ -98,6 +98,7 @@ Así, según @steinhoff2019_online las preguntas abiertas son:
 - [El cuerpo y la presencia de los asistentes](2004040921_cuerpo_presencia_fisica_asistentes_virtuales.md)
 - [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Los usos de los agentes virtuales](2004060821_usos_virtual_agents_sistemas_duales.md)
+- [Los errores en los chatbots](2005102010_loserroresenloschatbots.md)
 - [La interactuación por voz frente a la de tacto](2004051647_effect_voice_interactions.md)
 - [El tipo de lenguaje de los asistentes](2004051732_tipo_lenguaje_asistentes.md)
 - [Chatbot y compliance: El efecto "foot-in-the door"](2003241149_chatbots_footinthedoor_y_compliance.md)

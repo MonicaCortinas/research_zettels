@@ -82,7 +82,7 @@ El trabajo de @sheehan2020_customer se puede encuadrar en esta perspectiva paras
 - [El tipo de lenguaje de los asistentes](2004051732_tipo_lenguaje_asistentes.md)
 - [Diferencias en la relación con los VAPAS según la edad](2004140714_aceptacionVAPASsegunedad.md)
 - [La influencia del conocimiento y la experiencia en la usabilidad percibida de los VAPAS](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
-
+- [Los errores en los chatbots](2005102010_loserroresenloschatbots.md)
 --
 
 Referencias 
