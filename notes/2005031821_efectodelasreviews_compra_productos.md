@@ -36,6 +36,7 @@ Comprueban que, cuando el producto es de tipo experiencial se confía menos en l
 
 - [Index](_2003101705_index.md)
 - [Análisis de reviews en Amazon para VAPAs](2004280743_analisis_reviews_amazon.md)
+- [Algunos clientes escriben reviews falsas](2005101848_reviewsfalsasprodyctos.md)
 - [El efecto de las reviews según el tipo de producto](2004130849_atencion_reviews_segun_producto_busqueda.md)
 - [Cómo interpretar mejor los efectos interacción en una regresión](2005031837_como_explicar_efectos_interaccion.md)
 

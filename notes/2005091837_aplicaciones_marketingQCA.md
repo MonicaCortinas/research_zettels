@@ -28,6 +28,10 @@ Cada vez hay más aplicaciones empíricas de los métodos QCA.
 
 La cobertura total con tres soluciones es muy alta 0.83
 
+# QCA combinado con PLS-SEM
+
+@kaya2020_antecedents en un trabajo no muy de marketing, porque está relacionado con la innovación corporativa y los procesos de aprendizajes, hacen una presentación interesante, porque presentan los resultados con PLS-SEM para ver las relaciones simétricas, en un modelo con poca capacidad explicativa, y luego combinan con fsQCA para presentar relaciones asimétricas, comparando resultados.
+
 
 # Notas relacionadas
 
@@ -42,5 +46,7 @@ La cobertura total con tres soluciones es muy alta 0.83
 Referencias
 
 - Aw, E. C. X. (2020). Understanding consumers’ paths to webrooming: A complexity approach. Journal of Retailing and Consumer Services, 53(November 2019). https://doi.org/10.1016/j.jretconser.2019.101991
+
+- Kaya, B., Abubakar, A. M., Behravesh, E., Yildiz, H., & Mert, I. S. (2020). Antecedents of innovative performance: Findings from PLS-SEM and fuzzy sets (fsQCA). Journal of Business Research, 114(April), 278–289. https://doi.org/10.1016/j.jbusres.2020.04.016
 
 - Miquel-Romero, M. J., Frasquet, M., & Molla-Descals, A. (2020). The role of the store in managing postpurchase complaints for omnichannel shoppers. Journal of Business Research, 109(December 2019), 288–296. https://doi.org/10.1016/j.jbusres.2019.09.057

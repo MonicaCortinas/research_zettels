@@ -18,15 +18,19 @@ pradhan2018_accesibility utilizan datos de reviews de Amazon para estudiar el us
 
 @kordrostami2020_investigating, como otros trabajos, se centran en analizar cómo influyen las reviews en las compras. En este caso además, no se hace análisis textual, sino solo la puntuación y el volumen de ventas de zapatos. También [@dai2020_people](2005031821_efectodelasreviews_compra_productos.md) usan reviews (más de seis millones de revies) para comparar la influencia de la review en las compras de productos experienciales versus los materiales. 
 
+@anderson2014_reviews usan las reviews de Amazon como apoyo de su análisis principal (en una base de datos de un retailer de moda) sobre los consumidores que hacen reviews falsas. 
+
 ## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
 - [El efecto de las reviews en la compra de productos](2005031821_efectodelasreviews_compra_productos.md)
+- [Algunos clientes escriben reviews falsas](2005101848_reviewsfalsasprodyctos.md)
 - [Textual Analysis](2003250920_textual_analysis.md)
 
 -- 
 References
 
+- Anderson, E. T., & Simester, D. I. (2014). Reviews without a purchase: Low ratings, loyal customers, and deception. Journal of Marketing Research, 51(3), 249–269. https://doi.org/10.1509/jmr.13.0209
 - Dai, H., Chan, C., & Mogilner, C. (2020). People Rely Less on Consumer Reviews for Experiential than Material Purchases. Journal of Consumer Research, 46(6), 1052–1075. https://doi.org/10.1093/jcr/ucz042
 - Kordrostami, E., & Rahmani, V. (2020). Investigating conflicting online review information:evidence from Amazon.com. Journal of Retailing and Consumer Services, 55(October 2019), 102125. https://doi.org/10.1016/j.jretconser.2020.102125
 - Nguyen, H., & Hovy, D. (2019). Hey Siri . Ok Google . Alexa : A topic modeling of user reviews for smart speakers. W-NUT Workshop, EMNLP.
