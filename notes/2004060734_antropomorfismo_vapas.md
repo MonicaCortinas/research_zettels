@@ -70,6 +70,13 @@ En el estudio 6 de ese trabajo se manipula esta dimensión de habilidades afecti
 
 En el trabajo de @adam2020_AIbased: [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md) se muestra que los chatbots que imitan el comportamiento más social de las personas tienen una mejor acogida.
 
+También en el trabajo de @sheehan2020_customer el antroporfismo percibido afecta positivamente a la intención de adopción de un chatbot. En su trabajo se centran en cómo los errores que comete el chatbot disminuyen su antropomorfismo percibido y la intención de adopción, aunque si el chatbot pide clarificaciones, este efecto negativo se diluye. Los chatbots que piden aclaraciones se consideran igual de antropomorfos que los que no se equivoca. Se hacen dos estudios en este trabajo, aunque las escalas son un poco pobres:
+
+- Adoption: Please indicate your agreement with the following statement on a scale 1 (strongly disagree) to 7 (strongly agree): I would use a chatbot like this to book hotel accommodation
+- Anthropomorphism: Please indicate the extent to which you agree with the following statements on a scale 1 (strongly disagree) to 7 (strongly agree): Fake – Natural, Machine-like – Human-like, Artificial – Lifelike, Unconscious – Conscious, Communicates Inelegantly – Communicates Elegantly
+- Need for Human Interaction: Please indicate the extent to which you agree with the following statements on a scale 1 (strongly disagree) to 7 (strongly agree), When purchasing consumer goods or services: I like interacting with the person who provides the customer service, It bothers me to use a machine when I could talk to a person instead, Personal attention by the service employee is important to me, Human contact makes the process enjoyable to me
+
+
 ## Cuestiones abiertas sobre el antropomorfismo
 
 Así, según @steinhoff2019_online las preguntas abiertas son:
@@ -109,4 +116,5 @@ Referencias
 - Gao, Y., Pan, Z., Wang, H., & Chen, G. (2018). Alexa, My Love: Analyzing Reviews of Amazon Echo. In L. Wang, G and Han, Q and Bhuiyan, MZA and Ma, X and Loulergue, F and Li, P and Roveri, M and Chen (Ed.), 2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) (pp. 372–380). https://doi.org/10.1109/SmartWorld.2018.00094
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w
 - Purington, A., Taft, J. G., Sannon, S., Bazarova, N. N., & Taylor, S. H. (2017). “Alexa is my new BFF”: Social Roles, User Satisfaction, and Personification of the Amazon Echo. Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA ’17, 2853–2859. https://doi.org/10.1145/3027063.3053246
+- Sheehan, B., Jin, H. S., & Gottlieb, U. (2020). Customer service chatbots: Anthropomorphism and adoption. Journal of Business Research, 115(February 2019), 14–24. https://doi.org/10.1016/j.jbusres.2020.04.030
 - Steinhoff, L., Arli, D., Weaven, S., & Kozlenkova, I. V. (2019). Online relationship marketing. Journal of the Academy of Marketing Science, 47(3), 369–393. https://doi.org/10.1007/s11747-018-0621-6

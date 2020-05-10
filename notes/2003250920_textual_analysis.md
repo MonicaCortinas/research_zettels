@@ -13,7 +13,7 @@ El análisis textual es una familia de técnicas para analizar el contenido de t
 - Utilización del user generated content para generar medidas cuantitativas de interés o relevancia de un determinado fenómeno: eg. análisis descriptivos de frecuencias: Tablas de frecuencias de los términos más habituales. e.g. @pantano2020_forecasting e.g. construcciones de variables indicadoras tipo dummy @pradhan2018_accesibility
 
 - Utilización del user generated content para el análisis de contenido en los propios textos:
-  - Análisis de la valencia del contenido (positivo-negativo y otras emociones): por diccionarios (e.g. LIWC2015) o por inteligencia artificial
+  - Análisis de la valencia del contenido (positivo-negativo y otras emociones): por diccionarios (e.g. LIWC2015: @melumad2020_full) o por inteligencia artificial
   - Análisis de tópicos: trata de detectar los principales temas tratados: e.g. @pantano2020_forecasting lo hacen con el software WordStat, @nguyen2019_hey hacen LDA para reviews de altavoces inteligentes en BestBuy
   - Análisis cluster y análisis multidimensional: e.g. @pantano2020_forecasting lo hacen para identificar temas en las patentes
 
@@ -30,7 +30,8 @@ Notas relacionadas:
 
 Referencias
 
-- Berger, J., Humphreys, A., Ludwig, S., Moe, W. W., Netzer, O., & Schweidel, D. A. (2020). Uniting the Tribes: Using Text for Marketing Insight. Journal of Marketing, 002224291987310. https://doi.o
+- Berger, J., Humphreys, A., Ludwig, S., Moe, W. W., Netzer, O., & Schweidel, D. A. (2020). Uniting the Tribes: Using Text for Marketing Insight. Journal of Marketing, 002224291987310. https://doi.org/10.1177/0022242919873106
+- Melumad, S., & Meyer, R. (2020). Full Disclosure: How Smartphones Enhance Consumer Self-Disclosure. Journal of Marketing, 84(3), 28–45. https://doi.org/10.1177/0022242920912732
 - Nguyen, H., & Hovy, D. (2019). Hey Siri . Ok Google . Alexa : A topic modeling of user reviews for smart speakers. W-NUT Workshop, EMNLP.
 - Pantano, E., & Pizzi, G. (2020). Forecasting artificial intelligence on online customer assistance : Evidence from chatbot patents analysis. Journal of Retailing and Consumer Services, 55, 102096. https://doi.org/10.1016/j.jretconser.2020.102096
 - Pradhan, A., Mehta, K., & Findlater, L. (2018). “Accessibility came by accident”: Use of voice-controlled intelligent personal assistants by people with disabilities. Conference on Human Factors in Computing Systems - Proceedings, 2018-April, 1–13. https://doi.org/10.1145/3173574.3174033

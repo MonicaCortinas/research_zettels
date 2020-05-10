@@ -51,10 +51,16 @@ Así, la intención de continuar con el asistente se mide como:
 
 Esta escala de intención de continuar sería un punto intermedio entre la intención de adopción y la adopción.
 
+El trabajo de @sheehan2020_customer se puede encuadrar en esta perspectiva parasocial, según la cual el antroporfismo percibido afecta positivamente a la intención de adopción de un chatbot. En su trabajo se centran en cómo los errores que comete el chatbot disminuyen su antropomorfismo percibido y la intención de adopción, aunque si el chatbot pide clarificaciones, este efecto negativo se diluye. Los chatbots que piden aclaraciones se consideran igual de antropomorfos que los que no se equivoca. Se hacen dos estudios en este trabajo, aunque las escalas son un poco pobres:
+
+- Adoption: Please indicate your agreement with the following statement on a scale 1 (strongly disagree) to 7 (strongly agree): I would use a chatbot like this to book hotel accommodation
+- Anthropomorphism: Please indicate the extent to which you agree with the following statements on a scale 1 (strongly disagree) to 7 (strongly agree): Fake – Natural, Machine-like – Human-like, Artificial – Lifelike, Unconscious – Conscious, Communicates Inelegantly – Communicates Elegantly
+- Need for Human Interaction: Please indicate the extent to which you agree with the following statements on a scale 1 (strongly disagree) to 7 (strongly agree), When purchasing consumer goods or services: I like interacting with the person who provides the customer service, It bothers me to use a machine when I could talk to a person instead, Personal attention by the service employee is important to me, Human contact makes the process enjoyable to me
 
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [utilidad percibida VAPAS](2004060840_utilidad_percibidad_agentesvirtuales.md) 
 - [facilidad de uso en los VAPAS](2004060853_facilidad_uso_agentes_virtuales.md)
 - [disfrute percibido en los VAPAS](2004060858_disfrute_percibido_agentes_virtuales.md)
@@ -68,7 +74,6 @@ Esta escala de intención de continuar sería un punto intermedio entre la inten
 - [La confianza en los VAPAS](2004060904_confianza_agentevirtual.md)
 - [La experiencia y conocimiento en la adopción](2004150915_aceptacion_VAPA_experiencia_conocimiento.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
-- [El antropomorfismo en agentes virtuales](2004060734_antropomorfismo_vapas.md)
 - [El uso en privado y en público de los asistentes virtuales de voz](2004070858_uso_privado_publico_asistentes.md)
 - [La inteligencia percibida en agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
 - [Nomenclatura en asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
@@ -85,4 +90,5 @@ Referencias
 - Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants. Industrial Management & Data Systems, 118(3), 618–636. https://doi.org/10.1108/IMDS-05-2017-0214
 - Easwara Moorthy, A., & Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. International Journal of Human-Computer Interaction, 31(4), 307–335. https://doi.org/10.1080/10447318.2014.986642
 - Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence and anthropomorphism affect adoption of personal intelligent agents. Electronic Markets. https://doi.org/10.1007/s12525-020-00411-w
+- Sheehan, B., Jin, H. S., & Gottlieb, U. (2020). Customer service chatbots: Anthropomorphism and adoption. Journal of Business Research, 115(February 2019), 14–24. https://doi.org/10.1016/j.jbusres.2020.04.030
 - Yang, H., & Lee, H. (2019). Understanding user behavior of virtual personal assistant devices. Information Systems and E-Business Management, 17(1), 65–87. https://doi.org/10.1007/s10257-018-0375-1
