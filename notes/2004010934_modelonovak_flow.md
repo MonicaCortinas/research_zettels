@@ -35,6 +35,7 @@ Estiman este modelo global con SEM con una muestra de 1600 personas.
 - [La economía de la experiencia](2003171027_experience_economy_theory.md)
 - [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 - [La gamificación como herramienta de mejora del engagement](2003170736_gamificacion_engagement.md)
+- [El efecto de la belleza en la foto de perfil](2005140716_labellezaylafealdadvendenmejorquelanormalidad.md)
 
 --
 ## References:

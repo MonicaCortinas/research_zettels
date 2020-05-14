@@ -19,6 +19,7 @@ ayudan a reducir la irritación. Se estima un modelo de regresión, aunque no se
 - [El modelo de flow de Novak para medir la experiencia online](2004010934_modelonovak_flow.md)
 - [La evaluación estratégica de los sitios web](2004040843_evaluacion_rendimiento_sitio_web.md)
 - [La saliencia en la atención al sitio web](2003310840_saliencia_convencion_atencion_sitio.md)
+- [El efecto de la belleza en la foto de perfil](2005140716_labellezaylafealdadvendenmejorquelanormalidad.md)
 
 --
 Referencias

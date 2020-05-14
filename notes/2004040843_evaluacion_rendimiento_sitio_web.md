@@ -1,5 +1,5 @@
 ---
-tags: [attencion, perception, ecommerce, userexperience, experience, webexperience, Notebooks/attention, Notebooks/perception]
+tags: [attencion, perception, ecommerce, Notebooks/ecommerce, userexperience, experience, webexperience, Notebooks/attention, Notebooks/perception]
 title: 20040040845_La evaluación estratégica del rendimiento de los sitios de comercio electrónico
 created: '2020-04-04T08:26:00.275Z'
 modified: '2020-04-04T08:26:00.275Z'
@@ -31,6 +31,7 @@ En el trabajo se analizan dos sitios web de agencias de viaje en base a esta met
 - [El contraste visual en la experiencia en un sitio web](2004011126_visual_contrast_complexity_web_experience.md)
 - [La colocación esperada de los elementos en un sitio web](2004021623_expectativas_colocacion_banner_links.md)
 - [Los mapas de convenciones](2003310840_saliencia_convencion_atencion_sitio.md)
+- [El efecto de la belleza en la foto de perfil](2005140716_labellezaylafealdadvendenmejorquelanormalidad.md)
 
 --
 Referencias
