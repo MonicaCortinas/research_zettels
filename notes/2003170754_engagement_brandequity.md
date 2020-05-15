@@ -38,7 +38,8 @@ Según @an2020_effects, el engagement tiene efectos en la creación de valor, a 
 - [Index](_2003101705_index.md)
 - [La gamificación afecta positivamente al engagement](2003170736_gamificacion_engagement.md)
 - [La motivación aumenta el engagement](2003101738_motivacion_memoriatrabajo.md)
-- [La teoría del Shelf Determination y la motivación](2003171021_SDT_ motivacion.md)
+- [El contenido emocional genera más engagement que el racional](2005150847_emocionaltienemasengagement.md)
+- [La teoría del Shelf Determination y la motivación](2003171021_SDT_motivacion.md)
 - [La teoría de la economía de la experiencia y el engagement](2003171027_experience_economy_theory.md)
 
 --

@@ -30,6 +30,8 @@ Notas relacionadas:
 - [Index](_2003101705_index.md)
 - [El engagement contribuye a aumentar el capital de marca](2003170754_engagement_brandequity.md)
 - [La validación de la escala de flow en el contexto de gamificación](2003311902_validacion_dSF2.md)
+- [El contenido emocional genera más engagement que el racional](2005150847_emocionaltienemasengagement.md)
+- [Muestras en eyetracking](2003230740_muestras_eyetracking.md)
 
 --
 

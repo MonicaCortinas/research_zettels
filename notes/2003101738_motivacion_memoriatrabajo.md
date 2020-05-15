@@ -35,6 +35,8 @@ Notas relacionadas:
 - [La carga cognitiva afecta a la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
 - [Percepción de textos e imágenes](2003161247_percepcion_textoimagen.md)
 - [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
+- [El contenido emocional genera más engagement que el racional](2005150847_emocionaltienemasengagement.md)
+
 --
 
 Referencias:

@@ -25,6 +25,7 @@ Estas fijaciones se pueden agregar de distintas formas para hacer los análisis:
 - [Index](_2003101705_index.md)
 - [Muestras en eyetracking](2003230740_muestras_eyetracking.md)
 - [El tamaño de la pupila como medida en eyetracking](2003230803_pupilacomomedidadeatencion.md)
+- [Los métodos de neuromarketing](2005150856_metodosneuromarketing.md)
 - [El eyetracker Eyetribe](2004071658_eyetracker_eyetribe.md)
 - [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
 
