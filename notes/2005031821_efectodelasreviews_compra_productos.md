@@ -31,6 +31,18 @@ Estas hipótesis se comprueban con:
 
 Comprueban que, cuando el producto es de tipo experiencial se confía menos en las reviews que cuando el producto es de tipo materialista, porque se considera que la review está basada más en la experiencia subjetiva y menos en la calidad objetiva del producto.
 
+# El efecto de los "productos recomendados"
+
+Otro efecto distinto es el de los productos sugeridos ("otros consumidores compraron este proucto"). En un trabajo con un diseño espectacular, @lee2020_howdo muestran como la aparición como producto recomendado aumenta:
+
+- las vistas del producto un 15%
+- la conversión para los que han visto el producto un 21%
+- los ratios finales de conversión un 7.5%
+
+Este aumento es condicional en el tipo de producto, mayor para productos **utilitarios**
+ versus hedónicos y para **productos de experiencia** frente a **productos de búsqueda**.
+
+ 
 
 ## Notas relacionadas:
 
@@ -46,3 +58,4 @@ Referencias
 
 - Dai, H., Chan, C., & Mogilner, C. (2020). People Rely Less on Consumer Reviews for Experiential than Material Purchases. Journal of Consumer Research, 46(6), 1052–1075. https://doi.org/10.1093/jcr/ucz042
 - Kordrostami, E., & Rahmani, V. (2020). Investigating conflicting online review information:evidence from Amazon.com. Journal of Retailing and Consumer Services, 55(October 2019), 102125. https://doi.org/10.1016/j.jretconser.2020.102125
+- Lee, D., & Hosanagar, K. (2020). How Do Product Attributes and Reviews Moderate the Impact of Recommender Systems Through Purchase Stages ? How Do Product Attributes and Reviews Moderate the Impact of Recommender Systems Through Purchase Stages ? Management Science, (May), 1–23.

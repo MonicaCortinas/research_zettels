@@ -18,6 +18,19 @@ Este trabajo se puede relacionar con que los estímulos más relevantes para la 
 
  Este trabajo es de los mismo autores que [@luan2018_context](2003281654_atencion_recomendaciones_congruencia_productos.md) que estudian la atención a los productos recomendados según la congruencia con el producto que se busca.
 
+# La atención a los productos recomendados es mayor en productos de experiencia que de búsqueda
+
+Otro efecto distinto es el de los productos sugeridos ("otros consumidores compraron este producto"). En un trabajo con un diseño espectacular, @lee2020_howdo muestran como la aparición como producto recomendado aumenta:
+
+- las vistas del producto un 15%
+- la conversión para los que han visto el producto un 21%
+- los ratios finales de conversión un 7.5%
+
+Este aumento es condicional en el tipo de producto, mayor  para **productos de experiencia** frente a **productos de búsqueda**. Se justifica por la mayor influencia de las recomendaciones en general en los prouctos de búsqueda. Según esto, la atención total a las reviews también debería ser mayor en experiencia, pero @luan2018_context no contrastan esto.
+
+También es mayor para productos **utilitarios**  que para los hedónicos.
+ 
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
@@ -30,5 +43,6 @@ Este trabajo se puede relacionar con que los estímulos más relevantes para la 
 --
 ## Referencias
 
+- Lee, D., & Hosanagar, K. (2020). How Do Product Attributes and Reviews Moderate the Impact of Recommender Systems Through Purchase Stages ? How Do Product Attributes and Reviews Moderate the Impact of Recommender Systems Through Purchase Stages ? Management Science, (May), 1–23.
 - Luan, J., Yao, Z., Zhao, F. T., & Liu, H. (2016). Search product and experience product online reviews: An eye-tracking study on consumers’ review search behavior. Computers in Human Behavior, 65, 420–430. https://doi.org/10.1016/j.chb.2016.08.037
 - Luan, J., Yao, Z., Shen, Y., & Xiao, J. (2018). Context congruity effects of online product recommendations: an eye-tracking study. Online Information Review, 42(6), 847–863. https://doi.org/10.1108/OIR-02-2017-0035
