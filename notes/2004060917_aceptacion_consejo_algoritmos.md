@@ -44,6 +44,8 @@ También comprueban que se acepta mejor como apoyo a los profesionales, que como
 - [Index](_2003101705_index.md)
 - [La confianza inicial en el agente virtual](2004060904_confianza_agentevirtual.md)
 - [El tipo de tarea y la interacción con los algoritmos](2004271035_algorithm_type_task.md)
+- [Los sesgos de los algoritmos y la publicidad online](notes\2005190514_sesgos_algoritmos_minorias.md)
+- [El funcionamiento de la publicidad SEM en Google](005190530_elalgoritmoanunciones_google.md)
 - [Preferimos interactuar con personas que con agentes virtuales](2004041604_preferimos_comprar_personas_chatbot.md)
 - [Los errores en los chatbots](2005102010_loserroresenloschatbots.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)

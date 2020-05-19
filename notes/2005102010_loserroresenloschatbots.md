@@ -25,10 +25,12 @@ Las escalas son un poco pobres:
 
 - [Index](_2003101705_index.md)
 - [Aceptación del consejo de los algoritmos](2004060917_aceptacion_consejo_algoritmos.md)
+- [Los sesgos de los algoritmos y la publicidad online](2005190514_sesgos_algoritmos_minorias.md)
 - [Antropomorfismo y VAPAs](2004060734_antropomorfismo_vapas.md)
 - [La intención de adopción de agentes virtuales](2004060832_intencion_adopcion_agente_virtual.md)
 - [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md)
 - [La inteligencia percibida de los agentes virtuales](2004060750_inteligencia_percibida_agentes_virtuales.md)
+- [El funcionamiento de la publicidad SEM en Google](005190530_elalgoritmoanunciones_google.md)
 
 --
 Referencias

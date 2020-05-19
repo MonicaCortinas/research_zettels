@@ -25,6 +25,7 @@ Este trabajo es de los mismos autores que [@luan2016_search](2004130849_atencion
 
 - [Index](_2003101705_index.md)
 - [Atención a reviews en productos de búsqueda y de experiencia](2004130849_atencion_reviews_segun_producto_busqueda.md)
+- [El funcionamiento de la publicidad SEM en Google](005190530_elalgoritmoanunciones_google.md)
 - [Atención a los anuncios en Facebook según el nivel de amistad](2004180843_atencion_anuncios_facebook_segunamistad.md)
 - [El efecto de la complejidad y el contraste en complejidad en la atención](2004011126_visual_contrast_complexity_web_experience.md)
 - [La atención a las fotos en productos de experiencia](2003210809_atencionfotos_productosexperiencia.md)
