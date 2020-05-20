@@ -32,6 +32,7 @@ Según @kaplan2019_siri podemos distinguir tres etapas principales:
   - Applies AI to any area 
   - Able to solve problems in other areas instantaneously
   - Outperforms humans in all areas
+  
 e.g. Siri develops super-human capabilities such as solving complex mathematical problems instantaneously or writing a best seller in a heart (or clock) beat
 
 ## Notas relacionadas

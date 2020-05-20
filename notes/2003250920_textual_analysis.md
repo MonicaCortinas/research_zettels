@@ -14,7 +14,7 @@ El análisis textual es una familia de técnicas para analizar el contenido de t
 
 - Utilización del user generated content para el análisis de contenido en los propios textos:
   - Análisis de la valencia del contenido (positivo-negativo y otras emociones): por diccionarios (e.g. LIWC2015: @melumad2020_full) o por inteligencia artificial
-  - Análisis de tópicos: trata de detectar los principales temas tratados: e.g. @pantano2020_forecasting lo hacen con el software WordStat, @nguyen2019_hey hacen LDA para reviews de altavoces inteligentes en BestBuy
+  - Análisis de tópicos: trata de detectar los principales temas tratados: e.g. @pantano2020_forecasting lo hacen con el software WordStat, @nguyen2019_hey hacen LDA para reviews de altavoces inteligentes en BestBuy; @paschen2020_#buynothing lo hacen para las motivaciones de unirse al "día sin compras" en twitter.
   - Análisis cluster y análisis multidimensional: e.g. @pantano2020_forecasting lo hacen para identificar temas en las patentes
 
 
