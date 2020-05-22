@@ -24,4 +24,5 @@ Obtienen que los consumidores online o en los que combinan los canales online y 
 
 ### Referencias
 
-Valentini, S., Neslin, S. A., & Montaguti, E. (2020). Identifying omnichannel deal prone segments, their antecedents, and their consequences. Journal of Retailing. https://doi.org/10.1016/j.jretai.2020.01.003
+- Siebert, A., Gopaldas, A., & Lindridge, A. (2020). Customer Experience Journeys : Loyalty Loops Versus Involvement Spirals. Journal of Marketing, forthcomin. https://doi.org/10.1177/0022242920920262
+- Valentini, S., Neslin, S. A., & Montaguti, E. (2020). Identifying omnichannel deal prone segments, their antecedents, and their consequences. Journal of Retailing. https://doi.org/10.1016/j.jretai.2020.01.003
