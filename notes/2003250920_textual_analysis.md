@@ -9,18 +9,17 @@ modified: '2020-03-25T09:20:55.880Z'
 
 El análisis textual es una familia de técnicas para analizar el contenido de texto. Este tipo de análisis es cada vez más importante en marketing [@berger2020_uniting].
 
-
 - Utilización del user generated content para generar medidas cuantitativas de interés o relevancia de un determinado fenómeno: eg. análisis descriptivos de frecuencias: Tablas de frecuencias de los términos más habituales. e.g. @pantano2020_forecasting e.g. construcciones de variables indicadoras tipo dummy @pradhan2018_accesibility
 
 - Utilización del user generated content para el análisis de contenido en los propios textos:
-  - Análisis de la valencia del contenido (positivo-negativo y otras emociones): por diccionarios (e.g. LIWC2015: @melumad2020_full) o por inteligencia artificial
-  - Análisis de tópicos: trata de detectar los principales temas tratados: e.g. @pantano2020_forecasting lo hacen con el software WordStat, @nguyen2019_hey hacen LDA para reviews de altavoces inteligentes en BestBuy; @paschen2020_#buynothing lo hacen para las motivaciones de unirse al "día sin compras" en twitter.
+  - Análisis de la valencia del contenido (positivo-negativo y otras emociones): por diccionarios (e.g. LIWC2015: @melumad2020_full, @jia-jhou2020_exploring) o por inteligencia artificial
+  - Análisis de tópicos: trata de detectar los principales temas tratados: e.g. @pantano2020_forecasting lo hacen con el software WordStat, @nguyen2019_hey hacen LDA para reviews de altavoces inteligentes en BestBuy; @paschen2020_#buynothing lo hacen para las motivaciones de unirse al "día sin compras" en twitter, @jia-jhou2020_exploring para los temas destacados en los posts online sobre sitios de comercio electrónico.
   - Análisis cluster y análisis multidimensional: e.g. @pantano2020_forecasting lo hacen para identificar temas en las patentes
 
 En número especial en el European Journal of Marketing, @kietzmann2020_computerized, se clasifican los métodos en:
 
 - anotado manual: e.g. @paschen2020_#buynothing
-- "computer aided": implican el uso de diccionarios como LIWC e.g. @melumad2020_full
+- "computer aided": implican el uso de diccionarios como LIWC e.g. @melumad2020_full @jia-jhou2020_exploring
 - usando machine learning o inteligencia artificial como IBM Watson, e.g. @lee2020_making lo hacen para discursos de liderazgo
 
 En ese número especial hay ejemplos como el análisis de sinopsis de películas y su congruencia con el tema para predecir la taquilla [@hung2020_winning], análisis de reportes anuales de empresas e inversión en marketing [@mishra2020_financial] o críticas de albums musicales [@corciolani2020_do]
@@ -31,6 +30,7 @@ En ese número especial hay ejemplos como el análisis de sinopsis de películas
 - [Análisis de patentes sobre chatbots en los últimos 20 años](2003250911_analisistextopatentesparachatbots.md)
 - [Análisis de reviews de Amazon](2004280743_analisis_reviews_amazon.md)
 - [Análisis de datos de Twitter](2004280804_analisis_twitter_data.md)
+- [Análisis de datos de foros](2005251932_elusodeforosparaanalisismarketing.md)
 - [Los métodos set theoretic](2003212003_set_theoretic_methods.md)
 - [Eye-tracking: muestras y metodología](2003230740_muestras_eyetracking.md)
 --
@@ -40,6 +40,7 @@ Referencias
 - Berger, J., Humphreys, A., Ludwig, S., Moe, W. W., Netzer, O., & Schweidel, D. A. (2020). Uniting the Tribes: Using Text for Marketing Insight. Journal of Marketing, 002224291987310. https://doi.org/10.1177/0022242919873106
 - Corciolani, M., Grayson, K., & Humphreys, A. (2020). Do more experienced critics review differently? : How field-specific cultural capital influences the judgments of cultural intermediaries. In European Journal of Marketing (Vol. 54). https://doi.org/10.1108/EJM-01-2019-0095
 - Hung, Y. C., & Guan, C. (2020). Winning box office with the right movie synopsis. European Journal of Marketing, 54(3), 594–614. https://doi.org/10.1108/EJM-01-2019-0096
+- Jia-Jhou Wu;Sue-Ting Chang. (2020). Exploring customer sentiment regarding online retail services: A topic-based approach. Journal of Retailing and Consumer Services, 55(August 2019), 102145. https://doi.org/10.1016/j.jretconser.2020.102145
 - Kietzmann, J., & Pitt, L. F. (2020). Computerized content analysis of online data – opportunities for marketing scholars and practitioners. European Journal of Marketing, 54(3), 473–477. https://doi.org/10.1108/EJM-01-2020-0007
 - Lee, L. W., Dabirian, A., McCarthy, I. P., & Kietzmann, J. (2020). Making sense of text: artificial intelligence-enabled content analysis. European Journal of Marketing, 54(3), 615–644. https://doi.org/10.1108/EJM-02-2019-0219
 - Melumad, S., & Meyer, R. (2020). Full Disclosure: How Smartphones Enhance Consumer Self-Disclosure. Journal of Marketing, 84(3), 28–45. https://doi.org/10.1177/0022242920912732

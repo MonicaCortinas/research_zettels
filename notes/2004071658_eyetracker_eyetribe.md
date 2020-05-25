@@ -17,6 +17,7 @@ También se usa en [@yangandul2018_howmany](2004201836_atencioncaratula_video_vs
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [Los eyetrackers móviles](2005251918_eyetrackers_moviles_gafas.md)
 - [Atención a las miniaturas de youtube con EyeTribe](2004201836_atencioncaratula_video_vs_titulo.md)
 - [Las fijaciones como medida en eye tracking](2003230748_medidaseyetracking_fijaciones.md)
 - [Muestras en eyetracking](2003230740_muestras_eyetracking.md)

@@ -15,7 +15,7 @@ Según @adaval2018_seeing, la percepción del color se enmarca más dentro de la
 
 - La percepción del color depende de los supuestos que hagamos sobre el entorno y por eso el famoso vestido se ve como azul y negro o blanco y dorado.
 
-- Presentar un anuncio en color o en blanco y negro tiene consecuencias distintas dependiendo del interés previo de la persona. Si la persona ya estaba interesada en el anuncio tiene poco efecto.
+- Presentar un anuncio en color o en blanco y negro tiene consecuencias distintas dependiendo del interés previo de la persona. Si la persona ya estaba interesada en el anuncio tiene poco efecto. También @stillman2020_examining muestran con resonancia magnética cómo **imaginar en color o en blanco y negro tiene efectos distintos**.
 
 - Presentar un producto en color puede aumentar la preferencia por los atributos estéticos del producto frente a atributos más funcionales como el precio o las prestaciones.
 
@@ -39,9 +39,12 @@ Notas relacionadas:
 - [Efectos de los logos](2003161230_percepcion_logo.md)
 - [Efectos de elementos estéticos](2003161237_percepcion_estetica.md)
 - [Efectos texto-imagen](2003161247_percepcion_textoimagen.md)
+- [Métodos de neuromarketing](2005150856_metodosneuromarketing.md)
+
 
 --
 
 Referencias:
 
-Adaval, R., Saluja, G., & Jiang, Y. (2018). Seeing and thinking in pictures: A review of visual information processing. Consumer Psychology Review, (November 2018), 50–69. https://doi.org/10.1002/arcp.1049
+- Adaval, R., Saluja, G., & Jiang, Y. (2018). Seeing and thinking in pictures: A review of visual information processing. Consumer Psychology Review, (November 2018), 50–69. https://doi.org/10.1002/arcp.1049
+- Stillman, P., Lee, H., Deng, X., Unnava, H. R., & Fujita, K. (2020). Examining consumers’ sensory experiences with color: A consumer neuroscience approach. Psychology & Marketing, mar.21360. h

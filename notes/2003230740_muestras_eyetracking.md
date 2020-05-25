@@ -7,7 +7,7 @@ modified: '2020-03-22T07:40:00.275Z'
 
 # El tamaño y la composición de la muestra en eye tracking
 
-EL tamaño de la muestra en eye tracking suele ser pequeño, y las muestras de conveniencia. Esto es así porque, aunque el número de individuos sea pequño, las medidas de cada uno son muchas, por lo que los datos tienen fiabilidad.
+EL tamaño de la muestra en eye tracking suele ser pequeño, y las muestras de conveniencia. Esto es así porque, aunque el número de individuos sea pequeño, las medidas de cada uno son muchas, por lo que los datos tienen fiabilidad.
 
 Por ejemplo:
 - @guo2016_can utilizan 26 estudiantes chinos
@@ -30,6 +30,7 @@ Otras sin embargo, utilizan muestras mayores:
 
 - [Index](_2003101705_index.md)
 - [Los métodos de neuromarketing](2005150856_metodosneuromarketing.md)
+- [Los eyetrackers móviles](2005251918_eyetrackers_moviles_gafas.md)
 - [Las fijaciones como medida en eye tracking](2003230748_medidaseyetracking_fijaciones.md)
 - [El tamaño de la pupila como medida en eyetracking](2003230803_pupilacomomedidadeatencion.md)
 - [El eyetracker Eyetribe](2004071658_eyetracker_eyetribe.md)

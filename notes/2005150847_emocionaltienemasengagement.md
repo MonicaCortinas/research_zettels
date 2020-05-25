@@ -16,6 +16,8 @@ Los resultados muestran que:
 
 ## Notas relacionadas
 
+
+- [Index](_2003101705_index.md)
 - Engagement: [El engagement del consumidor afecta positivamente al valor de marca](2003170754_engagement_brandequity.md)
 - [La gamificación afecta positivamente al engagement](2003170736_gamificacion_engagement.md)
 - [La motivación aumenta el engagement](2003101738_motivacion_memoriatrabajo.md)

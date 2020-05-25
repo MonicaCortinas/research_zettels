@@ -37,6 +37,7 @@ Como conclusión, argumentan que esta es una nueva manera de generar lealtad, qu
 - [Omnicanalidad y propensión a la promoción](2003251146_omnicanalidadypropension_promocion.md)
 - [Las aplicaciones de la inteligencia virtual en retailing](2005021646_aplicacionesIA_probadoresvirtuales.md)
 - VAPAs, nota inicial: [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
+- [Eye tracking para medir m-customer journey](2005251918_eyetrackers_moviles_gafas.md)
 
 --
 
