@@ -33,6 +33,7 @@ Como conclusión, argumentan que esta es una nueva manera de generar lealtad, qu
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
+- [Ejemplo de la compra del futuro](2005290537_ejemplo_comprafuturo.md)
 - [Omnicanalidad, promociones y lealtad](2003251201_omnicanalidadylealtad.md)
 - [Omnicanalidad y propensión a la promoción](2003251146_omnicanalidadypropension_promocion.md)
 - [Las aplicaciones de la inteligencia virtual en retailing](2005021646_aplicacionesIA_probadoresvirtuales.md)

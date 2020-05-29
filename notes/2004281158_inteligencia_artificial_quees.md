@@ -35,19 +35,23 @@ Según @kaplan2019_siri podemos distinguir tres etapas principales:
   
 e.g. Siri develops super-human capabilities such as solving complex mathematical problems instantaneously or writing a best seller in a heart (or clock) beat
 
+La inteligencia artificial se incluye en muchos tipos de tecnologías. Por ejemplo, @hoyer2020_transforming incluyen tres con impacto en retailing:
+
+- IoT
+- Virtual/augmente/mixed reality
+- Virtual agentes/robots/vapas
+
 ## Notas relacionadas
 
 - [Index](_2003101705_index.md)
-
 - [Inteligencia Artificial, aplicaciones, probadores virtuales](2005021646_aplicacionesIA_probadoresvirtuales.md)
-
 - Chatbots, nota inicial: [Chatbots: Antropomorfismo y Presencia Social](2003241127_chatbotsycustomercompliance.md)
-
 - VAPAs, nota inicial: [Los nombres para los asistentes virtuales](2004030718_nombresasistentesvirtuales.md)
-
+- [El Internet of Things: Qué es](2005290553_internetofthings_que_es.md)
 - [Innovaciones radicales y mejora humana](2005021709_radical_innovation_human_enhacements.md)
 --
 
 References
 
-- Kaplan, A., & Haenlein, M. (2019). Siri, Siri, in my hand: Who’s the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence. Business Horizons, 
+- Kaplan, A., & Haenlein, M. (2019). Siri, Siri, in my hand: Who’s the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence. Business Horizons
+- Hoyer, W. D., Kroschke, M., Schmitt, B., & Kraume, K. (2020). Transforming the Customer Experience Through New Technologies. Journal of Interactive Marketing. https://doi.org/10.1016/j.intmar.2020.04.001

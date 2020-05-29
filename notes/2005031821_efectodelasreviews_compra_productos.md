@@ -39,8 +39,8 @@ Otro efecto distinto es el de los productos sugeridos ("otros consumidores compr
 - la conversión para los que han visto el producto un 21%
 - los ratios finales de conversión un 7.5%
 
-Este aumento es condicional en el tipo de producto, mayor para productos **utilitarios**
- versus hedónicos y para **productos de experiencia** frente a **productos de búsqueda**.
+Este aumento es condicional en el tipo de producto, mayor para productos **utilitarios**  versus hedónicos y para **productos de experiencia** frente a **productos de búsqueda**.
+
 
  
 
@@ -51,6 +51,7 @@ Este aumento es condicional en el tipo de producto, mayor para productos **utili
 - [Algunos clientes escriben reviews falsas](2005101848_reviewsfalsasprodyctos.md)
 - [El efecto de las reviews según el tipo de producto](2004130849_atencion_reviews_segun_producto_busqueda.md)
 - [Cómo interpretar mejor los efectos interacción en una regresión](2005031837_como_explicar_efectos_interaccion.md)
+- [La interacción tactil aumenta el engagement y modifica las reviews](2004051647_effect_voice_interactions.md)
 
 --
 
