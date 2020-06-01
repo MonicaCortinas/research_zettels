@@ -1,8 +1,6 @@
 ---
-tags: [education, engagement, interest, learning, motivation, Notebooks/education, Notebooks/motivation, workingmemory, chatbot]
+tags: [ #education #engagement #interest #learning #motivation #workingmemory #chatbot]
 title: 2003141156_mobiledevices - > learning
-created: '2020-03-14T05:51:00.275Z'
-modified: '2020-03-14T05:51:00.275Z'
 ---
 
 # El uso de dispositivos móviles como herramienta experimental puede aumentar el interés por la actividad y el aprendizaje conseguido.
@@ -21,7 +19,7 @@ Notas relacionadas:
 
 
 - [Index](_2003101705_index.md)
-- [La tutorización interactiva como la herramienta del futuro](2003101700_aprendizaje_interactivo_educacion_futuro.md)
+- La tutorización interactiva como la herramienta del futuro [[2003101700_aprendizaje_interactivo_educacion_futuro]]
 
 --
 

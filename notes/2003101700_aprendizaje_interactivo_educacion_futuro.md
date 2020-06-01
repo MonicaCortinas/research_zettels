@@ -1,8 +1,6 @@
 ---
-tags: [artificialintelligence, chatbot, education, Notebooks/artificialintelligence, Notebooks/education]
+tags: [ #artificialintelligence #chatbot #education ]
 title: 2003101700_aprendizaje_interactivo_educacion_futuro
-created: '2020-03-10T16:00:55.880Z'
-modified: '2020-03-14T05:50:42.513Z'
 ---
 
 # La importancia del aprendizaje altamente interactivo en la educación del futuro
@@ -16,7 +14,7 @@ Los chatbots son una tecnología que permite la implementación de este paradigm
 
 
 - [Index](_2003101705_index.md)
-- [Usar dispositivos móviles en el desarrollo de experimentos docentes mejora el interés y el resultado de aprendizaje](2003141156_mobiledevices_learning_education.md)
+- Usar dispositivos móviles en el desarrollo de experimentos docentes mejora el interés y el resultado de aprendizaje [[2003141156_mobiledevices_learning_education]]
 
 --
 

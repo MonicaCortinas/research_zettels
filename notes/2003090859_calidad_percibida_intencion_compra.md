@@ -1,8 +1,6 @@
 ---
-tags: [Notebooks/perceivedquality, Notebooks/purchaseintention, perceivedquality, purchaseintention]
 title: 2003090859 Calidad Percibida -> Intención Compra
-created: '2020-03-09T17:38:09.386Z'
-modified: '2020-03-14T05:49:49.070Z'
+tags: [ #perceivedquality, #purchaseintention ]
 ---
 
 # La calidad percibida de un producto influye en la intención de compra de un producto
@@ -19,13 +17,13 @@ La calidad percibida se relaciona también a nivel agregado con la cuota de merc
 
 #### Notas relacionadas: 
 
-- [Index](_2003101705_index.md)
+- Index: [[_2003101705_index]]
 
-- La relación calidad percibida, intención de compra está mediada por la conciencia de valor: [conciencia de valor](2003091917_concienciavalor_modera_calidad_intencion.md)
+- La relación calidad percibida, intención de compra está mediada por la conciencia de valor:  [[2003091917_concienciavalor_modera_calidad_intencion]]
 
-- Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [extrinsic cues](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
+- Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [[2003090922_extrinsicues_calidadpercibida_marcablanca]]
 
-- [La calidad percibida aumenta cuando se percibe más presión de tiempo](2003291731_escasezdetiempoaumentaatencion.md)
+- La calidad percibida aumenta cuando se percibe más presión de tiempo: [[2003291731_escasezdetiempoaumentaatencion]]
 
 --
 # Referencias

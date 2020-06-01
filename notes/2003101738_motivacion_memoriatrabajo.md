@@ -1,8 +1,6 @@
 ---
-tags: [education, Notebooks/engagement, motivation, Notebooks/education, Notebooks/motivation, workingmemory]
+tags: [ #education #motivation #workingmemory]
 title: 2003101738_motivacion - > memoriatrabajo
-created: '2020-03-10T16:38:25.580Z'
-modified: '2020-03-14T05:51:00.275Z'
 ---
 
 # La motivación aumenta el engagement
@@ -27,15 +25,14 @@ Las dimensiones de engagament son participación consciente, entusiasmo e intera
 
 
 
-Notas relacionadas:
-
+## Notas relacionadas:
 
 - [Index](_2003101705_index.md)
-- [El engamement afecta positivamente al capital de marca](2003170754_engagement_brandequity.md)
-- [La carga cognitiva afecta a la actitud hacia el sitio web](2003210840_medicion_efectos_cargacognitiva.md)
-- [Percepción de textos e imágenes](2003161247_percepcion_textoimagen.md)
-- [Resultados de la atención](2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo.md)
-- [El contenido emocional genera más engagement que el racional](2005150847_emocionaltienemasengagement.md)
+- El engamement afecta positivamente al capital de marca [[2003170754_engagement_brandequity]]
+- La carga cognitiva afecta a la actitud hacia el sitio web [[2003210840_medicion_efectos_cargacognitiva]]
+- Percepción de textos e imágenes: [[2003161247_percepcion_textoimagen]]
+- Resultados de la atención [[2003281707_mayor_atencion_no_necesariamente_mayor_recuerdo]]
+- El contenido emocional genera más engagement que el racional [[2005150847_emocionaltienemasengagement]]
 
 --
 

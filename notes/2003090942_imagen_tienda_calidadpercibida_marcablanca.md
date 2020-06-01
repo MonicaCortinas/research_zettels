@@ -1,8 +1,6 @@
 ---
-tags: [Notebooks/perceivedquality, perceivedquality, storeimage]
+tags: [ #perceivedquality #storeimage]
 title: 2003090942_imagen_tienda_calidadpercibida_marcablanca
-created: '2020-03-09T17:38:09.464Z'
-modified: '2020-03-14T05:50:07.758Z'
 ---
 
 # La imagen global de un establecimiento afecta positivamente a la calidad percibida de su marca blanca
@@ -16,10 +14,10 @@ Preguntas ¿esto solo afecta a las marcas blancas o también a las marcas nacion
 
 #### Notas relacionadas: 
 
-- [la calidad percibida afecta a la intención de compra](2003090859_calidad_percibida_intencion_compra.md)
-- [las señales extrínsecas como señales de calidad](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
-- [la adecuación de la categoría al establecimiento como extrinsic cue de la calidad de la marca blanca](2003091906_adecuacion_categoria_calidadpercibida_marcablanca)
-- [la variabilidad de calidad entre categorías como extrinsic cue en la calidad de la marca blanca](2003091913_variabilidad_calidad_calidadpercibida_marcablanca.md)
+- la calidad percibida afecta a la intención de compra: [[2003090859_calidad_percibida_intencion_compra]]
+- las señales extrínsecas como señales de calidad: [[2003090922_extrinsicues_calidadpercibida_marcablanca]]
+- la adecuación de la categoría al establecimiento como extrinsic cue de la calidad de la marca blanca: [[2003091906_adecuacion_categoria_calidadpercibida_marcablanca]]
+- la variabilidad de calidad entre categorías como extrinsic cue en la calidad de la marca blanca: [[2003091913_variabilidad_calidad_calidadpercibida_marcablanca]]
 
 
 - [Index](_2003101705_index.md)

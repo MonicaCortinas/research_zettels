@@ -1,8 +1,6 @@
 ---
-tags: [Notebooks/perceivedquality, Notebooks/purchaseintention, perceivedquality, purchaseintention, valueconciusness]
+tags: [ #perceivedquality #purchaseintention #valueconciusness]
 title: 2003091917_concienciavalor_modera_calidad_intencion
-created: '2020-03-09T18:17:37.075Z'
-modified: '2020-03-14T05:50:25.937Z'
 ---
 
 # La importancia que se le da al valor (conciencia de valor), afecta positivamente reforzando la relación calidad percibida-intención de compra
@@ -17,11 +15,11 @@ La conciencia de valor también reduce el efecto que tienen los [cambios en el r
 
 #### Notas relacionadas: 
 
-- La relación entre calidad percibida e intención de compra: [relación calidad e intención](2003090859_calidad_percibida_intencion_compra.md)
+- La relación entre calidad percibida e intención de compra: relación calidad e intención [[2003090859_calidad_percibida_intencion_compra]]
 
-- Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: [extrinsic cues](2003090922_extrinsicues_calidadpercibida_marcablanca.md)
+- Los consumidores infieren la calidad percibida por pistas intrínsecas y extrínsecas: extrinsic cues: [[2003090922_extrinsicues_calidadpercibida_marcablanca]]
 
-- [La atención a la información sobre el precio unitario depende de la conciencia de valor](2003251015_atencion_precio_unitario_eyetracking.md)
+- La atención a la información sobre el precio unitario depende de la conciencia de valor: [[2003251015_atencion_precio_unitario_eyetracking]]
 
 - [Index](_2003101705_index.md)
 

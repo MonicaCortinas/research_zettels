@@ -1,8 +1,6 @@
 ---
-tags: [extrinsiccues, Notebooks/perceivedquality, perceivedquality, privatelabel]
+tags: [ #extrinsiccues #perceivedquality #privatelabel]
 title: 2003090922 Extrinsic Cues -> Perceived quality (private labels)
-created: '2020-03-09T17:38:09.464Z'
-modified: '2020-03-14T05:50:00.002Z'
 ---
 
 # Las señales intangibles extrínsecas son útiles para mejorar la calidad percibida de los productos de marca blanca
@@ -24,11 +22,11 @@ Señales intangibles son la **imagen de la tienda** o lo adecuada que es la marc
 #### Notas relacionadas: 
 
 
-- [Index](_2003101705_index.md)
-- [la calidad percibida afecta a la intención de compra](2003090859_calidad_percibida_intencion_compra.md)
-- [la imagen de la tienda como extrinsic cue de la calidad de la marca blanca](2003090942_imagen_tienda_calidadpercibida_marcablanca.md)
-- [la adecuación de la categoría al establecimiento como extrinsic cue de la calidad de la marca blanca](2003091906_adecuacion_categoria_calidadpercibida_marcablanca.md)
-- [la variabilidad de calidad entre categorías como extrinsic cue en la calidad de la marca blanca](2003091913_variabilidad_calidad_calidadpercibida_marcablanca.md)
+- Index: [[_2003101705_index.md]]
+- la calidad percibida afecta a la intención de compra: [[2003090859_calidad_percibida_intencion_compra]]
+- la imagen de la tienda como extrinsic cue de la calidad de la marca blanc: [[2003090942_imagen_tienda_calidadpercibida_marcablanca]]
+- la adecuación de la categoría al establecimiento como extrinsic cue de la calidad de la marca blanca: [[2003091906_adecuacion_categoria_calidadpercibida_marcablanca]]
+- [a variabilidad de calidad entre categorías como extrinsic cue en la calidad de la marca blanca: [[2003091913_variabilidad_calidad_calidadpercibida_marcablanca]]
 
 
 

@@ -1,0 +1,46 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "5d2fe86e2b7408a7",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "f79211d12c23c809",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2005290553_internetofthings_que_es.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "2005290553_internetofthings_que_es.md",
+    "2003161101_teoria_constructivista_percepcion.md",
+    "2003090922_extrinsicues_calidadpercibida_marcablanca.md",
+    "2003090859_calidad_percibida_intencion_compra.md",
+    "2003280911_cobertura_solucionsuficiente.md"
+  ],
+  "lastOpenRightSidedockTab": "Backlinks"
+}
